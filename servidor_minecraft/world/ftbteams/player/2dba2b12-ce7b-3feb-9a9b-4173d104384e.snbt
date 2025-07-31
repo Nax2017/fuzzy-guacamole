@@ -1,0 +1,17 @@
+{
+	id: "2dba2b12-ce7b-3feb-9a9b-4173d104384e"
+	type: "player"
+	player_name: "Nax_1905"
+	ranks: {
+		2dba2b12-ce7b-3feb-9a9b-4173d104384e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Nax_1905"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFC259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

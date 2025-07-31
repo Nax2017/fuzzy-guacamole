@@ -1,0 +1,17 @@
+{
+	id: "a32a5300-03f3-3b20-b80b-e26352dc17aa"
+	type: "player"
+	player_name: "ezefzc"
+	ranks: {
+		a32a5300-03f3-3b20-b80b-e26352dc17aa: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ezefzc"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FA59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

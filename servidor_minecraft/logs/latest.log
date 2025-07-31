@@ -2736,3 +2736,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [22:33:13] [Server thread/INFO]: Nax_1905 has made the advancement [Barrel Booty]
+[22:34:09] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=119, y=66, z=-536}
+[22:34:09] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=119, y=66, z=-536}
+[22:34:10] [Server thread/INFO]: Nax_1905 has made the advancement [Fruits of the Field]
+[22:37:51] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_christmas], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa_fortified], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna_na], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains]] from pos class_2338{x=341, y=67, z=-235}
+[22:37:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3235ms or 64 ticks behind
+[22:38:01] [Worker-Main-2/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[22:38:01] [Worker-Main-2/WARN]: Non-existent template pool reference: ctov:village/waystone/normal
+[22:38:01] [Worker-Main-2/WARN]: Non-existent template pool reference: ctov:village/bounty/plains
+[22:38:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6985ms or 139 ticks behind
+[22:38:46] [Server thread/INFO]: Nax_1905 has made the advancement [Sky of Beginning]

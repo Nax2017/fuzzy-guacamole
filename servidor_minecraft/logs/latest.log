@@ -2205,3 +2205,46 @@ io.netty.handler.timeout.ReadTimeoutException: null
 io.netty.handler.timeout.ReadTimeoutException: null
 [18:56:38] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[18:59:35] [User Authenticator #4/INFO]: UUID of player Nax_1905 is 8f6f72cb-0612-4d1c-8d40-a0f76c3f5db2
+[18:59:36] [Server thread/INFO]: [Handshake] Sending channel query
+[18:59:36] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[18:59:36] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[18:59:36] [Server thread/INFO]: Nax_1905[/127.252.72.59:33525] logged in with entity id 824 at (10.056824977352871, 71.0, 75.4600234628717)
+[18:59:36] [Server thread/INFO]: Sending server config values to client
+[18:59:37] [Server thread/INFO]: Syncing config to Nax_1905 (8f6f72cb-0612-4d1c-8d40-a0f76c3f5db2)
+[18:59:37] [Server thread/INFO]: Loading config from file...
+[18:59:37] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[18:59:37] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:59:37] [Server thread/INFO]: Nax_1905 joined the game
+[18:59:37] [Server thread/INFO]: Loading Configs for Sortilege
+[18:59:37] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[18:59:37] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[18:59:37] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[18:59:37] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[18:59:37] [Server thread/INFO]: Updating all forceload tickets for 8f6f72cb-0612-4d1c-8d40-a0f76c3f5db2
+[18:59:37] [Server thread/INFO]: PLAYER_JOIN
+[18:59:37] [Server thread/INFO]: add_player wand
+[18:59:37] [Server thread/INFO]: config sent
+[18:59:39] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[18:59:44] [Netty Epoll Server IO #2/INFO]: Channel update: Nax_1905 -> default
+[18:59:44] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Nax_1905. Claiming: GRAVE / Robbing: INVENTORY
+[18:59:49] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[19:00:19] [Server thread/INFO]: Nothing changed. The player already is an operator
+[19:00:31] [Server thread/INFO]: Made [nax_1905] no longer a server operator
+[19:01:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:01:01] [Server thread/INFO]: Op [nAOP [Nax_1905]<--[HERE]
+[19:01:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:01:12] [Server thread/INFO]: OP [Nax_1905]<--[HERE]
+[19:01:22] [Server thread/INFO]: Made [nax_1905] a server operator
+[19:01:56] [Server thread/INFO]: Nax_1905 has made the advancement [Monster Hunter]
+[19:03:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3143ms or 62 ticks behind
+[19:03:58] [Server thread/INFO]: Nax_1905 has made the advancement [Not Today, Thank You]
+[19:04:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[19:04:28] [Server thread/INFO]: Nax_1905 has made the advancement ['X' Marks the Spot]
+[19:04:38] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[19:06:27] [Server thread/INFO]: Nax_1905 has made the advancement [Isn't It Iron Pick]
+[19:06:33] [Server thread/INFO]: Nax_1905 has made the advancement [Suit Up]
+[19:06:34] [Server thread/INFO]: Nax_1905 has made the advancement [Acquire Hardware]
+[19:08:23] [Server thread/INFO]: Nax_1905 has made the advancement [Disme A Dozen]
+[19:08:32] [Server thread/INFO]: Nax_1905 has made the advancement [The Lighthouse]
+[19:09:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20050ms or 401 ticks behind

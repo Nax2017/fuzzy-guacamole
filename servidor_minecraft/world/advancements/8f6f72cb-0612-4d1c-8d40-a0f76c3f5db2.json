@@ -4522,6 +4522,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-31 22:19:11 +0000"
@@ -4594,6 +4600,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-07-31 23:08:24 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-31 22:55:18 +0000"
@@ -4651,6 +4663,12 @@
   "comforts:sleeping_bag_brown": {
     "criteria": {
       "has_brown_wool": "2025-07-31 22:22:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/zinc_plate": {
+    "criteria": {
+      "has_tag_c_zinc_ingots": "2025-07-31 23:06:20 +0000"
     },
     "done": true
   },
@@ -4719,6 +4737,12 @@
   "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
     "criteria": {
       "has_log": "2025-07-31 22:47:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
     },
     "done": true
   },
@@ -4932,6 +4956,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_void_bow": {
     "criteria": {
       "has_string": "2025-07-31 22:20:23 +0000"
@@ -4941,6 +4971,12 @@
   "travelersbackpack:recipes/misc/coal": {
     "criteria": {
       "has_coal": "2025-07-31 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
     },
     "done": true
   },
@@ -5240,6 +5276,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2025-07-31 23:08:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-07-31 22:53:09 +0000"
@@ -5255,6 +5297,12 @@
   "mcdw:recipes/crossbows/crossbow_dual": {
     "criteria": {
       "has_string": "2025-07-31 22:20:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
     },
     "done": true
   },
@@ -5323,6 +5371,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-31 22:55:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-07-31 23:06:20 +0000"
     },
     "done": true
   },
@@ -5404,6 +5458,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-07-31 23:06:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-31 22:41:39 +0000"
@@ -5467,6 +5527,12 @@
   "stoneworks:recipes/building_blocks/cracked_granite_tiles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-31 22:50:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
     },
     "done": true
   },
@@ -5692,6 +5758,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-07-31 23:06:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_silver_ores": {
     "criteria": {
       "has_tag_c_raw_silver_ores": "2025-07-31 22:57:30 +0000"
@@ -5833,6 +5905,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-07-31 22:19:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/zinc_dust": {
+    "criteria": {
+      "has_tag_c_zinc_ingots": "2025-07-31 23:06:20 +0000"
     },
     "done": true
   },
@@ -6013,6 +6091,12 @@
   "regions_unexplored:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-07-31 22:34:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
     },
     "done": true
   },
@@ -6313,6 +6397,12 @@
   "techreborn:recipes/centrifuge/raw_silver": {
     "criteria": {
       "has_raw_silver_ores": "2025-07-31 22:57:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-07-31 23:08:24 +0000"
     },
     "done": true
   },
@@ -6736,6 +6826,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-07-31 23:08:24 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_paver_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-31 22:19:11 +0000"
@@ -6839,6 +6935,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-07-31 22:56:52 +0000"
@@ -6938,6 +7040,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-07-31 22:34:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
     },
     "done": true
   },
@@ -7049,6 +7157,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-07-31 23:08:24 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/whips/whip_whip": {
     "criteria": {
       "has_string": "2025-07-31 22:20:23 +0000"
@@ -7079,6 +7193,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-07-31 23:06:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-31 22:50:31 +0000"
@@ -7097,6 +7217,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-31 22:55:18 +0000"
@@ -7106,6 +7232,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-07-31 22:21:39 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
     },
     "done": true
   },
@@ -7142,6 +7274,12 @@
   "stoneworks:recipes/building_blocks/andesite_plate_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-31 22:19:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sugar": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
     },
     "done": true
   },
@@ -7469,6 +7607,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2025-07-31 23:08:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-31 22:50:31 +0000"
@@ -7538,6 +7682,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-07-31 22:50:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
     },
     "done": true
   },
@@ -7631,6 +7781,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-07-31 23:08:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "has_string": "2025-07-31 22:20:23 +0000"
@@ -7646,6 +7802,12 @@
   "stoneworks:recipes/building_blocks/chiseled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-31 22:19:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
     },
     "done": true
   },
@@ -7691,9 +7853,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_granite_brick_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-31 22:50:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
     },
     "done": true
   },
@@ -7799,9 +7973,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-07-31 23:08:24 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_paver_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-31 22:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-31 23:08:24 +0000"
     },
     "done": true
   },
@@ -8075,9 +8261,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-07-31 23:06:20 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_drakkar": {
     "criteria": {
       "in_water": "2025-07-31 22:34:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly": {
+    "criteria": {
+      "has_sugar": "2025-07-31 23:10:21 +0000"
     },
     "done": true
   },
@@ -8138,6 +8336,12 @@
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
       "has_item": "2025-07-31 22:22:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-07-31 23:06:20 +0000"
     },
     "done": true
   },

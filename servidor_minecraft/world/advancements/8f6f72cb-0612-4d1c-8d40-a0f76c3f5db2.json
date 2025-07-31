@@ -4969,6 +4969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-31 23:24:17 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_void_bow": {
     "criteria": {
       "has_string": "2025-07-31 22:20:23 +0000"
@@ -5798,6 +5804,12 @@
   "mcdw:recipes/crossbows/crossbow_feral_soul": {
     "criteria": {
       "has_string": "2025-07-31 22:20:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-31 23:24:17 +0000"
     },
     "done": true
   },
@@ -6734,6 +6746,12 @@
   "techreborn:recipes/centrifuge/raw_tin": {
     "criteria": {
       "has_raw_tin_ores": "2025-07-31 22:49:46 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_mace": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-31 23:24:17 +0000"
     },
     "done": true
   },
@@ -8148,6 +8166,12 @@
     },
     "done": true
   },
+  "brewery:recipes/breathalyzer": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-31 23:24:17 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/blackwood_boat": {
     "criteria": {
       "in_water": "2025-07-31 22:34:05 +0000"
@@ -8337,6 +8361,12 @@
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2025-07-31 22:34:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-31 23:24:17 +0000"
     },
     "done": true
   },
@@ -8673,6 +8703,12 @@
   "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
     "criteria": {
       "has_item": "2025-07-31 22:38:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-31 23:24:17 +0000"
     },
     "done": true
   },

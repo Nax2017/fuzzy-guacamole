@@ -2746,3 +2746,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:38:01] [Worker-Main-2/WARN]: Non-existent template pool reference: ctov:village/bounty/plains
 [22:38:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6985ms or 139 ticks behind
 [22:38:46] [Server thread/INFO]: Nax_1905 has made the advancement [Sky of Beginning]
+[22:44:22] [Server thread/INFO]: Nax_1905 has made the advancement [A Seedy Place]
+[22:47:20] [Server thread/INFO]: Nax_1905 has made the advancement [Forbidden Fruit]

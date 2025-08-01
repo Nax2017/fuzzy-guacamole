@@ -9320,6 +9320,12 @@
     },
     "done": true
   },
+  "rpg_series:spell_novice_paladin": {
+    "criteria": {
+      "bind": "2025-08-01 04:12:52 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/turtle_armor_helmet": {
     "criteria": {
       "has_leather": "2025-08-01 03:30:23 +0000"

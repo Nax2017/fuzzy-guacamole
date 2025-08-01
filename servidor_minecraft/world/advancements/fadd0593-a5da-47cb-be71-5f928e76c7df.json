@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
+    "criteria": {
+      "has_ink_sac": "2025-08-01 04:11:15 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/spruce_table": {
     "criteria": {
       "has_bamboo": "2025-08-01 01:33:32 +0000"
@@ -1506,6 +1512,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-08-01 04:11:15 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/hydrogen_cell": {
     "criteria": {
       "has_hydrogen": "2025-08-01 01:25:01 +0000"
@@ -2094,6 +2106,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_helmet": {
+    "criteria": {
+      "has_ink_sac": "2025-08-01 04:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-08-01 02:28:12 +0000"
@@ -2181,6 +2199,12 @@
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-08-01 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-08-01 04:11:15 +0000"
     },
     "done": true
   },
@@ -2277,6 +2301,12 @@
   "mcda:recipes/base_armors/grim_armor_helmet": {
     "criteria": {
       "has_bone": "2025-08-01 01:28:38 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2025-08-01 04:07:01 +0000"
     },
     "done": true
   },
@@ -4702,6 +4732,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-08-01 04:11:15 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/copper_plate": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 01:41:00 +0000"
@@ -5098,6 +5134,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-08-01 04:11:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2025-08-01 01:33:32 +0000"
@@ -5257,6 +5299,12 @@
   "betternether:recipes/building_blocks/rubeus_bookshelf": {
     "criteria": {
       "has_book": "2025-08-01 04:01:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_ink_sac": "2025-08-01 04:11:15 +0000"
     },
     "done": true
   },
@@ -5559,6 +5607,12 @@
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-08-01 01:33:32 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-08-01 04:11:15 +0000"
     },
     "done": true
   },
@@ -8962,6 +9016,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-08-01 04:11:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-01 04:01:36 +0000"
@@ -9274,6 +9334,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 04:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-01 04:01:36 +0000"
@@ -9524,6 +9590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-01 04:11:15 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-08-01 01:25:00 +0000"
@@ -9666,6 +9738,12 @@
   "stoneworks:recipes/building_blocks/stone_paver_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-01 01:27:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_ink_sac": "2025-08-01 04:11:15 +0000"
     },
     "done": true
   },
@@ -10086,6 +10164,12 @@
   "soulsweapons:recipes/tools/boss_compass": {
     "criteria": {
       "has_item": "2025-08-01 03:54:57 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_warrior": {
+    "criteria": {
+      "book": "2025-08-01 04:09:52 +0000"
     },
     "done": true
   },

@@ -529,9 +529,11 @@
       "minecraft:snowy_slopes": "2025-08-01 02:24:03 +0000",
       "minecraft:frozen_river": "2025-07-31 19:04:08 +0000",
       "minecraft:snowy_plains": "2025-07-31 22:21:03 +0000",
+      "minecraft:stony_shore": "2025-08-01 03:50:46 +0000",
       "minecraft:snowy_taiga": "2025-07-31 19:01:39 +0000",
       "minecraft:grove": "2025-08-01 02:23:06 +0000",
       "minecraft:jagged_peaks": "2025-08-01 02:26:06 +0000",
+      "minecraft:cold_ocean": "2025-08-01 03:50:48 +0000",
       "minecraft:lush_caves": "2025-08-01 02:25:45 +0000",
       "minecraft:frozen_ocean": "2025-08-01 01:48:54 +0000",
       "minecraft:snowy_beach": "2025-07-31 19:03:54 +0000",
@@ -9425,6 +9427,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2025-08-01 03:44:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-01 03:11:36 +0000"
@@ -9785,6 +9793,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-01 03:50:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/copper_cable": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 01:43:15 +0000"
@@ -9979,7 +9993,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-08-01 02:11:29 +0000"
+      "in_better_zombie_dungeon": "2025-08-01 02:11:29 +0000",
+      "in_better_spider_dungeon": "2025-08-01 03:50:46 +0000"
     },
     "done": false
   },
@@ -10187,9 +10202,21 @@
     },
     "done": true
   },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-08-01 03:42:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-08-01 03:30:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 03:42:42 +0000"
     },
     "done": true
   },
@@ -10322,6 +10349,12 @@
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-08-01 03:42:14 +0000"
     },
     "done": true
   },

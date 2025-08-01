@@ -1,0 +1,17 @@
+{
+	id: "fadd0593-a5da-47cb-be71-5f928e76c7df"
+	type: "player"
+	player_name: "ElSantixdd"
+	ranks: {
+		fadd0593-a5da-47cb-be71-5f928e76c7df: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ElSantixdd"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF595F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "37318bc1-8bee-46dc-9480-34ec446352bc"
+	type: "player"
+	player_name: "ezefzc"
+	ranks: {
+		37318bc1-8bee-46dc-9480-34ec446352bc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ezefzc"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59CE"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -2700,3 +2700,23 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [01:41:29] [Server thread/INFO]: Nax_1905 has made the advancement [Stay dead]
 [01:41:39] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
 [01:41:40] [Server thread/INFO]: Nax_1905 has made the advancement [Source of Evil]
+[01:43:44] [Server thread/INFO]: ezefzc has made the advancement [Isn't It Iron Pick]
+[01:44:23] [Server thread/INFO]: ezefzc has made the advancement [Disme A Dozen]
+[01:44:53] [Server thread/INFO]: ElSantixdd has made the advancement [Amateur Archaeologist]
+[01:47:07] [Server thread/INFO]: ezefzc has made the advancement [Forbidden Fruit]
+[01:47:32] [Server thread/INFO]: ezefzc has made the advancement [Acquire Hardware]
+[01:47:36] [Server thread/INFO]: ezefzc has made the advancement [Close Quarters]
+[01:48:05] [Server thread/INFO]: ezefzc has made the advancement [Barrel Booty]
+[01:49:52] [Server thread/INFO]: ElSantixdd has made the advancement [Stone Age]
+[01:49:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:50:04] [Server thread/INFO]: Villager class_1646['Jesus'/13919, l='ServerLevel[world]', x=213.70, y=26.00, z=-477.70] died, message: 'Jesus was slain by Zombie'
+[01:50:04] [Server thread/INFO]: Named entity class_1646['Jesus'/13919, l='ServerLevel[world]', x=213.70, y=26.00, z=-477.70] died: Jesus was slain by Zombie
+[01:50:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[01:50:18] [Server thread/INFO]: ElSantixdd has made the advancement [Getting an Upgrade]
+[01:51:34] [Server thread/INFO]: ElSantixdd has made the advancement [Forbidden Fruit]
+[01:52:18] [Server thread/INFO]: ElSantixdd has made the advancement [Isn't It Iron Pick]
+[01:52:53] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2339{x=-31, y=-46, z=-766}
+[01:52:54] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2339{x=-31, y=-46, z=-766}
+[01:52:58] [Server thread/INFO]: ElSantixdd has made the advancement [Penteconter]
+[01:53:56] [Server thread/INFO]: [ezefzc: Teleported ezefzc to Nax_1905]
+[01:53:57] [Server thread/INFO]: ezefzc has made the advancement [Fruits of the Field]

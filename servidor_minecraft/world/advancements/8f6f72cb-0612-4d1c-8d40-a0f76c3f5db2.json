@@ -13318,6 +13318,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/lapis_smithing": {
+    "criteria": {
+      "has_lapis": "2025-08-01 17:54:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/red_maple_sapling_from_red_maple_shrub": {
     "criteria": {
       "has_red_maple_shrub": "2025-08-01 17:35:23 +0000"

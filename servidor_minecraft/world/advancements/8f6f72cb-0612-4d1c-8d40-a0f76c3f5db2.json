@@ -13348,6 +13348,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-08-01 18:35:45 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/phantom_armor_chestplate": {
     "criteria": {
       "has_phantom_bones": "2025-08-01 18:25:42 +0000"
@@ -13402,6 +13408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-01 18:35:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/spruce_pressure_plate_from_slab": {
     "criteria": {
       "has_spruce_slab": "2025-08-01 18:03:17 +0000"
@@ -13429,6 +13441,12 @@
   "animal_feeding_trough:recipes/decorations/feeding_trough": {
     "criteria": {
       "has_wood_slab": "2025-08-01 18:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-01 18:35:45 +0000"
     },
     "done": true
   },

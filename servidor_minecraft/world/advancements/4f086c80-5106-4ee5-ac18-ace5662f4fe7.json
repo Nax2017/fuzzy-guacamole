@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-08-01 04:17:26 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/bamboo_galley": {
     "criteria": {
       "in_water": "2025-08-01 04:07:28 +0000"
@@ -459,6 +465,12 @@
   "betterend:recipes/decorations/helix_tree_chair": {
     "criteria": {
       "has_stick": "2025-08-01 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_hunters_promise": {
+    "criteria": {
+      "has_feather": "2025-08-01 04:17:26 +0000"
     },
     "done": true
   },
@@ -1023,6 +1035,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-08-01 04:17:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_chair": {
     "criteria": {
       "has_stick": "2025-08-01 04:12:52 +0000"
@@ -1329,6 +1347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-01 04:17:27 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
     "criteria": {
       "has_log": "2025-08-01 04:15:50 +0000"
@@ -1587,6 +1611,12 @@
     },
     "done": true
   },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2025-08-01 04:19:00 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_drakkar": {
     "criteria": {
       "in_water": "2025-08-01 04:07:28 +0000"
@@ -1644,6 +1674,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-08-01 04:07:30 +0000",
+      "minecraft:snowy_plains": "2025-08-01 04:25:54 +0000",
+      "minecraft:snowy_beach": "2025-08-01 04:25:57 +0000",
       "minecraft:plains": "2025-08-01 04:05:38 +0000"
     },
     "done": false
@@ -1744,6 +1776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-01 04:17:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_chair": {
     "criteria": {
       "has_stick": "2025-08-01 04:12:52 +0000"
@@ -1834,6 +1872,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 04:17:27 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-08-01 04:07:28 +0000"
@@ -1882,6 +1926,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_feather": "2025-08-01 04:17:26 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/tinted_greenhouse_glass": {
     "criteria": {
       "has_glass": "2025-08-01 04:05:02 +0000"
@@ -1918,6 +1968,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-08-01 04:17:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/stalagnate_gate": {
     "criteria": {
       "has_stick": "2025-08-01 04:12:52 +0000"
@@ -1951,6 +2007,12 @@
   "frostiful:recipes/combat/armor/armored_ice_skates": {
     "criteria": {
       "has_fur_boots": "2025-08-01 04:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-01 04:17:27 +0000"
     },
     "done": true
   },
@@ -2453,6 +2515,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_meat": {
+    "criteria": {
+      "has_raw_meat": "2025-08-01 04:17:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wither_skeleton_trophy": {
     "criteria": {
       "has_wither_skeleton_trophy": "2025-08-01 04:12:42 +0000"
@@ -2842,6 +2910,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2025-08-01 04:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-01 04:17:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/apple": {
     "criteria": {
       "has_apple": "2025-08-01 04:15:50 +0000"
@@ -2875,6 +2955,12 @@
   "more_rpg_content:root": {
     "criteria": {
       "always": "2025-08-01 04:05:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-01 04:17:27 +0000"
     },
     "done": true
   },
@@ -3019,6 +3105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-08-01 04:17:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/titanium_ingot": {
     "criteria": {
       "has_titanium_dust": "2025-08-01 04:05:02 +0000"
@@ -3095,6 +3187,12 @@
   "bewitchment:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-08-01 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2025-08-01 04:17:27 +0000"
     },
     "done": true
   },
@@ -3239,6 +3337,12 @@
   "twigs:recipes/tables/birch_table": {
     "criteria": {
       "has_bamboo": "2025-08-01 04:12:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2025-08-01 04:17:27 +0000"
     },
     "done": true
   },

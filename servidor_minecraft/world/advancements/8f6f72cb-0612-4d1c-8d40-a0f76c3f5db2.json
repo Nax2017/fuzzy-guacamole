@@ -528,6 +528,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-08-01 02:24:03 +0000",
       "minecraft:frozen_river": "2025-07-31 19:04:08 +0000",
+      "minecraft:beach": "2025-08-01 04:17:53 +0000",
       "minecraft:snowy_plains": "2025-07-31 22:21:03 +0000",
       "minecraft:stony_shore": "2025-08-01 03:50:46 +0000",
       "minecraft:snowy_taiga": "2025-07-31 19:01:39 +0000",
@@ -6062,6 +6063,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-08-01 04:18:14 +0000",
       "autumnal_maple_forest": "2025-07-31 22:34:07 +0000",
       "ancient_delta": "2025-08-01 02:11:29 +0000",
       "frozen_tundra": "2025-07-31 22:33:56 +0000",
@@ -6073,6 +6075,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-08-01 04:18:14 +0000",
       "autumnal_maple_forest": "2025-07-31 22:34:07 +0000",
       "frozen_tundra": "2025-07-31 22:33:56 +0000",
       "cold_river": "2025-07-31 22:34:06 +0000",
@@ -9212,6 +9215,18 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/brazier": {
+    "criteria": {
+      "has_bar": "2025-08-01 04:20:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-01 04:24:09 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_stormlander": {
     "criteria": {
       "has_anvil": "2025-08-01 03:05:12 +0000"
@@ -9251,6 +9266,12 @@
   "betterend:recipes/misc/guide_book": {
     "criteria": {
       "has_book": "2025-08-01 04:02:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-01 04:24:09 +0000"
     },
     "done": true
   },
@@ -9464,6 +9485,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/drain": {
+    "criteria": {
+      "has_iron_bars": "2025-08-01 04:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-08-01 04:22:26 +0000"
+    },
+    "done": true
+  },
   "simplyswords:whisperwind": {
     "criteria": {
       "requirement": "2025-08-01 03:38:08 +0000"
@@ -9605,6 +9638,12 @@
   "stoneworks:recipes/building_blocks/calcite_pillar_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-01 03:57:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-08-01 04:20:38 +0000"
     },
     "done": true
   },
@@ -10010,6 +10049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-01 04:24:09 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2025-08-01 03:35:48 +0000"
@@ -10202,6 +10247,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-08-01 04:20:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
     "criteria": {
       "has_diamond_sword": "2025-08-01 02:13:44 +0000"
@@ -10358,6 +10409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-01 04:24:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
     "criteria": {
       "has_diamond_axe": "2025-08-01 02:56:43 +0000"
@@ -10454,6 +10511,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-08-01 04:20:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_shingle_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-01 03:57:47 +0000"
@@ -10520,6 +10583,12 @@
     },
     "done": true
   },
+  "beachparty:main/welcome_to_the_beach": {
+    "criteria": {
+      "enter_beach": "2025-08-01 04:17:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-01 03:57:47 +0000"
@@ -10583,6 +10652,12 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_horse_armor": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-08-01 04:22:05 +0000"
     },
     "done": true
   },
@@ -10682,6 +10757,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/orange_sapling": {
+    "criteria": {
+      "has_orange": "2025-08-01 04:17:00 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-08-01 04:02:29 +0000"
@@ -10742,6 +10823,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot": {
+    "criteria": {
+      "has_iron_bars": "2025-08-01 04:20:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/storage_block/copper_wall_stonecutting": {
     "criteria": {
       "has_copper": "2025-08-01 01:43:15 +0000"
@@ -10769,6 +10856,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-08-01 04:02:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-01 04:24:09 +0000"
     },
     "done": true
   },
@@ -10986,6 +11079,12 @@
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-08-01 01:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-08-01 04:22:26 +0000"
     },
     "done": true
   },
@@ -11271,6 +11370,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_horse_armor": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-08-01 04:22:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/storage_block/copper_wall": {
     "criteria": {
       "has_copper": "2025-08-01 01:43:15 +0000"
@@ -11478,6 +11583,12 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-01 03:59:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_juice": {
+    "criteria": {
+      "has_orange": "2025-08-01 04:17:00 +0000"
     },
     "done": true
   },

@@ -3873,3 +3873,15 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[03:27:09] [Server thread/INFO]: [EMI] Nax_1905 cheated in 1 potion
+[03:32:24] [Server thread/INFO]: <LeviXII> zzzzzzzzzzzzzzzzzzzzzz
+[03:32:26] [Server thread/INFO]: <ElSantixdd> duerman
+[03:32:27] [Server thread/INFO]: <ElSantixdd> hijos de puta
+[03:34:52] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 1362.500000, 11.500000, -248.500000]
+[03:34:57] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[03:35:19] [Server thread/INFO]: [LeviXII: Teleported LeviXII to ElSantixdd]
+[03:35:43] [Server thread/INFO]: LeviXII has made the advancement [Barrel Booty]
+[03:35:46] [Server thread/INFO]: LeviXII has made the advancement [The Beginning of An Adventure]
+[03:35:46] [Server thread/INFO]: LeviXII has made the advancement [Need A Map?]
+[03:36:06] [Server thread/INFO]: LeviXII has made the advancement [Create: Estrogen]
+[03:36:21] [Server thread/INFO]: ezefzc has made the advancement [Create: Estrogen]

@@ -2327,6 +2327,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_crossbow": {
+    "criteria": {
+      "has_crossbow": "2025-08-01 03:29:39 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2025-08-01 02:33:28 +0000"
@@ -3704,6 +3710,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-01 03:29:38 +0000",
       "minecraft:skeleton": "2025-08-01 02:33:27 +0000",
       "minecraft:spider": "2025-08-01 02:31:05 +0000",
       "minecraft:zombie": "2025-08-01 02:37:52 +0000"

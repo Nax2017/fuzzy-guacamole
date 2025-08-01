@@ -526,9 +526,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-08-01 02:24:03 +0000",
       "minecraft:frozen_river": "2025-07-31 19:04:08 +0000",
       "minecraft:snowy_plains": "2025-07-31 22:21:03 +0000",
       "minecraft:snowy_taiga": "2025-07-31 19:01:39 +0000",
+      "minecraft:grove": "2025-08-01 02:23:06 +0000",
+      "minecraft:jagged_peaks": "2025-08-01 02:26:06 +0000",
+      "minecraft:lush_caves": "2025-08-01 02:25:45 +0000",
       "minecraft:frozen_ocean": "2025-08-01 01:48:54 +0000",
       "minecraft:snowy_beach": "2025-07-31 19:03:54 +0000",
       "minecraft:plains": "2025-07-31 22:34:10 +0000"
@@ -9230,6 +9234,12 @@
     },
     "done": true
   },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2025-08-01 02:25:50 +0000"
+    },
+    "done": true
+  },
   "more_armor_trims:recipes/misc/nihility_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-08-01 02:14:04 +0000"
@@ -9287,6 +9297,12 @@
   "mcda:recipes/base_armors/teleportation_robe_chestplate": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2025-08-01 02:26:14 +0000"
     },
     "done": true
   },
@@ -9350,6 +9366,12 @@
     },
     "done": true
   },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2025-08-01 02:27:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/copper_cable": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 01:43:15 +0000"
@@ -9371,6 +9393,12 @@
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-08-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-08-01 02:25:50 +0000"
     },
     "done": true
   },
@@ -9410,6 +9438,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-08-01 02:25:50 +0000"
+    },
+    "done": true
+  },
   "immersive_melodies:misc/instruments": {
     "criteria": {
       "has_item": "2025-08-01 01:43:15 +0000"
@@ -9419,6 +9453,12 @@
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
     "criteria": {
       "has_diamond_shovel": "2025-08-01 02:13:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/golden_apple": {
+    "criteria": {
+      "has_golden_apple": "2025-08-01 02:26:14 +0000"
     },
     "done": true
   },
@@ -9452,6 +9492,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2025-08-01 02:26:14 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-08-01 02:11:29 +0000"
@@ -9461,6 +9507,12 @@
   "decorative_blocks:recipes/decorations/torch_from_chandelier": {
     "criteria": {
       "has_torch": "2025-08-01 02:03:35 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2025-08-01 02:26:14 +0000"
     },
     "done": true
   },

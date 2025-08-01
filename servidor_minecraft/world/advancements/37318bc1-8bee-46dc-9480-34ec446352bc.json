@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-08-01 02:23:18 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_cog": {
     "criteria": {
       "in_water": "2025-08-01 01:54:18 +0000"
@@ -399,6 +405,12 @@
   "smallships:recipes/transportation/birch_cog": {
     "criteria": {
       "in_water": "2025-08-01 01:54:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-08-01 02:23:18 +0000"
     },
     "done": true
   },
@@ -792,6 +804,12 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-08-01 02:23:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/hydrogen_cell": {
     "criteria": {
       "has_hydrogen": "2025-08-01 01:25:13 +0000"
@@ -1178,8 +1196,12 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-08-01 02:21:50 +0000",
       "autumnal_maple_forest": "2025-08-01 01:54:20 +0000",
-      "cold_river": "2025-08-01 02:08:54 +0000"
+      "poppy_fields": "2025-08-01 02:22:46 +0000",
+      "cold_river": "2025-08-01 02:08:54 +0000",
+      "pumpkin_fields": "2025-08-01 02:25:47 +0000",
+      "gravel_beach": "2025-08-01 02:25:30 +0000"
     },
     "done": false
   },
@@ -1349,8 +1371,12 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-08-01 02:21:50 +0000",
       "autumnal_maple_forest": "2025-08-01 01:54:20 +0000",
-      "cold_river": "2025-08-01 02:08:54 +0000"
+      "poppy_fields": "2025-08-01 02:22:46 +0000",
+      "cold_river": "2025-08-01 02:08:54 +0000",
+      "pumpkin_fields": "2025-08-01 02:25:47 +0000",
+      "gravel_beach": "2025-08-01 02:25:30 +0000"
     },
     "done": false
   },
@@ -1976,6 +2002,12 @@
   "betterend:recipes/decorations/pythadendron_ladder": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-08-01 02:23:18 +0000"
     },
     "done": true
   },
@@ -2940,6 +2972,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-08-01 01:37:06 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "double_flower": "2025-08-01 02:22:52 +0000"
     },
     "done": true
   },
@@ -5165,6 +5203,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_yellow_double": {
+    "criteria": {
+      "has_item": "2025-08-01 02:22:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/potato": {
     "criteria": {
       "has_potato": "2025-08-01 02:11:19 +0000"
@@ -5180,6 +5224,12 @@
   "smallships:recipes/transportation/spruce_drakkar": {
     "criteria": {
       "in_water": "2025-08-01 01:54:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/yellow_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-08-01 02:23:18 +0000"
     },
     "done": true
   },
@@ -5700,6 +5750,12 @@
   "mcda:recipes/crafting_items/bone_rib_cage": {
     "criteria": {
       "has_bone": "2025-08-01 02:10:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_yellow": {
+    "criteria": {
+      "has_item": "2025-08-01 02:23:18 +0000"
     },
     "done": true
   },

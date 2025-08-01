@@ -3808,3 +3808,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [20:17:32] [Server thread/INFO]: LuliKaiserin has made the advancement ['X' Marks the Spot]
 [20:29:38] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-251, y=-26, z=-1312}
 [20:39:41] [Server thread/INFO]: <LuliKaiserin> a dormirrr
+[20:49:10] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null

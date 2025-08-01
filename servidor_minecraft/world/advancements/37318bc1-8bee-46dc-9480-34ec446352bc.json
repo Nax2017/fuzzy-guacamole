@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/virus_necrodermal": {
+    "criteria": {
+      "has_alt_item": "2025-08-01 02:44:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/blade_pottery_sherd": {
     "criteria": {
       "has_iron_sword": "2025-08-01 01:46:57 +0000"
@@ -477,6 +483,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-08-01 02:42:20 +0000"
     },
     "done": true
   },
@@ -948,6 +960,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/reinforced_mail_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-08-01 02:51:09 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/scythes/scythe_soul_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
@@ -1176,6 +1194,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_archer": {
+    "criteria": {
+      "has_core_specification_item": "2025-08-01 02:42:20 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/wart_gate": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
@@ -1210,6 +1234,7 @@
     "criteria": {
       "silver_birch_forest": "2025-08-01 02:21:50 +0000",
       "autumnal_maple_forest": "2025-08-01 01:54:20 +0000",
+      "ancient_delta": "2025-08-01 02:43:09 +0000",
       "poppy_fields": "2025-08-01 02:22:46 +0000",
       "cold_river": "2025-08-01 02:08:54 +0000",
       "pumpkin_fields": "2025-08-01 02:25:47 +0000",
@@ -1678,6 +1703,12 @@
   "techreborn:recipes/centrifuge/sulfur_cell": {
     "criteria": {
       "has_sulfur": "2025-08-01 01:25:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-08-01 02:51:09 +0000"
     },
     "done": true
   },
@@ -3407,6 +3438,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
+    "criteria": {
+      "has_experience_bottle": "2025-08-01 02:43:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-08-01 02:06:59 +0000"
@@ -3538,6 +3575,12 @@
       "has_iron": "2025-08-01 01:47:32 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "ancient_delta": "2025-08-01 02:43:09 +0000"
+    },
+    "done": false
   },
   "betterend:recipes/decorations/helix_tree_ladder": {
     "criteria": {
@@ -3716,6 +3759,12 @@
   "betternether:recipes/decorations/mushroom_fir_sign": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2025-08-01 02:43:35 +0000"
     },
     "done": true
   },
@@ -4398,6 +4447,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-08-01 02:43:08 +0000"
+    },
+    "done": false
+  },
   "frostiful:recipes/building_block/packed_snow_block": {
     "criteria": {
       "has_snow_block": "2025-08-01 01:45:42 +0000"
@@ -4797,6 +4852,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-08-01 02:42:19 +0000",
       "minecraft:enderman": "2025-08-01 02:41:25 +0000",
       "minecraft:stray": "2025-08-01 02:10:33 +0000",
       "minecraft:zombie": "2025-08-01 02:16:46 +0000"
@@ -5114,6 +5170,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-08-01 02:43:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/anchor_tree_gate": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
@@ -5273,6 +5335,12 @@
   "botania:recipes/misc/petal_yellow_double": {
     "criteria": {
       "has_item": "2025-08-01 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-08-01 02:51:09 +0000"
     },
     "done": true
   },
@@ -5486,6 +5554,12 @@
   "techreborn:recipes/crafting_table/frequency_transmitter": {
     "criteria": {
       "has_circuit": "2025-08-01 02:11:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
+    "criteria": {
+      "has_diamond_shovel": "2025-08-01 02:43:35 +0000"
     },
     "done": true
   },

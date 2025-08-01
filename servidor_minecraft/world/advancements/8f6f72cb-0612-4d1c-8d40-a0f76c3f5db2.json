@@ -9216,6 +9216,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/reinforced_mail_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-08-01 02:49:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-08-01 01:43:23 +0000"
@@ -9372,6 +9378,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-08-01 02:49:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/copper_cable": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 01:43:15 +0000"
@@ -9437,6 +9449,12 @@
       "ancient_delta": "2025-08-01 02:11:29 +0000"
     },
     "done": false
+  },
+  "mcda:recipes/base_armors/mercenary_armor_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-08-01 02:49:20 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/brick": {
     "criteria": {
@@ -9645,6 +9663,12 @@
   "techreborn:recipes/blast_furnace/danger_pottery_sherd": {
     "criteria": {
       "has_gunpowder": "2025-08-01 01:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-08-01 02:49:20 +0000"
     },
     "done": true
   },

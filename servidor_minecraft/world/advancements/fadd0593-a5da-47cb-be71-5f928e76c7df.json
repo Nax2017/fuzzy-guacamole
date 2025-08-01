@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/virus_necrodermal": {
+    "criteria": {
+      "has_alt_item": "2025-08-01 02:47:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/blade_pottery_sherd": {
     "criteria": {
       "has_iron_sword": "2025-08-01 01:40:56 +0000"
@@ -381,6 +387,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
     "criteria": {
       "has_dirt": "2025-08-01 01:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-01 02:46:10 +0000"
     },
     "done": true
   },
@@ -1834,6 +1846,7 @@
     "criteria": {
       "silver_birch_forest": "2025-08-01 01:58:55 +0000",
       "autumnal_maple_forest": "2025-08-01 01:48:31 +0000",
+      "ancient_delta": "2025-08-01 02:43:11 +0000",
       "poppy_fields": "2025-08-01 01:59:50 +0000",
       "maple_forest": "2025-08-01 02:07:23 +0000",
       "cold_river": "2025-08-01 01:50:35 +0000",
@@ -1863,6 +1876,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-08-01 01:33:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2025-08-01 02:45:21 +0000"
     },
     "done": true
   },
@@ -2258,6 +2277,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/redstone_smithing": {
+    "criteria": {
+      "has_redstone": "2025-08-01 02:46:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/paper_from_enchanted_book": {
     "criteria": {
       "has_enchanted_book": "2025-08-01 01:37:18 +0000"
@@ -2334,6 +2359,12 @@
   "advancednetherite:recipes/netherite_gold_block": {
     "criteria": {
       "has_ingredients": "2025-08-01 01:25:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 02:45:21 +0000"
     },
     "done": true
   },
@@ -3501,6 +3532,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2025-08-01 02:45:21 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_ladder": {
     "criteria": {
       "has_stick": "2025-08-01 01:33:48 +0000"
@@ -3624,6 +3661,12 @@
   "soulsweapons:recipes/misc/verglas": {
     "criteria": {
       "has_item": "2025-08-01 02:01:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 02:45:21 +0000"
     },
     "done": true
   },
@@ -4152,6 +4195,12 @@
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2025-08-01 01:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-01 02:45:21 +0000"
     },
     "done": true
   },
@@ -4744,6 +4793,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 02:45:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-08-01 01:38:59 +0000"
@@ -4954,6 +5009,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
+    "criteria": {
+      "has_experience_bottle": "2025-08-01 02:43:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 02:06:13 +0000"
@@ -5157,6 +5218,12 @@
       "has_iron": "2025-08-01 01:40:56 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "ancient_delta": "2025-08-01 02:43:11 +0000"
+    },
+    "done": false
   },
   "betterend:recipes/decorations/helix_tree_ladder": {
     "criteria": {
@@ -5582,6 +5649,12 @@
   "regions_unexplored:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-08-01 01:26:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2025-08-01 02:45:21 +0000"
     },
     "done": true
   },
@@ -6392,6 +6465,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-08-01 02:43:10 +0000",
       "in_better_spider_dungeon": "2025-08-01 02:12:56 +0000"
     },
     "done": false
@@ -6594,6 +6668,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 02:45:21 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/fabric_bolt_light_gray": {
     "criteria": {
       "has_stick": "2025-08-01 01:33:48 +0000"
@@ -6705,6 +6785,12 @@
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-08-01 01:27:30 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:bow_way": {
+    "criteria": {
+      "items": "2025-08-01 02:51:05 +0000"
     },
     "done": true
   },
@@ -7570,6 +7656,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-08-01 02:43:10 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_gold_ingot": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 01:40:56 +0000"
@@ -7633,6 +7725,12 @@
   "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-08-01 01:40:58 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-08-01 02:46:10 +0000"
     },
     "done": true
   },
@@ -8087,6 +8185,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-08-01 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-01 02:46:10 +0000"
     },
     "done": true
   },

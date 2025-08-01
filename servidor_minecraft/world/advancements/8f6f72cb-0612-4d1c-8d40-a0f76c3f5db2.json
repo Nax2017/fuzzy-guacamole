@@ -13318,27 +13318,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+  "regions_unexplored:recipes/misc/red_maple_sapling_from_red_maple_shrub": {
     "criteria": {
-      "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
+      "has_red_maple_shrub": "2025-08-01 17:35:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall": {
+  "travelersbackpack:recipes/misc/lapis_smithing": {
     "criteria": {
-      "has_deepslate_tiles": "2025-08-01 18:56:00 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/grass_slab": {
-    "criteria": {
-      "has_grass_block": "2025-08-01 18:06:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
+      "has_lapis": "2025-08-01 17:54:53 +0000"
     },
     "done": true
   },
@@ -13354,42 +13342,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-08-01 18:56:00 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/lapis_smithing": {
-    "criteria": {
-      "has_lapis": "2025-08-01 17:54:53 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/phantom_armor_helmet": {
-    "criteria": {
-      "has_phantom_bones": "2025-08-01 18:25:42 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
-    "criteria": {
-      "has_stripped_log": "2025-08-01 18:35:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/phantom_armor_chestplate": {
-    "criteria": {
-      "has_phantom_bones": "2025-08-01 18:25:42 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
     "criteria": {
       "has_tag_minecraft_wooden_slabs": "2025-08-01 18:03:17 +0000"
@@ -13399,30 +13351,6 @@
   "twigs:recipes/tables/spruce_table_slab": {
     "criteria": {
       "has_bamboo": "2025-08-01 18:03:17 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/spruce_slab_from_stairs": {
-    "criteria": {
-      "has_spruce_stairs": "2025-08-01 18:07:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-08-01 18:56:00 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
-    "criteria": {
-      "has_tag_minecraft_wooden_stairs": "2025-08-01 18:07:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
     },
     "done": true
   },
@@ -13444,39 +13372,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-08-01 18:56:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/red_maple_sapling_from_red_maple_shrub": {
-    "criteria": {
-      "has_red_maple_shrub": "2025-08-01 17:35:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-08-01 18:35:45 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/industrial_sawmill/spruce_pressure_plate_from_slab": {
     "criteria": {
       "has_spruce_slab": "2025-08-01 18:03:17 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
-    "criteria": {
-      "has_phantom_bones": "2025-08-01 18:25:42 +0000"
     },
     "done": true
   },
@@ -13492,39 +13390,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-08-01 18:56:00 +0000"
-    },
-    "done": true
-  },
   "animal_feeding_trough:recipes/decorations/feeding_trough": {
     "criteria": {
       "has_wood_slab": "2025-08-01 18:03:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-08-01 18:56:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-08-01 18:35:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
     },
     "done": true
   },
@@ -13534,9 +13402,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+  "vinery:recipes/coarse_dirt_slab": {
     "criteria": {
-      "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
+      "has_coarse_dirt": "2025-08-01 18:06:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-08-01 18:06:08 +0000"
     },
     "done": true
   },
@@ -13546,9 +13420,141 @@
     },
     "done": true
   },
-  "vinery:recipes/coarse_dirt_slab": {
+  "techreborn:recipes/industrial_sawmill/spruce_slab_from_stairs": {
     "criteria": {
-      "has_coarse_dirt": "2025-08-01 18:06:06 +0000"
+      "has_spruce_stairs": "2025-08-01 18:07:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-08-01 18:07:53 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2025-08-01 18:25:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2025-08-01 18:25:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_phantom_bones": "2025-08-01 18:25:42 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-08-01 18:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-01 18:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-01 18:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-01 18:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-01 18:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-01 18:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-01 18:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-01 18:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-01 18:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-01 18:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
     },
     "done": true
   },
@@ -13561,12 +13567,6 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-01 18:56:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-08-01 18:56:00 +0000"
     },
     "done": true
   },

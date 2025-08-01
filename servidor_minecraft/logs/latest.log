@@ -3801,3 +3801,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 io.netty.handler.timeout.ReadTimeoutException: null
 [20:03:10] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 212.500000, 72.500000, -696.500000]
 [20:03:13] [Server thread/INFO]: [Nax_1905: Teleported LuliKaiserin to Nax_1905]
+[20:03:51] [Server thread/INFO]: [LuliKaiserin: Teleported LuliKaiserin to 166.500000, 77.500000, -402.500000]
+[20:04:26] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -453.500000, 91.500000, -1070.500000]
+[20:04:38] [Server thread/INFO]: [LuliKaiserin: Teleported LuliKaiserin to -436.500000, 105.500000, -1063.500000]
+[20:05:06] [Server thread/INFO]: [LuliKaiserin: Teleported LuliKaiserin to 166.500000, 77.500000, -402.500000]

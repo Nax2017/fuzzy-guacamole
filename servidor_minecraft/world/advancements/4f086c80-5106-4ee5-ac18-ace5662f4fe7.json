@@ -3123,6 +3123,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "autumnal_maple_forest": "2025-08-01 04:14:13 +0000",
+      "poppy_fields": "2025-08-01 20:03:13 +0000",
       "maple_forest": "2025-08-01 19:58:29 +0000"
     },
     "done": false
@@ -3130,6 +3131,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "autumnal_maple_forest": "2025-08-01 04:14:13 +0000",
+      "poppy_fields": "2025-08-01 20:03:13 +0000",
       "maple_forest": "2025-08-01 19:58:29 +0000"
     },
     "done": false

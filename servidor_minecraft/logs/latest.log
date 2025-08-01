@@ -2147,3 +2147,7 @@ BCLib - Nether BiomeSource (16a56358)
 [17:34:33] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [17:34:33] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [17:35:02] [Server thread/INFO]: [Nax_1905: Set own game mode to Creative Mode]
+[17:43:42] [Server thread/INFO]: [Nax_1905: Set own game mode to Survival Mode]
+[17:45:23] [Server thread/INFO]: [Nax_1905: Set own game mode to Creative Mode]
+[17:46:34] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null

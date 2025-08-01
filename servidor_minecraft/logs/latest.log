@@ -3256,3 +3256,23 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [02:54:18] [Server thread/WARN]: ElSantixdd moved wrongly!
 [02:54:33] [Server thread/INFO]: LeviXII has made the advancement [Disme A Dozen]
 [02:55:33] [Server thread/INFO]: ezefzc was slain by Skeleton
+[02:55:39] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[02:55:47] [Server thread/INFO]: Nax_1905 was slain by Zombie
+[02:55:48] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[02:55:51] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to LeviXII]
+[02:56:11] [Server thread/INFO]: [ezefzc: Teleported ezefzc to Nax_1905]
+[02:56:30] [Server thread/INFO]: ezefzc was slain by Skeleton
+[02:56:43] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[02:56:46] [Server thread/INFO]: [ezefzc: Teleported ezefzc to Nax_1905]
+[02:57:11] [Server thread/INFO]: ezefzc has made the advancement [Diamonds!]
+[02:57:38] [Server thread/INFO]: Nax_1905 has made the advancement [God, Take The Wheel]
+[02:58:06] [Server thread/INFO]: ezefzc was slain by Skeleton
+[02:58:09] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[02:58:11] [Server thread/INFO]: [ezefzc: Teleported ezefzc to Nax_1905]
+[02:58:22] [Server thread/INFO]: Nax_1905 has completed the challenge [Centennial]
+[02:59:09] [Server thread/INFO]: ElSantixdd has made the advancement [Stay dead]
+[03:01:49] [Server thread/INFO]: LeviXII has made the advancement [Cutlass? Why would I do that?]
+[03:02:02] [Server thread/INFO]: ezefzc has made the advancement [Stone Age]
+[03:04:06] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[03:04:13] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[03:05:41] [Server thread/INFO]: LeviXII has made the advancement [Diamonds!]

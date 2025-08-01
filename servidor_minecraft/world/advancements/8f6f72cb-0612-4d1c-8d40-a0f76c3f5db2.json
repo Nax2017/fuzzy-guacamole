@@ -2668,7 +2668,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-07-31 22:33:13 +0000",
-      "opened_chest": "2025-07-31 19:04:28 +0000"
+      "opened_chest": "2025-07-31 19:04:28 +0000",
+      "opened_cart": "2025-08-01 03:39:26 +0000"
     },
     "done": false
   },
@@ -9208,6 +9209,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-08-01 03:39:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-08-01 01:43:15 +0000"
@@ -9268,6 +9275,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-08-01 03:35:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-08-01 03:34:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-08-01 03:30:23 +0000"
@@ -9304,15 +9323,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-08-01 03:34:48 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/reinforced_mail_boots": {
     "criteria": {
       "has_iron_boots": "2025-08-01 02:49:20 +0000"
     },
     "done": true
   },
+  "simplyswords:whisperwind": {
+    "criteria": {
+      "requirement": "2025-08-01 03:38:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
     "criteria": {
       "has_diamond_axe": "2025-08-01 02:56:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-08-01 03:36:50 +0000"
     },
     "done": true
   },
@@ -9376,6 +9413,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
+    "criteria": {
+      "has_item": "2025-08-01 03:34:48 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/loam": {
     "criteria": {
       "has_clay_ball": "2025-08-01 02:25:50 +0000"
@@ -9430,6 +9473,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-08-01 03:34:48 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
     "criteria": {
       "has_leather": "2025-08-01 03:30:23 +0000"
@@ -9466,6 +9515,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-08-01 03:34:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 01:43:15 +0000"
@@ -9475,6 +9530,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
     "criteria": {
       "has_lead_ingot": "2025-08-01 03:17:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-08-01 03:34:48 +0000"
     },
     "done": true
   },
@@ -9574,6 +9635,18 @@
     },
     "done": true
   },
+  "simplyswords:frostfall": {
+    "criteria": {
+      "requirement": "2025-08-01 03:39:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-08-01 03:35:48 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:recipes/copper_tea_kettle": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 01:43:15 +0000"
@@ -9586,9 +9659,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-08-01 03:34:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-08-01 03:35:48 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2025-08-01 03:30:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-08-01 03:35:48 +0000"
     },
     "done": true
   },
@@ -9619,6 +9710,18 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2025-08-01 01:43:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 03:35:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-08-01 03:35:48 +0000"
     },
     "done": true
   },
@@ -9712,6 +9815,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2025-08-01 03:35:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-08-01 02:00:51 +0000"
@@ -9721,6 +9830,12 @@
   "techreborn:recipes/compressor/lead_plate": {
     "criteria": {
       "has_tag_c_lead_ingots": "2025-08-01 03:17:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-08-01 03:34:48 +0000"
     },
     "done": true
   },
@@ -9763,6 +9878,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-08-01 02:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-08-01 03:35:48 +0000"
     },
     "done": true
   },
@@ -9919,6 +10040,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-08-01 03:10:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2025-08-01 03:35:48 +0000"
     },
     "done": true
   },
@@ -10084,6 +10211,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 03:35:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/storage_block/copper_wall": {
     "criteria": {
       "has_copper": "2025-08-01 01:43:15 +0000"
@@ -10096,9 +10229,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-08-01 03:34:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-01 03:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-01 03:35:48 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/teddy_bear": {
+    "criteria": {
+      "has_bear_fur": "2025-08-01 03:35:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-08-01 03:34:48 +0000"
     },
     "done": true
   },

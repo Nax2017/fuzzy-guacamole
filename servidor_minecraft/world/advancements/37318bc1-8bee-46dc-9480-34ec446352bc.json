@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/emerald_gear_helmet": {
     "criteria": {
       "has_emerald": "2025-08-01 01:43:05 +0000"
@@ -185,6 +191,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/hammer": {
     "criteria": {
       "has_hammer": "2025-08-01 01:47:32 +0000"
@@ -200,6 +212,12 @@
   "mcdw:recipes/daggers/dagger_the_beginning": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 03:27:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_brick_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -293,6 +311,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-08-01 03:39:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_tin_storage_block": {
     "criteria": {
       "has_raw_tin": "2025-08-01 03:13:18 +0000"
@@ -303,6 +327,12 @@
     "criteria": {
       "has_carbon": "2025-08-01 01:25:13 +0000",
       "has_calcium": "2025-08-01 01:25:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -333,6 +363,12 @@
   "mcdw:recipes/swords/sword_masters_katana": {
     "criteria": {
       "has_diamond": "2025-08-01 02:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -492,6 +528,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-01 03:37:28 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2025-08-01 01:25:13 +0000"
@@ -627,6 +669,12 @@
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
     "criteria": {
       "has_wct": "2025-08-01 01:25:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_granite_corner_trim": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -792,6 +840,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
@@ -864,6 +918,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-08-01 03:37:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
@@ -879,6 +939,18 @@
   "mcda:recipes/crafting_items/fabric_bolt_red": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -1512,6 +1584,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_paver_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/ice_skates": {
     "criteria": {
       "has_fur_boots": "2025-08-01 01:25:13 +0000"
@@ -1527,6 +1605,12 @@
   "smallships:recipes/transportation/birch_brigg": {
     "criteria": {
       "in_water": "2025-08-01 01:54:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -1602,6 +1686,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/white_bed_from_wool": {
     "criteria": {
       "has_white_wool": "2025-08-01 01:30:16 +0000"
@@ -1624,6 +1714,18 @@
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2025-08-01 03:37:28 +0000"
     },
     "done": true
   },
@@ -1720,6 +1822,12 @@
   "advancednetherite:recipes/netherite_emerald_block": {
     "criteria": {
       "has_ingredients": "2025-08-01 01:25:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-01 03:37:28 +0000"
     },
     "done": true
   },
@@ -1903,6 +2011,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/rubber_from_rubber_sapling": {
+    "criteria": {
+      "has_rubber_sapling": "2025-08-01 03:37:07 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_heartstealer": {
     "criteria": {
       "has_diamond": "2025-08-01 02:57:11 +0000"
@@ -2078,6 +2192,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_granite_tiles_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
@@ -2117,6 +2237,12 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-08-01 01:47:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-01 03:36:51 +0000"
     },
     "done": true
   },
@@ -2198,6 +2324,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_brick_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
       "has_feather": "2025-08-01 01:28:22 +0000"
@@ -2246,6 +2384,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 03:37:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-08-01 01:54:18 +0000"
@@ -2291,6 +2435,12 @@
   "mcda:recipes/base_armors/thief_armor_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_brick_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -2363,6 +2513,12 @@
   "betternether:recipes/decorations/nether_reed_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -2444,6 +2600,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-01 03:37:28 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2025-08-01 02:23:18 +0000"
@@ -2504,6 +2666,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_lead": {
+    "criteria": {
+      "has_raw_lead_ores": "2025-08-01 03:38:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/golden_hammer": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
@@ -2528,6 +2696,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-01 03:36:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/gold_cable": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 03:27:45 +0000"
@@ -2537,6 +2717,18 @@
   "mcda:recipes/base_armors/sweet_tooth_chestplate": {
     "criteria": {
       "has_diamond": "2025-08-01 02:57:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_shingle_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -2627,6 +2819,12 @@
   "betternether:recipes/tools/cincinnasite_axe_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-08-01 02:57:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tile_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -2792,6 +2990,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2025-08-01 03:37:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
@@ -2870,6 +3074,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/nether_reed_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-08-01 03:27:29 +0000"
@@ -2906,6 +3116,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/building_blocks/moonstone_block": {
     "criteria": {
       "has_item": "2025-08-01 03:13:35 +0000"
@@ -2933,6 +3149,12 @@
   "betternether:recipes/transportation/nether_sakura_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-08-01 03:27:29 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_paver_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -3212,6 +3434,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/axes/axe_encrusted_anchor": {
+    "criteria": {
+      "has_base": "2025-08-01 03:36:59 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
@@ -3257,6 +3485,12 @@
   "betterend:recipes/misc/copy_thallasium_upgrade": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_plate_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -3338,6 +3572,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_paver_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-08-01 01:30:16 +0000"
@@ -3377,6 +3617,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-08-01 01:25:13 +0000"
+    },
+    "done": true
+  },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2025-08-01 03:36:21 +0000"
     },
     "done": true
   },
@@ -3434,6 +3680,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2025-08-01 03:37:28 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_fence": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
@@ -3449,6 +3701,12 @@
   "betternether:recipes/decorations/nether_mushroom_chair": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2025-08-01 03:37:28 +0000"
     },
     "done": true
   },
@@ -3473,6 +3731,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-08-01 01:30:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -3505,6 +3769,9 @@
       "minecraft:frozen_river": "2025-08-01 01:32:46 +0000",
       "minecraft:snowy_plains": "2025-08-01 01:28:50 +0000",
       "minecraft:snowy_taiga": "2025-08-01 01:28:16 +0000",
+      "minecraft:grove": "2025-08-01 03:38:48 +0000",
+      "minecraft:jagged_peaks": "2025-08-01 03:34:57 +0000",
+      "minecraft:lush_caves": "2025-08-01 03:41:46 +0000",
       "minecraft:snowy_beach": "2025-08-01 01:44:29 +0000",
       "minecraft:plains": "2025-08-01 01:53:57 +0000"
     },
@@ -3708,6 +3975,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_plates_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/goat_gear_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
@@ -3753,6 +4026,12 @@
   "croptopia:recipes/misc/apple_juice": {
     "criteria": {
       "has_apple": "2025-08-01 01:47:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -3828,9 +4107,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/silver_plate": {
     "criteria": {
       "has_tag_c_silver_ingots": "2025-08-01 01:47:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-01 03:37:28 +0000"
     },
     "done": true
   },
@@ -3855,6 +4146,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 03:27:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/lead_plate": {
+    "criteria": {
+      "has_tag_c_lead_ingots": "2025-08-01 03:36:51 +0000"
     },
     "done": true
   },
@@ -3897,6 +4194,12 @@
   "betternether:recipes/decorations/jungle_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -4020,6 +4323,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/double_axes/double_axe_cursed": {
     "criteria": {
       "has_rotten_flesh": "2025-08-01 01:37:15 +0000"
@@ -4098,9 +4407,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:recipes/tea_kettle": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -4134,9 +4455,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_pavers_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/spelunker_armor_helmet": {
     "criteria": {
       "has_torch": "2025-08-01 02:03:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -4173,6 +4506,18 @@
   "travelersbackpack:recipes/misc/iron": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_granite_pillar_trim": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -4389,6 +4734,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tile_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -4848,6 +5199,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_tile_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
@@ -4896,6 +5253,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-08-01 01:47:32 +0000"
@@ -4917,6 +5280,12 @@
   "frostiful:recipes/combat/armor/fur_padded_chainmail_leggings": {
     "criteria": {
       "has_fur_armor": "2025-08-01 01:25:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-08-01 03:37:00 +0000"
     },
     "done": true
   },
@@ -4995,6 +5364,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-08-01 01:54:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-08-01 03:38:02 +0000"
     },
     "done": true
   },
@@ -5097,6 +5472,12 @@
   "advancednetherite:recipes/netherite_ingots": {
     "criteria": {
       "has_ingredients": "2025-08-01 01:25:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -5329,6 +5710,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_brick_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
     "criteria": {
       "has_diamond": "2025-08-01 02:57:11 +0000"
@@ -5362,6 +5749,12 @@
   "smallships:recipes/transportation/mangrove_cog": {
     "criteria": {
       "in_water": "2025-08-01 01:54:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_shingle_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -5443,6 +5836,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "rpg_series:root": {
     "criteria": {
       "always": "2025-08-01 01:25:11 +0000"
@@ -5464,6 +5863,12 @@
   "mcda:recipes/base_armors/thief_armor_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-01 03:37:28 +0000"
     },
     "done": true
   },
@@ -5612,6 +6017,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "vinery:main/forbidden_fruit": {
     "criteria": {
       "apple": "2025-08-01 01:47:07 +0000"
@@ -5639,6 +6050,18 @@
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-08-01 01:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -5711,6 +6134,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_plate_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_iron_sword_var": {
     "criteria": {
       "has_iron_sword": "2025-08-01 01:46:57 +0000"
@@ -5763,6 +6192,12 @@
   "betternether:recipes/building_blocks/whispering_gourd_lantern": {
     "criteria": {
       "has_torch": "2025-08-01 02:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -5901,7 +6336,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-08-01 01:48:05 +0000",
-      "opened_chest": "2025-08-01 01:37:09 +0000"
+      "opened_chest": "2025-08-01 01:37:09 +0000",
+      "opened_cart": "2025-08-01 03:39:40 +0000"
     },
     "done": false
   },
@@ -5926,6 +6362,12 @@
   "mcdw:recipes/swords/sword_hawkbrand": {
     "criteria": {
       "has_emerald": "2025-08-01 01:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -5967,6 +6409,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/larch_boat": {
     "criteria": {
       "in_water": "2025-08-01 01:54:18 +0000"
@@ -5982,6 +6430,12 @@
   "betternether:recipes/decorations/acacia_taburet": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-08-01 03:38:02 +0000"
     },
     "done": true
   },
@@ -6007,6 +6461,12 @@
     "criteria": {
       "has_wit": "2025-08-01 01:25:13 +0000",
       "has_wpt": "2025-08-01 01:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -6046,6 +6506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
@@ -6061,6 +6527,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-08-01 01:33:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_plate_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -6178,6 +6650,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_granite_brick_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-08-01 01:37:06 +0000"
@@ -6247,6 +6725,12 @@
   "croptopia:recipes/fried_chicken": {
     "criteria": {
       "has_chicken": "2025-08-01 01:31:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_brick_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -6322,6 +6806,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/elder_poppet_shelf": {
     "criteria": {
       "has_item": "2025-08-01 02:32:57 +0000"
@@ -6363,6 +6853,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-08-01 03:39:46 +0000"
     },
     "done": true
   },
@@ -6547,6 +7043,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/dark_oak_chair": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
@@ -6656,6 +7158,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-08-01 01:25:11 +0000"
@@ -6734,6 +7242,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_shingles_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/combat/tag_shield": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-08-01 01:34:37 +0000"
@@ -6755,6 +7269,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-08-01 01:58:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -6830,6 +7350,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
+    "criteria": {
+      "has_raw_lead": "2025-08-01 03:38:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/pythadendron_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
@@ -6878,6 +7404,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_shingle_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_cobblestone": "2025-08-01 03:02:02 +0000"
@@ -6911,6 +7443,12 @@
   "mcda:recipes/base_armors/grim_armor_boots": {
     "criteria": {
       "has_leather": "2025-08-01 02:06:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/red_cell_battery": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-01 03:36:51 +0000"
     },
     "done": true
   },
@@ -6998,6 +7536,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
     "criteria": {
       "has_plank": "2025-08-01 01:34:37 +0000"
@@ -7013,6 +7557,12 @@
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
       "is_near_beehive": "2025-08-01 01:46:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },
@@ -7043,6 +7593,12 @@
   "brewery:main/root": {
     "criteria": {
       "seeds": "2025-08-01 01:25:13 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-08-01 03:39:46 +0000"
     },
     "done": true
   },
@@ -7188,6 +7744,12 @@
   "frostiful:recipes/misc/ice_skate_upgrade_template": {
     "criteria": {
       "has_ice_skate_upgrade_template": "2025-08-01 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 03:38:06 +0000"
     },
     "done": true
   },

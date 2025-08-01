@@ -1350,6 +1350,12 @@
     },
     "done": true
   },
+  "simplyswords:whisperwind": {
+    "criteria": {
+      "requirement": "2025-08-01 03:39:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-08-01 01:49:52 +0000"
@@ -3088,6 +3094,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/tin_plate": {
+    "criteria": {
+      "has_tag_c_tin_ingots": "2025-08-01 03:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-08-01 02:15:01 +0000"
@@ -3484,6 +3496,12 @@
     },
     "done": true
   },
+  "simplyswords:frostfall": {
+    "criteria": {
+      "requirement": "2025-08-01 03:39:23 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:recipes/witch_hat": {
     "criteria": {
       "has_white_wool": "2025-08-01 01:38:59 +0000"
@@ -3739,6 +3757,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-08-01 03:03:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/tin_nugget": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-01 03:40:44 +0000"
     },
     "done": true
   },
@@ -5162,6 +5186,12 @@
   "regions_unexplored:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/tin_cable": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-01 03:40:44 +0000"
     },
     "done": true
   },
@@ -7178,6 +7208,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/wire_mill/tin_cable": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-01 03:40:44 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-08-01 01:44:53 +0000"
@@ -7839,12 +7875,19 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/tin_storage_block": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-01 03:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-01 01:54:39 +0000",
       "minecraft:spider": "2025-08-01 01:35:54 +0000",
       "minecraft:creeper": "2025-08-01 02:58:39 +0000",
       "minecraft:witch": "2025-08-01 02:38:50 +0000",
+      "minecraft:cave_spider": "2025-08-01 03:40:02 +0000",
       "minecraft:zombie": "2025-08-01 01:35:22 +0000"
     },
     "done": false
@@ -8757,6 +8800,12 @@
     },
     "done": true
   },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-08-01 03:40:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/blackwood_boat": {
     "criteria": {
       "in_water": "2025-08-01 01:26:40 +0000"
@@ -9294,6 +9343,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cell": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-01 03:40:44 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sweet_tooth_leggings": {
     "criteria": {
       "has_diamond": "2025-08-01 02:27:33 +0000"
@@ -9651,6 +9706,12 @@
   "brewery:main/root": {
     "criteria": {
       "seeds": "2025-08-01 01:25:01 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-08-01 03:40:30 +0000"
     },
     "done": true
   },

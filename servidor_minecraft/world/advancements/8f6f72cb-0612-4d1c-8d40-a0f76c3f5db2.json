@@ -12568,6 +12568,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_shrub": {
+    "criteria": {
+      "has_maple_sapling": "2025-08-01 16:57:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2025-08-01 16:40:59 +0000"

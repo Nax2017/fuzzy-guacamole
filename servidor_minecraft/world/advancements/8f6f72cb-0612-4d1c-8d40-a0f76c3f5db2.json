@@ -13582,5 +13582,11 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/red_coffin": {
+    "criteria": {
+      "has_item": "2025-08-01 19:54:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

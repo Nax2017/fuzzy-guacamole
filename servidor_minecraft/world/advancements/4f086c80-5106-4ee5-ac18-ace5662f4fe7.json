@@ -3122,13 +3122,15 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "autumnal_maple_forest": "2025-08-01 04:14:13 +0000"
+      "autumnal_maple_forest": "2025-08-01 04:14:13 +0000",
+      "maple_forest": "2025-08-01 19:58:29 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "autumnal_maple_forest": "2025-08-01 04:14:13 +0000"
+      "autumnal_maple_forest": "2025-08-01 04:14:13 +0000",
+      "maple_forest": "2025-08-01 19:58:29 +0000"
     },
     "done": false
   },
@@ -5406,6 +5408,48 @@
   "create:recipes/building_blocks/birch_window_pane": {
     "criteria": {
       "has_ingredient": "2025-08-01 06:21:27 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2025-08-01 19:52:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/lantern": {
+    "criteria": {
+      "has_torch": "2025-08-01 19:52:56 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2025-08-01 19:52:56 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_lantern": {
+    "criteria": {
+      "has_copper_block": "2025-08-01 19:52:56 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-08-01 19:52:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-08-01 19:52:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-08-01 19:52:56 +0000"
     },
     "done": true
   },

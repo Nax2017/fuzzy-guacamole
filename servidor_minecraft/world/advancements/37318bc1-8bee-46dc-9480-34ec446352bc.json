@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2025-08-01 02:11:19 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/magnolia_boat": {
     "criteria": {
       "in_water": "2025-08-01 01:54:18 +0000"
@@ -558,6 +564,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/electric_furnace": {
+    "criteria": {
+      "has_electronic_circuit": "2025-08-01 02:11:37 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/lattice": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
@@ -762,9 +774,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/basic_display": {
+    "criteria": {
+      "has_electronic_circuit": "2025-08-01 02:11:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_chair": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-01 02:11:19 +0000"
     },
     "done": true
   },
@@ -1146,6 +1170,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/grim_armor_helmet": {
+    "criteria": {
+      "has_bone": "2025-08-01 02:10:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
       "autumnal_maple_forest": "2025-08-01 01:54:20 +0000",
@@ -1216,6 +1246,12 @@
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2025-08-01 01:34:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-08-01 02:10:34 +0000"
     },
     "done": true
   },
@@ -1381,6 +1417,12 @@
   "techreborn:recipes/distillation_tower/diesel": {
     "criteria": {
       "has_oil": "2025-08-01 01:25:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2025-08-01 02:11:19 +0000"
     },
     "done": true
   },
@@ -2519,6 +2561,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/grim_armor_chestplate": {
+    "criteria": {
+      "has_bone": "2025-08-01 02:10:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/tropical_fish_trophy": {
     "criteria": {
       "has_tropical_fish_trophy": "2025-08-01 01:34:37 +0000"
@@ -2753,6 +2801,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-08-01 02:10:34 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2025-08-01 01:54:18 +0000"
@@ -2816,6 +2870,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-08-01 02:10:34 +0000"
     },
     "done": true
   },
@@ -3012,6 +3072,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/howl_pottery_sherd": {
+    "criteria": {
+      "has_bone": "2025-08-01 02:10:34 +0000"
     },
     "done": true
   },
@@ -3417,9 +3483,21 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-08-01 02:11:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_sign": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/upgrade/muffler_upgrade": {
+    "criteria": {
+      "has_electronic_circuit": "2025-08-01 02:11:37 +0000"
     },
     "done": true
   },
@@ -4071,6 +4149,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/piglin_armor_boots": {
+    "criteria": {
+      "has_bone": "2025-08-01 02:10:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_black": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
@@ -4179,6 +4263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-01 02:11:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/fusion_reactor/platinum_dust": {
     "criteria": {
       "has_beryllium": "2025-08-01 01:25:13 +0000",
@@ -4261,6 +4351,12 @@
   "mcdw:recipes/crossbows/crossbow_imploding": {
     "criteria": {
       "has_string": "2025-08-01 01:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:stray": "2025-08-01 02:10:33 +0000"
     },
     "done": true
   },
@@ -4607,6 +4703,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:stray": "2025-08-01 02:10:33 +0000",
+      "minecraft:zombie": "2025-08-01 02:16:46 +0000"
+    },
+    "done": false
+  },
   "betternether:recipes/decorations/birch_chair": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
@@ -4653,6 +4756,12 @@
   "betternether:recipes/building_blocks/whispering_gourd_lantern": {
     "criteria": {
       "has_torch": "2025-08-01 02:03:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/advanced_circuit": {
+    "criteria": {
+      "has_electronic_circuit": "2025-08-01 02:11:37 +0000"
     },
     "done": true
   },
@@ -4737,6 +4846,12 @@
   "mcda:recipes/crafting_items/fabric_bolt_blue": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lsu_storage": {
+    "criteria": {
+      "has_electronic_circuit": "2025-08-01 02:11:37 +0000"
     },
     "done": true
   },
@@ -5050,6 +5165,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/potato": {
+    "criteria": {
+      "has_potato": "2025-08-01 02:11:19 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-08-01 01:38:02 +0000"
@@ -5227,6 +5348,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-01 02:11:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/frequency_transmitter": {
+    "criteria": {
+      "has_circuit": "2025-08-01 02:11:37 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_red_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
@@ -5303,6 +5436,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/data_storage_core": {
+    "criteria": {
+      "has_electronic_circuit": "2025-08-01 02:11:37 +0000"
     },
     "done": true
   },
@@ -5558,6 +5697,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/bone_rib_cage": {
+    "criteria": {
+      "has_bone": "2025-08-01 02:10:34 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/longbows/bow_red_snake": {
     "criteria": {
       "has_string": "2025-08-01 01:37:06 +0000"
@@ -5741,6 +5886,12 @@
   "mcdw:recipes/swords/sword_claymore": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 01:47:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_helmet": {
+    "criteria": {
+      "has_bone": "2025-08-01 02:10:34 +0000"
     },
     "done": true
   },

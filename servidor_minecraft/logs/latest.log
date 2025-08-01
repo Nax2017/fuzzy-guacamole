@@ -3144,3 +3144,63 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [02:11:42] [Server thread/INFO]: Nax_1905 was slain by Zombie
 [02:11:44] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
 [02:12:56] [Server thread/INFO]: ElSantixdd has made the advancement [Cobweb Entanglement]
+[02:14:28] [Server thread/INFO]: ezefzc was slain by Mutant Zombie
+[02:14:37] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[02:15:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[02:15:27] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[02:15:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2236ms or 44 ticks behind
+[02:15:45] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp_fortified], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa_fortified], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna_na]] from pos class_2338{x=1285, y=83, z=-235}
+[02:15:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5276ms or 105 ticks behind
+[02:16:05] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/waystone/sand
+[02:16:05] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[02:16:05] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/bounty/desert
+[02:16:19] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/waystone/normal
+[02:16:20] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/bounty/swamp
+[02:16:20] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[02:16:22] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 154.500000, 64.500000, -320.500000]
+[02:16:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29836ms or 596 ticks behind
+[02:20:46] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 1252.500000, 71.500000, -352.500000]
+[02:20:51] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa_fortified], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=1285, y=83, z=-235}
+[02:20:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2971ms or 59 ticks behind
+[02:21:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3863ms or 77 ticks behind
+[02:21:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02:21:51] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=1353, y=-40, z=-177}
+[02:21:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3010ms or 60 ticks behind
+[02:22:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[02:22:21] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-270, y=7, z=-304}
+[02:22:21] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-272, y=7, z=-304}
+[02:22:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3342ms or 66 ticks behind
+[02:22:30] [User Authenticator #5/INFO]: UUID of player LeviXII is 8608323c-6af5-4438-bea4-ae34ec771e14
+[02:22:30] [Server thread/INFO]: [Handshake] Sending channel query
+[02:22:30] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[02:22:30] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[02:22:31] [Server thread/INFO]: LeviXII[/127.156.214.219:51719] logged in with entity id 42366 at (14.5, 77.0, 75.5)
+[02:22:31] [Server thread/INFO]: Sending server config values to client
+[02:22:31] [Server thread/INFO]: Syncing config to LeviXII (8608323c-6af5-4438-bea4-ae34ec771e14)
+[02:22:31] [Server thread/INFO]: Loading config from file...
+[02:22:31] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[02:22:31] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:22:31] [Server thread/INFO]: LeviXII joined the game
+[02:22:31] [Server thread/INFO]: Loading Configs for Sortilege
+[02:22:31] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[02:22:31] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[02:22:31] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[02:22:31] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[02:22:31] [Server thread/INFO]: Updating all forceload tickets for 8608323c-6af5-4438-bea4-ae34ec771e14
+[02:22:31] [Server thread/INFO]: PLAYER_JOIN
+[02:22:31] [Server thread/INFO]: add_player wand
+[02:22:31] [Server thread/INFO]: config sent
+[02:22:31] [Server thread/INFO]: LeviXII has made the advancement [Mobs of Mythology]
+[02:22:33] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[02:22:37] [Netty Epoll Server IO #2/INFO]: Channel update: LeviXII -> default
+[02:22:37] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player LeviXII. Claiming: GRAVE / Robbing: INVENTORY
+[02:22:43] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of LeviXII accepted server config.
+[02:22:46] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2339{x=-321, y=-37, z=-412}
+[02:22:46] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-320, y=-37, z=-412}
+[02:22:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3802ms or 76 ticks behind
+[02:22:52] [Server thread/INFO]: ezefzc has made the advancement [Sky of Beginning]
+[02:23:05] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[02:23:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4134ms or 82 ticks behind
+[02:23:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:23:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[02:24:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind

@@ -3931,3 +3931,53 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [03:54:31] [Server thread/INFO]: ezefzc has completed the challenge [Centennial]
 [03:54:57] [Server thread/INFO]: ElSantixdd has made the advancement [Full Moon in a Pocket]
 [03:55:30] [Server thread/INFO]: LeviXII has made the advancement [Stealer of Souls]
+[03:57:01] [Server thread/INFO]: LeviXII has made the advancement [Stone Age]
+[03:57:30] [Server thread/INFO]: ElSantixdd has completed the challenge [Centennial]
+[03:58:41] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to ezefzc]
+[03:58:44] [Server thread/INFO]: [LeviXII: Teleported LeviXII to ezefzc]
+[03:58:44] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ezefzc]
+[03:59:19] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 154.500000, 64.500000, -320.500000]
+[03:59:38] [Server thread/INFO]: [ezefzc: Teleported ezefzc to 151.500000, 69.500000, -326.500000]
+[04:00:04] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[04:00:06] [Server thread/INFO]: [LeviXII: Teleported LeviXII to ElSantixdd]
+[04:00:43] [Server thread/INFO]: [EMI] LeviXII deleted 6 stick
+[04:01:12] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 1362.500000, 11.500000, -248.500000]
+[04:01:16] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 154.500000, 64.500000, -320.500000]
+[04:02:11] [Server thread/INFO]: ElSantixdd has reached the goal [Choose your path]
+[04:02:30] [Server thread/INFO]: Nax_1905 has reached the goal [Choose your path]
+[04:03:44] [Server thread/INFO]: Nax_1905 has made the advancement [Path of Light]
+[04:03:57] [Server thread/INFO]: LeviXII has reached the goal [Choose your path]
+[04:03:58] [Server thread/INFO]: Nax_1905 has made the advancement [Path of Strength]
+[04:04:12] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to ezefzc]
+[04:05:00] [User Authenticator #6/INFO]: UUID of player LuliKaiserin is 4f086c80-5106-4ee5-ac18-ace5662f4fe7
+[04:05:00] [Server thread/INFO]: [Handshake] Sending channel query
+[04:05:01] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[04:05:01] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[04:05:01] [Server thread/INFO]: LuliKaiserin[/127.214.195.27:52367] logged in with entity id 90521 at (15.5, 81.0, 75.5)
+[04:05:01] [Server thread/INFO]: Sending server config values to client
+[04:05:01] [Server thread/INFO]: Syncing config to LuliKaiserin (4f086c80-5106-4ee5-ac18-ace5662f4fe7)
+[04:05:01] [Server thread/INFO]: Loading config from file...
+[04:05:01] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[04:05:01] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:05:01] [Server thread/INFO]: LuliKaiserin joined the game
+[04:05:01] [Server thread/INFO]: Loading Configs for Sortilege
+[04:05:01] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[04:05:01] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[04:05:01] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[04:05:01] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[04:05:01] [Server thread/INFO]: Updating all forceload tickets for 4f086c80-5106-4ee5-ac18-ace5662f4fe7
+[04:05:01] [Server thread/INFO]: PLAYER_JOIN
+[04:05:01] [Server thread/INFO]: add_player wand
+[04:05:01] [Server thread/INFO]: config sent
+[04:05:01] [Server thread/INFO]: LuliKaiserin has made the advancement [Mobs of Mythology]
+[04:05:02] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[04:05:04] [Netty Epoll Server IO #4/INFO]: Channel update: LuliKaiserin -> default
+[04:05:04] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player LuliKaiserin. Claiming: GRAVE / Robbing: INVENTORY
+[04:05:05] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of LuliKaiserin accepted server config.
+[04:05:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[04:05:24] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-433, y=-36, z=-646}
+[04:05:37] [Server thread/INFO]: [Nax_1905: Teleported LuliKaiserin to Nax_1905]
+[04:05:38] [Server thread/INFO]: LuliKaiserin has made the advancement [Fruits of the Field]
+[04:06:31] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[04:07:01] [Server thread/INFO]: ElSantixdd has made the advancement [Hide and Seek]

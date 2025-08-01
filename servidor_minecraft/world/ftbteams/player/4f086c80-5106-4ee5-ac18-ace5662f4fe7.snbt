@@ -1,0 +1,17 @@
+{
+	id: "4f086c80-5106-4ee5-ac18-ace5662f4fe7"
+	type: "player"
+	player_name: "LuliKaiserin"
+	ranks: {
+		4f086c80-5106-4ee5-ac18-ace5662f4fe7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LuliKaiserin"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF73"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -557,6 +557,7 @@
       "minecraft:spider": "2025-07-31 19:03:44 +0000",
       "minecraft:creeper": "2025-07-31 23:36:56 +0000",
       "minecraft:witch": "2025-08-01 02:08:49 +0000",
+      "minecraft:enderman": "2025-08-01 03:13:34 +0000",
       "minecraft:zombie": "2025-07-31 19:04:57 +0000"
     },
     "done": false
@@ -9398,6 +9399,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-01 03:17:32 +0000"
+    },
+    "done": true
+  },
   "spellbladenext:spellblades/falchion": {
     "criteria": {
       "arcane": "2025-08-01 02:57:38 +0000"
@@ -9443,6 +9450,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-01 03:11:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-01 03:17:32 +0000"
     },
     "done": true
   },
@@ -9581,6 +9594,12 @@
   "techreborn:recipes/centrifuge/raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-08-01 02:00:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/lead_plate": {
+    "criteria": {
+      "has_tag_c_lead_ingots": "2025-08-01 03:17:32 +0000"
     },
     "done": true
   },
@@ -9959,6 +9978,12 @@
   "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
     "criteria": {
       "has_skeleton_skull": "2025-08-01 02:56:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/red_cell_battery": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-01 03:17:32 +0000"
     },
     "done": true
   },

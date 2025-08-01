@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_tin_storage_block": {
+    "criteria": {
+      "has_raw_tin": "2025-08-01 03:13:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/calcium_carbonate": {
     "criteria": {
       "has_carbon": "2025-08-01 01:25:13 +0000",
@@ -474,6 +480,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2025-08-01 03:13:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/flower_bag": {
     "criteria": {
       "has_item": "2025-08-01 02:23:18 +0000"
@@ -654,6 +666,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2025-08-01 03:13:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "minecraft:planks": "2025-08-01 01:34:37 +0000"
@@ -669,6 +687,18 @@
   "advancednetherite:recipes/misc/netherite_diamond_ingot": {
     "criteria": {
       "has_diamond": "2025-08-01 02:57:11 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_left": {
+    "criteria": {
+      "has_item": "2025-08-01 03:13:35 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2025-08-01 03:13:35 +0000"
     },
     "done": true
   },
@@ -693,6 +723,12 @@
   "betternether:recipes/decorations/nether_sakura_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-08-01 03:13:18 +0000"
     },
     "done": true
   },
@@ -1065,6 +1101,12 @@
   "betterend:recipes/misc/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-08-01 02:06:59 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2025-08-01 03:13:35 +0000"
     },
     "done": true
   },
@@ -2720,6 +2762,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2025-08-01 03:13:35 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/nether_mushroom_gate": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
@@ -2759,6 +2807,12 @@
   "croptopia:recipes/misc/apple_pie": {
     "criteria": {
       "has_apple": "2025-08-01 01:47:07 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2025-08-01 03:13:35 +0000"
     },
     "done": true
   },
@@ -3798,6 +3852,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_tin": {
+    "criteria": {
+      "has_raw_tin_ores": "2025-08-01 03:13:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-08-01 01:47:43 +0000"
@@ -3966,6 +4026,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2025-08-01 03:13:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
@@ -3975,6 +4041,12 @@
   "frostiful:recipes/combat/armor/armored_ice_skates": {
     "criteria": {
       "has_fur_boots": "2025-08-01 01:25:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2025-08-01 03:13:35 +0000"
     },
     "done": true
   },
@@ -4017,6 +4089,12 @@
   "ae2wtlib:recipes/wireless_pattern_access_terminal": {
     "criteria": {
       "has_wt": "2025-08-01 01:25:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2025-08-01 03:13:35 +0000"
     },
     "done": true
   },
@@ -5210,6 +5288,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/fallen_icon_disc": {
+    "criteria": {
+      "has_item": "2025-08-01 03:13:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/insulated_copper_cable_alt": {
     "criteria": {
       "has_copper": "2025-08-01 01:47:43 +0000"
@@ -5638,6 +5722,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-08-01 03:13:18 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/transportation/tag_minecart": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-08-01 01:47:32 +0000"
@@ -5701,6 +5791,12 @@
   "betternether:recipes/decorations/mushroom_fir_ladder": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2025-08-01 03:13:35 +0000"
     },
     "done": true
   },
@@ -5860,6 +5956,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/draugr_boss_disc": {
+    "criteria": {
+      "has_item": "2025-08-01 03:13:35 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mercenary_armor_leggings": {
     "criteria": {
       "has_iron_leggings": "2025-08-01 02:51:09 +0000"
@@ -5869,6 +5971,12 @@
   "techreborn:recipes/centrifuge/potato": {
     "criteria": {
       "has_potato": "2025-08-01 02:11:19 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2025-08-01 03:13:35 +0000"
     },
     "done": true
   },
@@ -6055,6 +6163,12 @@
     },
     "done": true
   },
+  "techreborn:root": {
+    "criteria": {
+      "crit_1": "2025-08-01 03:13:18 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-08-01 01:38:30 +0000"
@@ -6185,6 +6299,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-01 03:04:23 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "moonstone": "2025-08-01 03:13:35 +0000"
     },
     "done": true
   },
@@ -6425,6 +6545,12 @@
   "techreborn:recipes/assembling_machine/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_cobblestone": "2025-08-01 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-08-01 03:13:35 +0000"
     },
     "done": true
   },

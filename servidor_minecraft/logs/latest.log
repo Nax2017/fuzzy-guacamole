@@ -3276,3 +3276,14 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [03:04:06] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
 [03:04:13] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
 [03:05:41] [Server thread/INFO]: LeviXII has made the advancement [Diamonds!]
+[03:06:03] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 147.500000, 64.500000, -321.500000]
+[03:06:28] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 154.500000, 64.500000, -320.500000]
+[03:08:33] [Server thread/INFO]: [Nax_1905: Made LeviXII a server operator]
+[03:08:33] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of LeviXII accepted server config.
+[03:08:54] [Server thread/INFO]: [LeviXII: Teleported LeviXII to Nax_1905]
+[03:08:57] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ezefzc]
+[03:09:45] [Server thread/WARN]: ezefzc moved wrongly!
+[03:10:20] [Server thread/WARN]: ezefzc moved wrongly!
+[03:10:58] [Server thread/WARN]: ezefzc moved wrongly!
+[03:13:35] [Server thread/INFO]: ezefzc has made the advancement [Full Moon in a Pocket]
+[03:13:46] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]

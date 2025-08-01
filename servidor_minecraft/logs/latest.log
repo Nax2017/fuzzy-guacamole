@@ -3155,3 +3155,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[19:38:17] [Server thread/INFO]: Villager class_1646['Eugenia'/27755, l='ServerLevel[world]', x=-497.36, y=18.00, z=-1113.70] died, message: 'Eugenia was slain by Zombie'
+[19:38:17] [Server thread/INFO]: Named entity class_1646['Eugenia'/27755, l='ServerLevel[world]', x=-497.36, y=18.00, z=-1113.70] died: Eugenia was slain by Zombie

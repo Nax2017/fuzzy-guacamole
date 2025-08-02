@@ -13588,5 +13588,11 @@
     },
     "done": true
   },
+  "mutantmonsters:you_da_bomby": {
+    "criteria": {
+      "tamed_creeper_minion": "2025-08-02 02:26:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

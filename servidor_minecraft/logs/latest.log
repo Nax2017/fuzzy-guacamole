@@ -4408,3 +4408,7 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(3) + length(2) excee
 [01:52:32] [Server thread/INFO]: [Nax_1905: Set own game mode to Creative Mode]
 [02:21:55] [Server thread/INFO]: [Nax_1905: Set own game mode to Survival Mode]
 [02:22:59] [Server thread/INFO]: [Nax_1905: Set own game mode to Creative Mode]
+[02:26:14] [Server thread/INFO]: Nax_1905 has made the advancement [You da Bomby]
+[02:26:38] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-707, y=-3, z=-1124}
+[02:26:40] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-673, y=34, z=-1367}
+[02:26:40] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-671, y=34, z=-1367}

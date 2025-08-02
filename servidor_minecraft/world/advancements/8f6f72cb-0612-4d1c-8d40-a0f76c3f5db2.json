@@ -13845,9 +13845,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "has_candle_holder": "2025-08-02 07:55:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_sheet_from_light_blue_dye": {
     "criteria": {
       "has_light_blue_sheet": "2025-08-02 07:45:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_orange_dye": {
+    "criteria": {
+      "has_candle_holder": "2025-08-02 07:55:02 +0000"
     },
     "done": true
   },
@@ -13875,9 +13887,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_gray_dye": {
+    "criteria": {
+      "has_candle_holder": "2025-08-02 07:55:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
+    "criteria": {
+      "has_candle_holder": "2025-08-02 07:55:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_sheet_from_lime_dye": {
     "criteria": {
       "has_lime_sheet": "2025-08-02 07:45:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_cyan_dye": {
+    "criteria": {
+      "has_candle_holder": "2025-08-02 07:55:02 +0000"
     },
     "done": true
   },
@@ -13908,6 +13938,12 @@
   "minecraft:recipes/misc/white_cushion_from_white_dye": {
     "criteria": {
       "has_white_cushion": "2025-08-02 07:46:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_blue_dye": {
+    "criteria": {
+      "has_candle_holder": "2025-08-02 07:55:02 +0000"
     },
     "done": true
   },
@@ -13977,6 +14013,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_light_gray_dye": {
+    "criteria": {
+      "has_candle_holder": "2025-08-02 07:55:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_cushion_from_cyan_dye": {
     "criteria": {
       "has_cyan_cushion": "2025-08-02 07:46:18 +0000"
@@ -13986,6 +14028,12 @@
   "railways:recipes/misc/crafting/smokestack_long": {
     "criteria": {
       "has_item": "2025-08-02 07:19:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_lime_dye": {
+    "criteria": {
+      "has_candle_holder": "2025-08-02 07:55:02 +0000"
     },
     "done": true
   },
@@ -14037,6 +14085,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
+    "criteria": {
+      "has_candle_holder": "2025-08-02 07:55:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_cushion_from_black_dye": {
     "criteria": {
       "has_black_cushion": "2025-08-02 07:46:18 +0000"
@@ -14052,6 +14106,12 @@
   "minecraft:recipes/misc/black_sheet_from_black_dye": {
     "criteria": {
       "has_black_sheet": "2025-08-02 07:45:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_brown_dye": {
+    "criteria": {
+      "has_candle_holder": "2025-08-02 07:55:02 +0000"
     },
     "done": true
   },
@@ -14073,15 +14133,45 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_magenta_dye": {
+    "criteria": {
+      "has_candle_holder": "2025-08-02 07:55:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_green_dye": {
+    "criteria": {
+      "has_candle_holder": "2025-08-02 07:55:02 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_diesel": {
     "criteria": {
       "has_item": "2025-08-02 07:19:54 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_light_blue_dye": {
+    "criteria": {
+      "has_candle_holder": "2025-08-02 07:55:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
+    "criteria": {
+      "has_candle_holder": "2025-08-02 07:55:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_sheet_from_blue_dye": {
     "criteria": {
       "has_blue_sheet": "2025-08-02 07:45:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "has_candle_holder": "2025-08-02 07:55:02 +0000"
     },
     "done": true
   },
@@ -14118,6 +14208,18 @@
   "minecraft:recipes/misc/red_cushion_from_red_dye": {
     "criteria": {
       "has_red_cushion": "2025-08-02 07:46:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_globe": "2025-08-02 07:50:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_pink_dye": {
+    "criteria": {
+      "has_candle_holder": "2025-08-02 07:55:02 +0000"
     },
     "done": true
   },

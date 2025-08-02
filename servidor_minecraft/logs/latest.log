@@ -4417,3 +4417,38 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(3) + length(2) excee
 [02:49:38] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -451.500000, 94.500000, -1064.500000]
 [02:51:49] [Server thread/INFO]: [Nax_1905: Set own game mode to Creative Mode]
 [02:53:05] [Server thread/INFO]: Nax_1905 has completed the challenge [The Traitor]
+[02:56:39] [Server thread/INFO]: [Nax_1905: Set own game mode to Survival Mode]
+[03:02:15] [Server thread/INFO]: Nax_1905 was slain by Werewolf
+[03:02:15] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.standard_02.08.2025-03.02.15.dat
+[03:02:46] [Server thread/INFO]: [Nax_1905: Killed Nax_1905]
+[03:02:50] [Server thread/INFO]: Nax_1905 lost connection: Disconnected
+[03:02:50] [Server thread/INFO]: Nax_1905 left the game
+[03:02:50] [Server thread/INFO]: remove player wand
+[03:02:50] [Server thread/INFO]: Updating all forceload tickets for 8f6f72cb-0612-4d1c-8d40-a0f76c3f5db2
+[03:02:58] [User Authenticator #2/INFO]: UUID of player Nax_1905 is 8f6f72cb-0612-4d1c-8d40-a0f76c3f5db2
+[03:02:58] [Server thread/INFO]: [Handshake] Sending channel query
+[03:02:58] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[03:02:58] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[03:02:58] [Server thread/INFO]: Nax_1905[/127.252.72.59:36517] logged in with entity id 35278 at (-435.64451231807857, 100.0, -1074.1930165668236)
+[03:02:58] [Server thread/INFO]: Sending server config values to client
+[03:02:59] [Server thread/INFO]: Syncing config to Nax_1905 (8f6f72cb-0612-4d1c-8d40-a0f76c3f5db2)
+[03:02:59] [Server thread/INFO]: Loading config from file...
+[03:02:59] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[03:02:59] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:02:59] [Server thread/INFO]: Nax_1905 joined the game
+[03:02:59] [Server thread/INFO]: Loading Configs for Sortilege
+[03:02:59] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[03:02:59] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[03:02:59] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[03:02:59] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[03:02:59] [Server thread/INFO]: PLAYER_JOIN
+[03:02:59] [Server thread/INFO]: add_player wand
+[03:02:59] [Server thread/INFO]: config sent
+[03:02:59] [Server thread/INFO]: Updating all forceload tickets for 8f6f72cb-0612-4d1c-8d40-a0f76c3f5db2
+[03:03:00] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[03:03:03] [Netty Epoll Server IO #5/INFO]: Channel update: Nax_1905 -> default
+[03:03:03] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Nax_1905. Claiming: GRAVE / Robbing: INVENTORY
+[03:03:03] [Server thread/INFO]: Nax_1905 was slain by Werewolf
+[03:03:03] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.standard_02.08.2025-03.03.03.dat
+[03:03:06] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[03:03:15] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.

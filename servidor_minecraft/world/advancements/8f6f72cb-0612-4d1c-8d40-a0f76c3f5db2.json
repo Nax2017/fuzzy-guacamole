@@ -527,6 +527,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-08-01 02:24:03 +0000",
+      "minecraft:taiga": "2025-08-02 05:36:42 +0000",
       "minecraft:frozen_river": "2025-07-31 19:04:08 +0000",
       "minecraft:cherry_grove": "2025-08-01 05:15:16 +0000",
       "minecraft:sunflower_plains": "2025-08-01 05:09:17 +0000",
@@ -6083,9 +6084,11 @@
       "rocky_meadow": "2025-08-01 05:08:08 +0000",
       "flower_fields": "2025-08-01 05:59:36 +0000",
       "maple_forest": "2025-08-01 04:58:26 +0000",
+      "boreal_forest": "2025-08-02 05:35:51 +0000",
       "cold_river": "2025-07-31 22:34:06 +0000",
       "pumpkin_fields": "2025-07-31 23:38:47 +0000",
-      "gravel_beach": "2025-07-31 23:39:27 +0000"
+      "gravel_beach": "2025-07-31 23:39:27 +0000",
+      "lupine_plains": "2025-08-02 05:38:22 +0000"
     },
     "done": false
   },
@@ -6100,9 +6103,11 @@
       "rocky_meadow": "2025-08-01 05:08:08 +0000",
       "flower_fields": "2025-08-01 05:59:36 +0000",
       "maple_forest": "2025-08-01 04:58:26 +0000",
+      "boreal_forest": "2025-08-02 05:35:51 +0000",
       "cold_river": "2025-07-31 22:34:06 +0000",
       "pumpkin_fields": "2025-07-31 23:38:47 +0000",
-      "gravel_beach": "2025-07-31 23:39:27 +0000"
+      "gravel_beach": "2025-07-31 23:39:27 +0000",
+      "lupine_plains": "2025-08-02 05:38:22 +0000"
     },
     "done": false
   },
@@ -11724,9 +11729,12 @@
   },
   "ae2:main/presses": {
     "criteria": {
-      "calculation": "2025-08-01 04:35:04 +0000"
+      "calculation": "2025-08-01 04:35:04 +0000",
+      "silicon": "2025-08-02 05:37:32 +0000",
+      "engineering": "2025-08-02 05:37:31 +0000",
+      "logic": "2025-08-02 05:37:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:adventure/way_sign": {
     "criteria": {
@@ -13624,6 +13632,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 05:37:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 05:37:37 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
@@ -13636,9 +13656,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 05:37:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 05:37:37 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 05:37:37 +0000"
     },
     "done": true
   },
@@ -13663,6 +13701,18 @@
   "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
     "criteria": {
       "has_item": "2025-08-02 05:07:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 05:37:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_shrub": {
+    "criteria": {
+      "has_larch_sapling": "2025-08-02 05:36:28 +0000"
     },
     "done": true
   },
@@ -13708,9 +13758,27 @@
     },
     "done": true
   },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-08-02 05:39:26 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/jungle_poppet_shelf": {
     "criteria": {
       "has_item": "2025-08-02 05:07:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 05:37:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 05:37:37 +0000"
     },
     "done": true
   },
@@ -13729,6 +13797,12 @@
   "travelersbackpack:recipes/misc/furnace_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 05:37:37 +0000"
     },
     "done": true
   },

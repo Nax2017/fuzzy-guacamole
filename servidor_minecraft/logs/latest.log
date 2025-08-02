@@ -4413,3 +4413,7 @@ Caused by: java.lang.IndexOutOfBoundsException: readerIndex(3) + length(2) excee
 [02:26:40] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-673, y=34, z=-1367}
 [02:26:40] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-671, y=34, z=-1367}
 [02:40:46] [Server thread/INFO]: [Nax_1905: Set own game mode to Survival Mode]
+[02:47:27] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 152.500000, 69.500000, -325.500000]
+[02:49:38] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -451.500000, 94.500000, -1064.500000]
+[02:51:49] [Server thread/INFO]: [Nax_1905: Set own game mode to Creative Mode]
+[02:53:05] [Server thread/INFO]: Nax_1905 has completed the challenge [The Traitor]

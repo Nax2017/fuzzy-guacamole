@@ -5599,3 +5599,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:54:28] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Nax_1905. Claiming: GRAVE / Robbing: INVENTORY
 [04:54:32] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
 [04:55:20] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-250, y=-26, z=-1312}
+[04:58:55] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 152.500000, 69.500000, -325.500000]
+[05:04:09] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -459.500000, 88.500000, -1071.500000]
+[05:04:38] [Server thread/INFO]: [Nax_1905: Set own game mode to Creative Mode]

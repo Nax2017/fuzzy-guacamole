@@ -12985,9 +12985,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/iron_nugget_from_shovel": {
     "criteria": {
       "has_iron_shovel": "2025-08-02 23:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_button": {
+    "criteria": {
+      "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/vertical_cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/copper_plate_from_block": {
+    "criteria": {
+      "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/copper_pillar_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-08-02 23:27:25 +0000"
     },
     "done": true
   },

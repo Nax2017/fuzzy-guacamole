@@ -12985,9 +12985,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/zinc_plate": {
+    "criteria": {
+      "has_tag_c_zinc_ingots": "2025-08-02 23:34:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-08-02 23:34:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-08-02 23:34:19 +0000"
     },
     "done": true
   },
@@ -13003,9 +13021,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-08-02 23:34:19 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_button": {
     "criteria": {
       "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/zinc_dust": {
+    "criteria": {
+      "has_tag_c_zinc_ingots": "2025-08-02 23:34:19 +0000"
     },
     "done": true
   },
@@ -13033,6 +13063,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-08-02 23:34:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-08-02 23:27:25 +0000"
@@ -13048,6 +13084,18 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-08-02 23:34:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-08-02 23:34:19 +0000"
     },
     "done": true
   },

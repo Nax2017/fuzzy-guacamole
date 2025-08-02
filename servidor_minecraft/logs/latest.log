@@ -2797,3 +2797,44 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [23:36:44] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
 [23:38:00] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[23:39:25] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 152.500000, 69.500000, -325.500000]
+[23:39:39] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 154.500000, 64.500000, -320.500000]
+[23:40:08] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -456.500000, 88.500000, -1063.500000]
+[23:42:21] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 154.500000, 64.500000, -320.500000]
+[23:43:04] [Server thread/INFO]: Nax_1905 has made the advancement [Cover Me with Diamonds]
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Combo count: 0 is dual wielding: false
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Main-hand stack: 0 air
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Off-hand stack: 0 air
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Selected slot server: 4 | client: 0
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Combo count: 1 is dual wielding: false
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Main-hand stack: 0 air
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Off-hand stack: 0 air
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Selected slot server: 4 | client: 0
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Combo count: 2 is dual wielding: false
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Main-hand stack: 0 air
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Off-hand stack: 0 air
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Selected slot server: 4 | client: 0
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Combo count: 3 is dual wielding: false
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Main-hand stack: 0 air
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Off-hand stack: 0 air
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Selected slot server: 4 | client: 0
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Combo count: 4 is dual wielding: false
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Main-hand stack: 0 air
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Off-hand stack: 0 air
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Selected slot server: 4 | client: 0
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Combo count: 5 is dual wielding: false
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Main-hand stack: 0 air
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Off-hand stack: 0 air
+[23:43:21] [Netty Epoll Server IO #0/ERROR]: Selected slot server: 4 | client: 0
+[23:44:03] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -459.500000, 88.500000, -1071.500000]
+[23:44:10] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -456.500000, 88.500000, -1063.500000]
+[23:47:03] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 154.500000, 64.500000, -320.500000]
+[23:47:33] [Server thread/INFO]: Nax_1905 has made the advancement [Wax On]
+[23:47:34] [Server thread/INFO]: ezefzc has made the advancement [Wax Off]
+[23:47:42] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -456.500000, 88.500000, -1063.500000]

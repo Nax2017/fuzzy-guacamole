@@ -13851,6 +13851,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-08-02 07:20:06 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_woodburner": {
     "criteria": {
       "has_item": "2025-08-02 07:19:54 +0000"
@@ -13893,9 +13899,21 @@
     },
     "done": true
   },
+  "beachparty:recipes/sand_bucket_block": {
+    "criteria": {
+      "has_wooden_shovel": "2025-08-02 07:25:07 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_diesel": {
     "criteria": {
       "has_item": "2025-08-02 07:19:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_shovel": {
+    "criteria": {
+      "has_wooden_shovel": "2025-08-02 07:25:07 +0000"
     },
     "done": true
   },

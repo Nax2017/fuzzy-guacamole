@@ -13629,87 +13629,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/jukebox_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/smoker_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-08-02 05:37:37 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
-    "criteria": {
-      "has_quartz_block": "2025-08-02 05:37:37 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/magnet_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/void_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2025-08-02 05:46:05 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/walls/quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-08-02 05:37:37 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/slabs/quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-08-02 05:37:37 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/feeding_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/cut_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-08-02 05:37:37 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
-    },
-    "done": true
-  },
   "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
     "criteria": {
       "has_item": "2025-08-02 05:07:58 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/crafting_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
     },
     "done": true
   },
@@ -13719,39 +13641,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-08-02 05:37:37 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/larch_shrub": {
-    "criteria": {
-      "has_larch_sapling": "2025-08-02 05:36:28 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/find_ice_maze": {
-    "criteria": {
-      "deep_frozen_ocean": "2025-08-02 05:51:15 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/root": {
-    "criteria": {
-      "grave_04": "2025-08-02 05:52:24 +0000"
-    },
-    "done": true
-  },
   "bewitchment:recipes/decorations/acacia_poppet_shelf": {
     "criteria": {
       "has_item": "2025-08-02 05:07:58 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/tanks_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
     },
     "done": true
   },
@@ -13779,27 +13671,123 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-08-02 05:07:58 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-08-02 05:07:58 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-08-02 05:07:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/smoker_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
     },
     "done": true
   },
-  "promenade:recipes/crafting/vanilla_piles/orange_tulip": {
+  "travelersbackpack:recipes/misc/furnace_upgrade": {
     "criteria": {
-      "has_flower": "2025-08-02 05:46:05 +0000"
+      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
     },
     "done": true
   },
-  "twigs:recipes/bone_meal_from_seashells": {
+  "regions_unexplored:recipes/decorations/larch_shrub": {
     "criteria": {
-      "has_item": "2025-08-02 05:39:26 +0000"
+      "has_larch_sapling": "2025-08-02 05:36:28 +0000"
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
     "criteria": {
-      "has_item": "2025-08-02 05:07:58 +0000"
+      "has_quartz_block": "2025-08-02 05:37:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 05:37:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 05:37:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 05:37:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 05:37:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-02 05:37:37 +0000"
     },
     "done": true
   },
@@ -13815,9 +13803,27 @@
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/elder_poppet_shelf": {
+  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
     "criteria": {
-      "has_item": "2025-08-02 05:07:58 +0000"
+      "has_quartz_block": "2025-08-02 05:37:37 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-08-02 05:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-08-02 05:46:05 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/orange_tulip": {
+    "criteria": {
+      "has_flower": "2025-08-02 05:46:05 +0000"
     },
     "done": true
   },
@@ -13827,21 +13833,21 @@
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
+  "aquamirae:adventure/find_ice_maze": {
     "criteria": {
-      "has_item": "2025-08-02 05:07:58 +0000"
+      "deep_frozen_ocean": "2025-08-02 05:51:15 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/furnace_upgrade": {
+  "graveyard:graveyard/root": {
     "criteria": {
-      "has_blank_upgrade": "2025-08-02 05:25:47 +0000"
+      "grave_04": "2025-08-02 05:52:24 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+  "prominent:level_10": {
     "criteria": {
-      "has_quartz_block": "2025-08-02 05:37:37 +0000"
+      "requirement": "2025-08-02 07:06:49 +0000"
     },
     "done": true
   },

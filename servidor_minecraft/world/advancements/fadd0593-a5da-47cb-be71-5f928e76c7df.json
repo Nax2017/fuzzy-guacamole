@@ -11652,9 +11652,52 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "techreborn:recipes/blast_furnace/gold_ingot_from_horse_armor": {
     "criteria": {
-      "has_any_ingredient": "2025-08-01 04:58:22 +0000"
+      "has_golden_horse_armor": "2025-08-01 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-08-01 04:30:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-08-01 04:35:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "engineering": "2025-08-01 04:35:04 +0000",
+      "logic": "2025-08-01 04:35:04 +0000"
+    },
+    "done": false
+  },
+  "zenith:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-08-01 04:37:12 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-08-01 04:44:04 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-08-01 04:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-01 04:44:04 +0000"
     },
     "done": true
   },
@@ -11664,9 +11707,153 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/computer_cube": {
+    "criteria": {
+      "has_data_storage_chip": "2025-08-01 04:52:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_boots": {
+    "criteria": {
+      "has_data_storage_chip": "2025-08-01 04:52:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit_from_industrial": {
+    "criteria": {
+      "has_data_storage_chip": "2025-08-01 04:52:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_chestplate": {
+    "criteria": {
+      "has_data_storage_chip": "2025-08-01 04:52:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/quantum_storage_unit": {
+    "criteria": {
+      "has_data_storage_chip": "2025-08-01 04:52:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/upgrader/industrial_unit_upgrader": {
+    "criteria": {
+      "has_data_storage_chip": "2025-08-01 04:52:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_leggings": {
+    "criteria": {
+      "has_data_storage_chip": "2025-08-01 04:52:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-08-01 04:52:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-08-01 04:52:35 +0000"
+    },
+    "done": true
+  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2025-08-01 04:54:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-08-01 04:54:38 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-08-01 04:54:38 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-08-01 04:54:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-08-01 04:54:38 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-08-01 04:54:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink": {
+    "criteria": {
+      "has_item": "2025-08-01 04:54:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-08-01 04:55:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-08-01 04:55:56 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:recipes/misc/nihility_armor_trim_smithing_template": {
+    "criteria": {
+      "has_nihility_armor_trim_smithing_template": "2025-08-01 04:55:56 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:recipes/misc/nihility_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-01 04:55:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-08-01 04:55:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-08-01 04:55:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-08-01 04:55:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
+    "criteria": {
+      "has_diamond_sword": "2025-08-01 04:56:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
+    "criteria": {
+      "has_diamond_sword": "2025-08-01 04:56:30 +0000"
     },
     "done": true
   },
@@ -11688,81 +11875,9 @@
     },
     "done": true
   },
-  "betternether:recipes/misc/wall_mushroom_brown": {
-    "criteria": {
-      "has_brown_mushroom": "2025-08-01 04:58:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-08-01 05:17:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-08-01 05:01:13 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:loot_vase_broken": {
-    "criteria": {
-      "criteria": "2025-08-01 05:14:11 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/andesite_pavers_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 04:56:35 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flint_block": {
-    "criteria": {
-      "has_flint": "2025-08-01 05:02:49 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/decorations/lucernia_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/nether_reed_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-08-01 04:57:06 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
-    "criteria": {
-      "has_tag_minecraft_trim_templates": "2025-08-01 04:55:56 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/horse": {
-    "criteria": {
-      "has_leather": "2025-08-01 05:01:13 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/willow_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/flower_bag": {
-    "criteria": {
-      "has_item": "2025-08-01 04:54:38 +0000"
     },
     "done": true
   },
@@ -11772,93 +11887,9 @@
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
-    "criteria": {
-      "has_item": "2025-08-01 05:14:08 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/stalagnate_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/turtle_armor_helmet": {
-    "criteria": {
-      "has_leather": "2025-08-01 05:01:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-01 05:01:12 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/misc_block/computer_cube": {
-    "criteria": {
-      "has_data_storage_chip": "2025-08-01 04:52:09 +0000"
-    },
-    "done": true
-  },
-  "minecells:promenade": {
-    "criteria": {
-      "requirement": "2025-08-01 05:44:49 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 04:56:35 +0000"
-    },
-    "done": true
-  },
-  "minecells:unlock/kill_30_leaping_zombies": {
-    "criteria": {
-      "leaping_zombies_killed": "2025-08-01 05:49:00 +0000"
-    },
-    "done": true
-  },
-  "minecells:vine_rune": {
-    "criteria": {
-      "vine_rune": "2025-08-01 05:55:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-08-01 05:01:13 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/decorations/lacugrove_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/bows/bow_hunters_promise": {
-    "criteria": {
-      "has_leather": "2025-08-01 05:01:13 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/undead_archer": {
-    "criteria": {
-      "requirement": "2025-08-01 05:28:20 +0000"
-    },
-    "done": true
-  },
-  "botania:main/root": {
-    "criteria": {
-      "flower": "2025-08-01 04:54:38 +0000"
     },
     "done": true
   },
@@ -11868,33 +11899,9 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/leather_to_stripes": {
-    "criteria": {
-      "has_leather": "2025-08-01 05:01:13 +0000"
-    },
-    "done": true
-  },
-  "minecells:cell_crafter": {
-    "criteria": {
-      "use_cell_crafter": "2025-08-01 05:43:12 +0000"
-    },
-    "done": true
-  },
-  "minecells:unlock/kill_a_leaping_zombie": {
-    "criteria": {
-      "leaping_zombie_killed": "2025-08-01 05:28:17 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/andesite_plate_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 04:56:35 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
-    "criteria": {
-      "has_item": "2025-08-01 05:09:45 +0000"
     },
     "done": true
   },
@@ -11910,111 +11917,9 @@
     },
     "done": true
   },
-  "betternether:recipes/food/stalagnate_bowl_mushroom": {
-    "criteria": {
-      "has_brown_mushroom": "2025-08-01 04:58:22 +0000"
-    },
-    "done": true
-  },
-  "more_armor_trims:recipes/misc/nihility_armor_trim_smithing_template": {
-    "criteria": {
-      "has_nihility_armor_trim_smithing_template": "2025-08-01 04:55:56 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:sword_on_a_stick": {
-    "criteria": {
-      "requirement": "2025-08-01 05:50:22 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-08-01 05:13:48 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/loam": {
-    "criteria": {
-      "has_clay_ball": "2025-08-01 05:15:02 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/red_mushroom": {
-    "criteria": {
-      "has_red_mushroom": "2025-08-01 04:58:23 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-01 04:56:35 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/decorations/end_lotus_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/hammers/hammer_flail": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-08-01 04:57:06 +0000"
-    },
-    "done": true
-  },
-  "more_armor_trims:recipes/misc/nihility_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-08-01 04:55:56 +0000"
-    },
-    "done": true
-  },
-  "minecells:elite": {
-    "criteria": {
-      "obelisk_activated": "2025-08-01 05:55:22 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
-    "criteria": {
-      "press": "2025-08-01 04:35:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_brown_mushroom": "2025-08-01 04:58:22 +0000"
-    },
-    "done": true
-  },
-  "minecells:prison": {
-    "criteria": {
-      "requirement": "2025-08-01 05:28:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-08-01 05:14:08 +0000"
     },
     "done": true
   },
@@ -12024,33 +11929,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-08-01 05:02:49 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 04:56:35 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
-    "criteria": {
-      "has_tag_minecraft_trim_templates": "2025-08-01 04:55:56 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
-    "criteria": {
-      "has_leather": "2025-08-01 05:01:13 +0000"
-    },
-    "done": true
-  },
-  "minecells:root": {
-    "criteria": {
-      "requirement": "2025-08-01 05:09:07 +0000"
     },
     "done": true
   },
@@ -12060,58 +11941,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-01 04:58:22 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/book": {
-    "criteria": {
-      "requirement": "2025-08-01 05:09:07 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/armor/quantum_boots": {
-    "criteria": {
-      "has_data_storage_chip": "2025-08-01 04:52:09 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 04:56:35 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/presses": {
-    "criteria": {
-      "engineering": "2025-08-01 04:35:04 +0000",
-      "logic": "2025-08-01 04:35:04 +0000"
-    },
-    "done": false
-  },
-  "minecells:book/mobs/runner": {
-    "criteria": {
-      "requirement": "2025-08-01 05:47:50 +0000"
-    },
-    "done": true
-  },
-  "oxidized:recipes/copper_trap": {
-    "criteria": {
-      "has_flint": "2025-08-01 05:02:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-08-01 05:01:12 +0000"
     },
     "done": true
   },
@@ -12121,81 +11953,15 @@
     },
     "done": true
   },
-  "botania:main/flower_pickup_lexicon": {
-    "criteria": {
-      "flower": "2025-08-01 04:54:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 04:56:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-08-01 05:01:13 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/pink_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-08-01 04:54:38 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-01 04:56:35 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/hamburger": {
-    "criteria": {
-      "has_beef": "2025-08-01 05:01:12 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/andesite_pedestal": {
-    "criteria": {
-      "has_polished_andesite": "2025-08-01 04:57:06 +0000"
-    },
-    "done": true
-  },
-  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
-    },
-    "done": true
-  },
-  "alloy_forgery:recipes/alloy_forgery/iron_block": {
-    "criteria": {
-      "has_raw_iron_ore_block": "2025-08-01 05:17:35 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/stuffed_poblanos": {
-    "criteria": {
-      "has_beef": "2025-08-01 05:01:12 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/wall_red_brown": {
-    "criteria": {
-      "has_red_mushroom": "2025-08-01 04:58:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-08-01 04:58:22 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
-    "criteria": {
-      "has_tag_minecraft_trim_templates": "2025-08-01 04:55:56 +0000"
     },
     "done": true
   },
@@ -12223,57 +11989,9 @@
     },
     "done": true
   },
-  "rpg_series:spell_novice_warrior": {
-    "criteria": {
-      "bind": "2025-08-01 05:59:32 +0000"
-    },
-    "done": true
-  },
-  "zenith:enchanting/bookshelf": {
-    "criteria": {
-      "bookshelf": "2025-08-01 04:37:12 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
-    "criteria": {
-      "has_diamond_sword": "2025-08-01 04:56:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-08-01 05:14:08 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_dancers_sword": {
-    "criteria": {
-      "has_leather": "2025-08-01 05:01:13 +0000"
-    },
-    "done": true
-  },
-  "zenith:enchanting/enchanter": {
-    "criteria": {
-      "enchanting_table": "2025-08-01 04:30:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 04:56:35 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/grenadier": {
-    "criteria": {
-      "requirement": "2025-08-01 05:40:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-08-01 04:57:06 +0000"
     },
     "done": true
   },
@@ -12283,63 +12001,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit_from_industrial": {
-    "criteria": {
-      "has_data_storage_chip": "2025-08-01 04:52:09 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-08-01 05:14:08 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/shieldbearer": {
-    "criteria": {
-      "requirement": "2025-08-01 05:29:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-08-01 04:56:35 +0000"
-    },
-    "done": true
-  },
-  "botania:main/flower_pickup": {
-    "criteria": {
-      "flower": "2025-08-01 04:54:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
-    "criteria": {
-      "has_beef": "2025-08-01 05:01:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-08-01 05:01:13 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/beef_jerky": {
-    "criteria": {
-      "has_beef": "2025-08-01 05:01:12 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin_seed": "2025-08-01 05:14:12 +0000"
     },
     "done": true
   },
@@ -12349,99 +12013,15 @@
     },
     "done": true
   },
-  "simplyswords:ribboncleaver": {
-    "criteria": {
-      "requirement": "2025-08-01 05:39:37 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_pink": {
-    "criteria": {
-      "has_item": "2025-08-01 04:54:38 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
-    "criteria": {
-      "has_moss_block": "2025-08-01 05:14:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-08-01 05:15:02 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 04:56:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-08-01 05:01:13 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_14": {
-    "criteria": {
-      "has_alt_item": "2025-08-01 04:58:22 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_15": {
-    "criteria": {
-      "has_alt_item": "2025-08-01 04:58:22 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_10": {
-    "criteria": {
-      "has_alt_item": "2025-08-01 04:58:22 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_11": {
-    "criteria": {
-      "has_alt_item": "2025-08-01 04:58:22 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_12": {
-    "criteria": {
-      "has_alt_item": "2025-08-01 04:58:22 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_13": {
-    "criteria": {
-      "has_alt_item": "2025-08-01 04:58:22 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/protector": {
-    "criteria": {
-      "requirement": "2025-08-01 05:51:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-08-01 04:57:06 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-01 04:56:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-08-01 05:15:02 +0000"
     },
     "done": true
   },
@@ -12457,18 +12037,6 @@
     },
     "done": true
   },
-  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
-    "criteria": {
-      "has_item": "2025-08-01 05:14:08 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/mutated_bat": {
-    "criteria": {
-      "requirement": "2025-08-01 05:46:39 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-01 04:56:35 +0000"
@@ -12478,12 +12046,6 @@
   "stoneworks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 04:56:35 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
     },
     "done": true
   },
@@ -12499,27 +12061,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/compressor/coal_plate_from_block": {
-    "criteria": {
-      "has_coal_block": "2025-08-01 05:17:30 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/rubeus_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/andesite_tile_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 04:56:35 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/decorations/helix_tree_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
     },
     "done": true
   },
@@ -12532,18 +12076,6 @@
   "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-01 04:56:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wild_armor_trim_smithing_template": "2025-08-01 05:13:48 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mushroom_village": {
-    "criteria": {
-      "location0": "2025-08-01 04:55:40 +0000"
     },
     "done": true
   },
@@ -12583,27 +12115,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-08-01 05:17:35 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 04:56:35 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
-    "criteria": {
-      "has_tag_minecraft_wooden_fences": "2025-08-01 04:52:35 +0000"
-    },
-    "done": true
-  },
-  "minecells:unlock/run_in_the_promenade": {
-    "criteria": {
-      "run": "2025-08-01 05:45:05 +0000"
     },
     "done": true
   },
@@ -12619,18 +12133,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
-    "criteria": {
-      "has_tag_minecraft_wooden_fences": "2025-08-01 04:52:35 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_beef_stew": {
-    "criteria": {
-      "has_beef": "2025-08-01 05:01:12 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cracked_andesite_tiles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 04:56:35 +0000"
@@ -12643,39 +12145,15 @@
     },
     "done": true
   },
-  "zenith:enchanting/enchanting_stats": {
-    "criteria": {
-      "enchanted_item": "2025-08-01 04:44:04 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-01 04:56:35 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
-    "criteria": {
-      "has_diamond_sword": "2025-08-01 04:56:30 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/wart_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 04:56:35 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/armor/quantum_chestplate": {
-    "criteria": {
-      "has_data_storage_chip": "2025-08-01 04:52:09 +0000"
     },
     "done": true
   },
@@ -12691,12 +12169,6 @@
     },
     "done": true
   },
-  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
-    "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/andesite_shingle_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 04:56:35 +0000"
@@ -12706,6 +12178,186 @@
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-01 04:56:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2025-08-01 04:56:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-01 04:56:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-01 04:56:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tile_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-01 04:56:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-01 04:56:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-01 04:56:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-01 04:56:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-01 04:56:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-01 04:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-08-01 04:56:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-01 04:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-08-01 04:56:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_paver_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-01 04:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-01 04:57:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-01 04:57:06 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_pedestal": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-01 04:57:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-01 04:57:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-01 04:57:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 04:58:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-01 04:58:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-01 04:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-01 04:58:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-01 04:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-01 04:58:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_alt_item": "2025-08-01 04:58:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_alt_item": "2025-08-01 04:58:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_alt_item": "2025-08-01 04:58:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_alt_item": "2025-08-01 04:58:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_alt_item": "2025-08-01 04:58:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_alt_item": "2025-08-01 04:58:22 +0000"
     },
     "done": true
   },
@@ -12769,39 +12421,63 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
+  "techreborn:recipes/centrifuge/brown_mushroom": {
     "criteria": {
-      "has_tag_minecraft_trim_templates": "2025-08-01 04:55:56 +0000"
+      "has_brown_mushroom": "2025-08-01 04:58:22 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/andesite_pillar_trim": {
+  "techreborn:recipes/centrifuge/red_mushroom": {
     "criteria": {
-      "has_andesite_pillar_trim": "2025-08-01 04:56:35 +0000"
+      "has_red_mushroom": "2025-08-01 04:58:23 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+  "betternether:recipes/misc/wall_red_brown": {
     "criteria": {
-      "has_stone_types_andesite": "2025-08-01 04:56:35 +0000"
+      "has_red_mushroom": "2025-08-01 04:58:23 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_stairs_from_andesite_stonecutting": {
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
-      "has_andesite": "2025-08-01 04:56:35 +0000"
+      "has_any_ingredient": "2025-08-01 05:01:12 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/misc_block/gravel": {
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
-      "has_flint": "2025-08-01 05:02:49 +0000"
+      "has_beef": "2025-08-01 05:01:12 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/andesite_tile_wall_from_andesite_stonecutting": {
+  "croptopia:recipes/hamburger": {
     "criteria": {
-      "has_andesite": "2025-08-01 04:56:35 +0000"
+      "has_beef": "2025-08-01 05:01:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2025-08-01 05:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-01 05:01:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2025-08-01 05:01:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-08-01 05:01:12 +0000"
     },
     "done": true
   },
@@ -12811,9 +12487,69 @@
     },
     "done": true
   },
-  "zenith:enchanting/30ench": {
+  "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
-      "enchanted_item": "2025-08-01 04:44:04 +0000"
+      "has_leather": "2025-08-01 05:01:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-08-01 05:01:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/turtle_armor_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-01 05:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-01 05:01:13 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_hunters_promise": {
+    "criteria": {
+      "has_leather": "2025-08-01 05:01:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-08-01 05:01:13 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
+    "criteria": {
+      "has_leather": "2025-08-01 05:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-01 05:01:13 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dancers_sword": {
+    "criteria": {
+      "has_leather": "2025-08-01 05:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-01 05:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-01 05:01:13 +0000"
     },
     "done": true
   },
@@ -12823,15 +12559,45 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/unit/storage/quantum_storage_unit": {
+  "mcda:recipes/base_armors/vanguard_armor_leggings": {
     "criteria": {
-      "has_data_storage_chip": "2025-08-01 04:52:09 +0000"
+      "has_leather": "2025-08-01 05:01:13 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/andesite_shingles_from_andesite_stonecutting": {
+  "supplementaries:recipes/bellows": {
     "criteria": {
-      "has_andesite": "2025-08-01 04:56:35 +0000"
+      "has_leather": "2025-08-01 05:01:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-08-01 05:01:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-08-01 05:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-01 05:02:49 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_trap": {
+    "criteria": {
+      "has_flint": "2025-08-01 05:02:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/gravel": {
+    "criteria": {
+      "has_flint": "2025-08-01 05:02:49 +0000"
     },
     "done": true
   },
@@ -12841,27 +12607,21 @@
     },
     "done": true
   },
-  "betterend:recipes/decorations/tenanea_hanging_sign": {
+  "minecells:root": {
     "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
+      "requirement": "2025-08-01 05:09:07 +0000"
     },
     "done": true
   },
-  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+  "minecells:book/book": {
     "criteria": {
-      "has_chain": "2025-08-01 05:36:16 +0000"
+      "requirement": "2025-08-01 05:09:07 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/gold_ingot_from_horse_armor": {
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
     "criteria": {
-      "has_golden_horse_armor": "2025-08-01 04:29:35 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/vanguard_armor_leggings": {
-    "criteria": {
-      "has_leather": "2025-08-01 05:01:13 +0000"
+      "has_item": "2025-08-01 05:09:45 +0000"
     },
     "done": true
   },
@@ -12877,51 +12637,117 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_stone_types_andesite": "2025-08-01 04:56:35 +0000"
+      "has_smithing_trim_template": "2025-08-01 05:13:48 +0000"
     },
     "done": true
   },
-  "simplyswords:molten_edge": {
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
     "criteria": {
-      "requirement": "2025-08-01 05:38:43 +0000"
+      "has_wild_armor_trim_smithing_template": "2025-08-01 05:13:48 +0000"
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
     "criteria": {
-      "enchanted_item": "2025-08-01 04:44:04 +0000"
+      "has_item": "2025-08-01 05:14:08 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
-      "has_andesite": "2025-08-01 04:56:35 +0000"
+      "has_moss_block": "2025-08-01 05:14:08 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/unit/upgrader/industrial_unit_upgrader": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
-      "has_data_storage_chip": "2025-08-01 04:52:09 +0000"
+      "has_moss_block": "2025-08-01 05:14:08 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/bellows": {
+  "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
-      "has_leather": "2025-08-01 05:01:13 +0000"
+      "has_moss_block": "2025-08-01 05:14:08 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/armor/quantum_leggings": {
+  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
     "criteria": {
-      "has_data_storage_chip": "2025-08-01 04:52:09 +0000"
+      "has_moss_block": "2025-08-01 05:14:08 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_stonecutting": {
+  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
     "criteria": {
-      "has_andesite": "2025-08-01 04:56:35 +0000"
+      "has_item": "2025-08-01 05:14:08 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-08-01 05:14:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2025-08-01 05:14:12 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2025-08-01 05:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-08-01 05:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-08-01 05:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-08-01 05:17:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/coal_plate_from_block": {
+    "criteria": {
+      "has_coal_block": "2025-08-01 05:17:30 +0000"
+    },
+    "done": true
+  },
+  "alloy_forgery:recipes/alloy_forgery/iron_block": {
+    "criteria": {
+      "has_raw_iron_ore_block": "2025-08-01 05:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-08-01 05:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecells:prison": {
+    "criteria": {
+      "requirement": "2025-08-01 05:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_a_leaping_zombie": {
+    "criteria": {
+      "leaping_zombie_killed": "2025-08-01 05:28:17 +0000"
     },
     "done": true
   },
@@ -12931,45 +12757,135 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+  "minecells:book/mobs/undead_archer": {
     "criteria": {
-      "has_stone_types_andesite": "2025-08-01 04:56:35 +0000"
+      "requirement": "2025-08-01 05:28:20 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/blank_upgrade": {
+  "minecells:book/mobs/shieldbearer": {
     "criteria": {
-      "has_leather": "2025-08-01 05:01:13 +0000"
+      "requirement": "2025-08-01 05:29:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite": {
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
     "criteria": {
-      "has_andesite": "2025-08-01 04:56:35 +0000"
+      "has_chain": "2025-08-01 05:36:16 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_wall_from_andesite_stonecutting": {
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
     "criteria": {
-      "has_andesite": "2025-08-01 04:56:35 +0000"
+      "has_chain": "2025-08-01 05:36:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall": {
+  "betternether:recipes/decorations/willow_hanging_sign": {
     "criteria": {
-      "has_andesite": "2025-08-01 04:56:35 +0000"
+      "has_chain": "2025-08-01 05:36:16 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/andesite_paver_stairs_from_andesite_stonecutting": {
+  "betternether:recipes/decorations/stalagnate_hanging_sign": {
     "criteria": {
-      "has_andesite": "2025-08-01 04:56:35 +0000"
+      "has_chain": "2025-08-01 05:36:16 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/brown_mushroom": {
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
     "criteria": {
-      "has_brown_mushroom": "2025-08-01 04:58:22 +0000"
+      "has_chain": "2025-08-01 05:36:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-01 05:36:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-01 05:36:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-01 05:36:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-01 05:36:16 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_flail": {
+    "criteria": {
+      "has_chain": "2025-08-01 05:36:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-01 05:36:16 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_chain": "2025-08-01 05:36:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-01 05:36:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-01 05:36:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-01 05:36:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-01 05:36:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-01 05:36:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-01 05:36:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-01 05:36:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-08-01 05:36:16 +0000"
     },
     "done": true
   },
@@ -12982,6 +12898,96 @@
   "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
     "criteria": {
       "has_chain": "2025-08-01 05:36:16 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:molten_edge": {
+    "criteria": {
+      "requirement": "2025-08-01 05:38:43 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:ribboncleaver": {
+    "criteria": {
+      "requirement": "2025-08-01 05:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2025-08-01 05:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-08-01 05:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-08-01 05:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-08-01 05:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-08-01 05:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/runner": {
+    "criteria": {
+      "requirement": "2025-08-01 05:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_30_leaping_zombies": {
+    "criteria": {
+      "leaping_zombies_killed": "2025-08-01 05:49:00 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:sword_on_a_stick": {
+    "criteria": {
+      "requirement": "2025-08-01 05:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/protector": {
+    "criteria": {
+      "requirement": "2025-08-01 05:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecells:elite": {
+    "criteria": {
+      "obelisk_activated": "2025-08-01 05:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecells:vine_rune": {
+    "criteria": {
+      "vine_rune": "2025-08-01 05:55:50 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_warrior": {
+    "criteria": {
+      "bind": "2025-08-01 05:59:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_shovel": {
+    "criteria": {
+      "has_iron_shovel": "2025-08-02 23:21:44 +0000"
     },
     "done": true
   },

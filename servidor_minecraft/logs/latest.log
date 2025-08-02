@@ -5574,3 +5574,28 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:42:40] [Server thread/INFO]: Nax_1905 left the game
 [04:42:40] [Server thread/INFO]: remove player wand
 [04:42:40] [Server thread/INFO]: Updating all forceload tickets for 8f6f72cb-0612-4d1c-8d40-a0f76c3f5db2
+[04:54:20] [User Authenticator #4/INFO]: UUID of player Nax_1905 is 8f6f72cb-0612-4d1c-8d40-a0f76c3f5db2
+[04:54:20] [Server thread/INFO]: [Handshake] Sending channel query
+[04:54:20] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[04:54:20] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[04:54:21] [Server thread/INFO]: Nax_1905[/127.252.72.59:41597] logged in with entity id 74335 at (-436.3633421673336, 100.0, -1073.8826011665728)
+[04:54:21] [Server thread/INFO]: Sending server config values to client
+[04:54:21] [Server thread/INFO]: Syncing config to Nax_1905 (8f6f72cb-0612-4d1c-8d40-a0f76c3f5db2)
+[04:54:21] [Server thread/INFO]: Loading config from file...
+[04:54:21] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[04:54:21] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:54:21] [Server thread/INFO]: Nax_1905 joined the game
+[04:54:21] [Server thread/INFO]: Loading Configs for Sortilege
+[04:54:21] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[04:54:21] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[04:54:21] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[04:54:21] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[04:54:21] [Server thread/INFO]: PLAYER_JOIN
+[04:54:21] [Server thread/INFO]: add_player wand
+[04:54:21] [Server thread/INFO]: config sent
+[04:54:21] [Server thread/INFO]: Updating all forceload tickets for 8f6f72cb-0612-4d1c-8d40-a0f76c3f5db2
+[04:54:23] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[04:54:28] [Netty Epoll Server IO #1/INFO]: Channel update: Nax_1905 -> default
+[04:54:28] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Nax_1905. Claiming: GRAVE / Robbing: INVENTORY
+[04:54:32] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[04:55:20] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-250, y=-26, z=-1312}

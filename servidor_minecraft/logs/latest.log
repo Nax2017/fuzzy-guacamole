@@ -6161,3 +6161,106 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [05:45:58] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1643, y=-9, z=-1705}
 [05:46:20] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -2065.500000, 97.500000, -1553.500000]
 [05:46:53] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -2293.500000, 65.500000, -1799.500000]
+[05:47:53] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -2399.500000, 78.500000, -1865.500000]
+[05:48:05] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -2344.500000, 70.500000, -1981.500000]
+[05:48:19] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -1949.500000, 104.500000, -1472.500000]
+[05:48:26] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -1602.500000, 68.500000, -1267.500000]
+[05:48:33] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish]] from pos class_2338{x=-1739, y=67, z=-1093}
+[05:48:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3189ms or 63 ticks behind
+[05:48:39] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 1411.500000, 69.500000, -159.500000]
+[05:49:21] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 1418.500000, 104.500000, -51.500000]
+[05:49:33] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 1476.500000, 75.500000, -4.500000]
+[05:50:36] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 1377.500000, 69.500000, 72.500000]
+[05:50:41] [Worker-Main-233/WARN]: Ignoring unknown attribute 'obscure_api:magic_damage'
+[05:50:49] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 1379.500000, 63.500000, 180.500000]
+[05:51:14] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 1318.500000, 82.500000, 214.500000]
+[05:51:15] [Server thread/INFO]: Nax_1905 has made the advancement [Ice Maze]
+[05:51:43] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 1318.500000, 136.500000, 262.500000]
+[05:51:56] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 1389.500000, 70.500000, 369.500000]
+[05:52:19] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -942.500000, 78.500000, -728.500000]
+[05:52:24] [Server thread/INFO]: Nax_1905 has made the advancement [Gravedigger]
+[05:52:26] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1118, y=-1, z=-571}
+[05:52:32] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -992.500000, 63.500000, -604.500000]
+[05:52:42] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -1096.500000, 71.500000, -645.500000]
+[05:52:50] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -1174.500000, 76.500000, -584.500000]
+[05:52:58] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -1186.500000, 84.500000, -579.500000]
+[05:53:23] [Server thread/INFO]: Villager class_1646['Bertie'/104205, l='ServerLevel[world]', x=-1183.55, y=75.00, z=-577.45] died, message: 'Bertie froze to death'
+[05:53:23] [Server thread/INFO]: Named entity class_1646['Bertie'/104205, l='ServerLevel[world]', x=-1183.55, y=75.00, z=-577.45] died: Bertie froze to death
+[05:53:25] [Server thread/INFO]: Villager class_1646['Ezekiel'/104213, l='ServerLevel[world]', x=-1183.50, y=75.28, z=-578.70] died, message: 'Ezekiel froze to death'
+[05:53:25] [Server thread/INFO]: Named entity class_1646['Ezekiel'/104213, l='ServerLevel[world]', x=-1183.50, y=75.28, z=-578.70] died: Ezekiel froze to death
+[05:53:42] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -1098.500000, 69.500000, -727.500000]
+[05:53:43] [Server thread/INFO]: Villager class_1646['Brett'/104211, l='ServerLevel[world]', x=-1196.50, y=75.00, z=-571.43] died, message: 'Brett froze to death'
+[05:53:43] [Server thread/INFO]: Named entity class_1646['Brett'/104211, l='ServerLevel[world]', x=-1196.50, y=75.00, z=-571.43] died: Brett froze to death
+[05:54:04] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -1197.500000, 64.500000, -477.500000]
+[05:54:29] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -1302.500000, 94.500000, -519.500000]
+[05:54:52] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -72.500000, 95.500000, 201.500000]
+[05:54:57] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -10.500000, 92.500000, 306.500000]
+[05:55:00] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 36.500000, 70.500000, 367.500000]
+[05:55:13] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -67.500000, 85.500000, 433.500000]
+[05:55:14] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-162, y=-4, z=482}
+[05:55:32] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -459.500000, 88.500000, -1071.500000]
+[05:55:34] [Server thread/INFO]: Nax_1905 lost connection: Disconnected
+[05:55:34] [Server thread/INFO]: Nax_1905 left the game
+[05:55:34] [Server thread/INFO]: remove player wand
+[05:55:34] [Server thread/INFO]: Updating all forceload tickets for 8f6f72cb-0612-4d1c-8d40-a0f76c3f5db2
+[05:55:43] [Server thread/INFO]: Stopping the server
+[05:55:43] [Server thread/INFO]: Invalidated damage temperature effect registry cache
+[05:55:43] [Server thread/INFO]: Resetting environment controller...
+[05:55:43] [Server thread/INFO]: Stopping server
+[05:55:43] [Server thread/INFO]: Saving players
+[05:55:43] [Server thread/INFO]: Saving worlds
+[05:55:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:insufferable_crypt
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/prominent:vaaz_volcano
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:ramparts
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/spellbladenext:glassocean
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:black_bridge
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:prison
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:promenade
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/prominent:cinderstone_depths
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:55:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (insufferable_crypt): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (vaaz_volcano): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (ramparts): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (glassocean): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (black_bridge): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (prison): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (promenade): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (cinderstone_depths): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[05:55:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:55:45] [Server thread/INFO]: Stopping IO worker...
+[05:55:45] [Server thread/INFO]: Stopped IO worker!

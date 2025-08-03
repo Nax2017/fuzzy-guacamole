@@ -7074,15 +7074,19 @@
     "criteria": {
       "silver_birch_forest": "2025-08-01 01:58:55 +0000",
       "autumnal_maple_forest": "2025-08-01 01:48:31 +0000",
+      "muddy_river": "2025-08-03 01:03:14 +0000",
       "ancient_delta": "2025-08-01 02:43:11 +0000",
       "willow_forest": "2025-08-01 05:06:42 +0000",
       "frozen_tundra": "2025-08-01 04:51:09 +0000",
       "poppy_fields": "2025-08-01 01:59:50 +0000",
       "rocky_meadow": "2025-08-01 05:07:56 +0000",
       "maple_forest": "2025-08-01 02:07:23 +0000",
+      "frozen_pine_taiga": "2025-08-03 01:04:01 +0000",
+      "cold_boreal_taiga": "2025-08-03 01:07:47 +0000",
       "cold_river": "2025-08-01 01:50:35 +0000",
       "pumpkin_fields": "2025-08-01 01:50:59 +0000",
-      "gravel_beach": "2025-08-01 01:52:56 +0000"
+      "gravel_beach": "2025-08-01 01:52:56 +0000",
+      "icy_heights": "2025-08-03 01:04:15 +0000"
     },
     "done": false
   },
@@ -7090,14 +7094,18 @@
     "criteria": {
       "silver_birch_forest": "2025-08-01 01:58:55 +0000",
       "autumnal_maple_forest": "2025-08-01 01:48:31 +0000",
+      "muddy_river": "2025-08-03 01:03:14 +0000",
       "willow_forest": "2025-08-01 05:06:42 +0000",
       "frozen_tundra": "2025-08-01 04:51:09 +0000",
       "poppy_fields": "2025-08-01 01:59:50 +0000",
       "rocky_meadow": "2025-08-01 05:07:56 +0000",
       "maple_forest": "2025-08-01 02:07:23 +0000",
+      "frozen_pine_taiga": "2025-08-03 01:04:01 +0000",
+      "cold_boreal_taiga": "2025-08-03 01:07:47 +0000",
       "cold_river": "2025-08-01 01:50:35 +0000",
       "pumpkin_fields": "2025-08-01 01:50:59 +0000",
-      "gravel_beach": "2025-08-01 01:52:56 +0000"
+      "gravel_beach": "2025-08-01 01:52:56 +0000",
+      "icy_heights": "2025-08-03 01:04:15 +0000"
     },
     "done": false
   },
@@ -12982,6 +12990,12 @@
   "rpg_series:spell_novice_warrior": {
     "criteria": {
       "bind": "2025-08-01 05:59:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_shrub": {
+    "criteria": {
+      "has_maple_sapling": "2025-08-03 01:02:11 +0000"
     },
     "done": true
   },

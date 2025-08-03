@@ -10652,6 +10652,12 @@
     },
     "done": true
   },
+  "simplyswords:icewhisper": {
+    "criteria": {
+      "requirement": "2025-08-03 00:25:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-08-02 23:35:02 +0000"
@@ -10709,6 +10715,12 @@
   "more_rpg_content:bow_way": {
     "criteria": {
       "items": "2025-08-02 23:35:02 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2025-08-03 00:25:48 +0000"
     },
     "done": true
   },

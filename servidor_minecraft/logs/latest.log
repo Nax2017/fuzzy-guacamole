@@ -11,3 +11,24 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [00:09:20] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
 [00:14:54] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 22.500000, 64.500000, -888.500000]
 [00:17:53] [Server thread/INFO]: ezefzc has made the advancement [Keeper of Souls]
+[00:22:47] [Server thread/INFO]: Nax_1905 was slain by Leaping Zombie
+[00:22:47] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_03.08.2025-00.22.47.dat
+[00:22:54] [Server thread/INFO]: Nax_1905 was slain by Leaping Zombie
+[00:22:54] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_03.08.2025-00.22.54.dat
+[00:22:56] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[00:23:19] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ezefzc]
+[00:23:19] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[00:24:40] [Server thread/INFO]: ezefzc was slain by Runner
+[00:24:40] [Server thread/INFO]: Created new backpack backup file for ezefzc with unique ID travelersbackpack.standard_03.08.2025-00.24.40.dat
+[00:24:44] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[00:25:14] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -94.500000, 45.500000, -905.500000]
+[00:25:27] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[00:25:39] [Server thread/INFO]: [ezefzc: Teleported ezefzc to Nax_1905]
+[00:25:39] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[00:25:48] [Server thread/INFO]: ezefzc has made the advancement [Listen Close]
+[00:26:00] [Server thread/INFO]: Nax_1905 has made the advancement [Keeper of Souls]
+[00:29:12] [Server thread/INFO]: ezefzc bled to death
+[00:29:12] [Server thread/INFO]: Created new backpack backup file for ezefzc with unique ID travelersbackpack.standard_03.08.2025-00.29.12.dat
+[00:29:14] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[00:29:17] [Server thread/INFO]: [ezefzc: Teleported ezefzc to Nax_1905]
+[00:29:17] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.

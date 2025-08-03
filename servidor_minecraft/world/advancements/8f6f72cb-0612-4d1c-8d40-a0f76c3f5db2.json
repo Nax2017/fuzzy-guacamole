@@ -14241,24 +14241,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
-    "criteria": {
-      "has_diamond_boots": "2025-08-02 23:43:07 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
-    "criteria": {
-      "has_diamond_boots": "2025-08-02 23:43:07 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
-    "criteria": {
-      "has_diamond_helmet": "2025-08-02 23:58:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-08-02 23:36:49 +0000"
@@ -14283,51 +14265,9 @@
     },
     "done": true
   },
-  "simplyswords:soulkeeper": {
-    "criteria": {
-      "requirement": "2025-08-03 00:26:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-08-02 23:36:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-08-02 23:43:04 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:waxweaver": {
-    "criteria": {
-      "requirement": "2025-08-02 23:47:33 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
-    "criteria": {
-      "has_diamond_leggings": "2025-08-02 23:43:10 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
-    "criteria": {
-      "has_diamond_chestplate": "2025-08-02 23:43:04 +0000"
-    },
-    "done": true
-  },
-  "minecells:unlock/kill_15_runners": {
-    "criteria": {
-      "runners_killed": "2025-08-03 00:17:31 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_water": {
-    "criteria": {
-      "has_diamond_chestplate": "2025-08-02 23:43:04 +0000"
     },
     "done": true
   },
@@ -14355,15 +14295,75 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_diamond_helmet": "2025-08-02 23:58:49 +0000"
+      "diamond_chestplate": "2025-08-02 23:43:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-08-02 23:43:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_water": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-08-02 23:43:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
+    "criteria": {
+      "has_diamond_boots": "2025-08-02 23:43:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
+    "criteria": {
+      "has_diamond_boots": "2025-08-02 23:43:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
+    "criteria": {
+      "has_diamond_leggings": "2025-08-02 23:43:10 +0000"
     },
     "done": true
   },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
     "criteria": {
       "has_diamond_leggings": "2025-08-02 23:43:10 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:waxweaver": {
+    "criteria": {
+      "requirement": "2025-08-02 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-08-02 23:58:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-08-02 23:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_15_runners": {
+    "criteria": {
+      "runners_killed": "2025-08-03 00:17:31 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulkeeper": {
+    "criteria": {
+      "requirement": "2025-08-03 00:26:00 +0000"
     },
     "done": true
   },

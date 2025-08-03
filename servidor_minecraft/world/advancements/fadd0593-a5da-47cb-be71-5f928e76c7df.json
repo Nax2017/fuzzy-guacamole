@@ -13017,6 +13017,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2025-08-03 01:13:22 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-08-02 23:49:07 +0000"
@@ -13026,6 +13032,12 @@
   "bewitchment:recipes/building_blocks/salt_block": {
     "criteria": {
       "has_item": "2025-08-02 23:48:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
+    "criteria": {
+      "has_map": "2025-08-03 01:13:23 +0000"
     },
     "done": true
   },
@@ -13068,6 +13080,12 @@
   "techreborn:recipes/blast_furnace/iron_nugget_from_shovel": {
     "criteria": {
       "has_iron_shovel": "2025-08-02 23:21:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sand": {
+    "criteria": {
+      "has_sand": "2025-08-03 01:10:48 +0000"
     },
     "done": true
   },
@@ -13116,6 +13134,12 @@
   "oxidized:recipes/vertical_cut_copper": {
     "criteria": {
       "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
+    "criteria": {
+      "has_golden_chestplate": "2025-08-03 01:13:32 +0000"
     },
     "done": true
   },
@@ -13179,6 +13203,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_phantom_membrane": "2025-08-03 01:12:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
@@ -13188,6 +13218,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_pickaxe": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-08-03 01:13:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_horse_armor": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-08-03 01:11:20 +0000"
     },
     "done": true
   },
@@ -13239,6 +13281,36 @@
     },
     "done": true
   },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-08-03 01:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-03 01:10:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
+    "criteria": {
+      "has_wooden_sword": "2025-08-03 01:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-08-03 01:13:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/prismarine_shard": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-08-03 01:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-08-02 23:27:25 +0000"
@@ -13257,6 +13329,18 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-08-03 01:12:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-08-03 01:13:23 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/copper_pillar/copper_pillar_stonecutting": {
     "criteria": {
       "has_cut_copper_slab": "2025-08-02 23:27:25 +0000"
@@ -13266,6 +13350,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2025-08-03 01:10:48 +0000"
     },
     "done": true
   },
@@ -13296,6 +13386,18 @@
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-08-03 00:03:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-08-03 01:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-03 01:10:48 +0000"
     },
     "done": true
   },

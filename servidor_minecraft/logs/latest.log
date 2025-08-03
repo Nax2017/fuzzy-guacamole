@@ -443,3 +443,122 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [00:39:24] [Server thread/INFO]: ezefzc was slain by Leaping Zombie
 [00:39:24] [Server thread/INFO]: Created new backpack backup file for ezefzc with unique ID travelersbackpack.standard_03.08.2025-00.39.24.dat
 [00:39:27] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[00:40:58] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -1876.500000, 47.500000, -757.500000]
+[00:41:22] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to Nax_1905]
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1595, y=63, z=-732}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1595, y=63, z=-732}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1597, y=71, z=-732}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1597, y=71, z=-732}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1595, y=63, z=-732}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1597, y=71, z=-732}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1595, y=63, z=-716}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1595, y=63, z=-716}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1597, y=71, z=-716}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1597, y=71, z=-716}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1595, y=63, z=-716}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1597, y=71, z=-716}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1595, y=63, z=-732}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1595, y=63, z=-732}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1597, y=71, z=-732}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1597, y=71, z=-732}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1595, y=63, z=-732}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1597, y=71, z=-732}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1588, y=64, z=-749}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1588, y=64, z=-749}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=65, z=-745}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=65, z=-745}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1588, y=64, z=-749}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=65, z=-745}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1591, y=77, z=-745}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1591, y=77, z=-745}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1592, y=78, z=-741}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1592, y=78, z=-741}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1598, y=82, z=-745}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1598, y=82, z=-745}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=83, z=-744}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=83, z=-744}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1591, y=77, z=-745}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1592, y=78, z=-741}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1598, y=82, z=-745}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=83, z=-744}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=32, z=-751}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=32, z=-751}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=33, z=-746}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=33, z=-746}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=32, z=-751}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=33, z=-746}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1588, y=64, z=-749}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1588, y=64, z=-749}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=65, z=-745}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=65, z=-745}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1588, y=64, z=-749}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=65, z=-745}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1591, y=77, z=-745}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1591, y=77, z=-745}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1592, y=78, z=-741}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1592, y=78, z=-741}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1598, y=82, z=-745}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1598, y=82, z=-745}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=83, z=-744}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=83, z=-744}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1591, y=77, z=-745}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1592, y=78, z=-741}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1598, y=82, z=-745}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=83, z=-744}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=32, z=-751}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=32, z=-751}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=33, z=-746}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=33, z=-746}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=32, z=-751}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1593, y=33, z=-746}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1595, y=63, z=-716}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1595, y=63, z=-716}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1597, y=71, z=-716}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1597, y=71, z=-716}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1595, y=63, z=-716}
+[00:42:04] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1597, y=71, z=-716}
+[00:42:04] [Worker-Main-93/WARN]: Tried to access a block entity before it was created. class_2338{x=-1586, y=67, z=-773}
+[00:42:04] [Worker-Main-93/WARN]: Tried to access a block entity before it was created. class_2338{x=-1586, y=67, z=-773}
+[00:42:04] [Worker-Main-93/WARN]: Tried to access a block entity before it was created. class_2338{x=-1586, y=67, z=-780}
+[00:42:04] [Worker-Main-93/WARN]: Tried to access a block entity before it was created. class_2338{x=-1586, y=67, z=-780}
+[00:42:04] [Worker-Main-93/WARN]: Tried to access a block entity before it was created. class_2338{x=-1586, y=67, z=-773}
+[00:42:04] [Worker-Main-93/WARN]: Tried to access a block entity before it was created. class_2338{x=-1586, y=67, z=-780}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1586, y=67, z=-773}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1586, y=67, z=-773}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1586, y=67, z=-780}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1586, y=67, z=-780}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1586, y=67, z=-773}
+[00:42:04] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-1586, y=67, z=-780}
+[00:42:13] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -1754.500000, 28.500000, -805.500000]
+[00:42:40] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -1637.500000, 30.500000, -729.500000]
+[00:43:54] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to Nax_1905]
+[00:44:23] [Server thread/INFO]: ezefzc has made the advancement [Cobweb Entanglement]
+[00:48:33] [Server thread/INFO]: Nax_1905 was blown up by Grenadier
+[00:48:33] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_03.08.2025-00.48.33.dat
+[00:48:37] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[00:48:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:49:07] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -2040.500000, 64.500000, -1010.500000]
+[00:49:10] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of ElSantixdd accepted server config.
+[00:49:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10652ms or 213 ticks behind
+[00:49:27] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:49:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4458ms or 89 ticks behind
+[00:49:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[00:50:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[00:50:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:50:53] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 154.500000, 64.500000, -320.500000]
+[00:51:34] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -456.500000, 88.500000, -1063.500000]
+[00:52:41] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 154.500000, 64.500000, -320.500000]
+[00:54:52] [Server thread/INFO]: [ezefzc: Teleported ezefzc to -458.500000, 88.500000, -1071.500000]
+[00:55:06] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -456.500000, 88.500000, -1063.500000]
+[00:55:36] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:55:53] [Server thread/INFO]: ezefzc has made the advancement [A Wizard Is Never Late]
+[00:57:02] [Server thread/INFO]: ezefzc has made the advancement [Cover Me with Diamonds]
+[00:57:12] [Server thread/INFO]: ElSantixdd has made the advancement [Cover Me with Diamonds]
+[00:58:39] [Server thread/INFO]: ezefzc lost connection: Disconnected
+[00:58:39] [Server thread/INFO]: ezefzc left the game
+[00:58:39] [Server thread/INFO]: remove player wand
+[00:58:39] [Server thread/INFO]: Updating all forceload tickets for 37318bc1-8bee-46dc-9480-34ec446352bc
+[00:58:47] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 154.500000, 64.500000, -320.500000]
+[00:59:07] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -456.500000, 88.500000, -1063.500000]

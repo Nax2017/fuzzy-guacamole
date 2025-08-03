@@ -14367,5 +14367,11 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/ingot/diamond_from_nugget": {
+    "criteria": {
+      "has_diamond_nugget": "2025-08-03 00:51:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

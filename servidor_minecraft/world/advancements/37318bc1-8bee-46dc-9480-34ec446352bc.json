@@ -5575,6 +5575,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-08-01 05:46:51 +0000",
+      "pumpkin_pie": "2025-08-03 00:46:54 +0000",
       "bread": "2025-08-01 01:58:21 +0000",
       "golden_apple": "2025-08-01 05:51:10 +0000",
       "carrot": "2025-08-01 05:49:47 +0000"
@@ -6159,7 +6160,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-08-01 02:43:08 +0000"
+      "in_better_zombie_dungeon": "2025-08-01 02:43:08 +0000",
+      "in_better_spider_dungeon": "2025-08-03 00:44:23 +0000"
     },
     "done": false
   },
@@ -10478,9 +10480,21 @@
     },
     "done": true
   },
+  "rpg_series:obtain_wizard_robes": {
+    "criteria": {
+      "wizard_robes": "2025-08-03 00:55:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
     "criteria": {
       "has_log": "2025-08-02 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-03 00:43:17 +0000"
     },
     "done": true
   },
@@ -10508,6 +10522,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-03 00:43:17 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_30_leaping_zombies": {
     "criteria": {
       "leaping_zombies_killed": "2025-08-03 00:13:31 +0000"
@@ -10517,6 +10537,12 @@
   "regions_unexplored:recipes/building_blocks/maple_stairs": {
     "criteria": {
       "has_maple_planks": "2025-08-02 23:24:08 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-03 00:43:17 +0000"
     },
     "done": true
   },
@@ -10568,6 +10594,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-08-03 00:57:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_fence": {
     "criteria": {
       "has_maple_planks": "2025-08-02 23:24:08 +0000"
@@ -10598,6 +10630,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-08-03 00:43:17 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_trapdoor": {
     "criteria": {
       "has_maple_planks": "2025-08-02 23:24:08 +0000"
@@ -10610,6 +10648,12 @@
     },
     "done": true
   },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-03 00:43:17 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-08-02 23:32:12 +0000"
@@ -10619,6 +10663,12 @@
   "techreborn:recipes/misc/crafting_table/tool/ruby_axe": {
     "criteria": {
       "has_ruby_gem": "2025-08-02 23:45:56 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-03 00:44:23 +0000"
     },
     "done": true
   },
@@ -10649,6 +10699,18 @@
   "travelersbackpack:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-08-02 23:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-08-03 00:57:02 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2025-08-03 00:43:17 +0000"
     },
     "done": true
   },
@@ -10688,6 +10750,12 @@
     },
     "done": true
   },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-08-03 00:43:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/ruby_hoe": {
     "criteria": {
       "has_ruby_gem": "2025-08-02 23:45:56 +0000"
@@ -10712,6 +10780,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/waystone": {
+    "criteria": {
+      "has_item": "2025-08-03 00:43:17 +0000"
+    },
+    "done": true
+  },
   "more_rpg_content:bow_way": {
     "criteria": {
       "items": "2025-08-02 23:35:02 +0000"
@@ -10727,6 +10801,18 @@
   "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
     "criteria": {
       "has_bow": "2025-08-02 23:35:02 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-08-03 00:43:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-03 00:43:17 +0000"
     },
     "done": true
   },
@@ -10754,6 +10840,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-08-03 00:57:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_door": {
     "criteria": {
       "has_maple_planks": "2025-08-02 23:24:08 +0000"
@@ -10766,9 +10858,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-03 00:43:17 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/furnace_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-08-02 23:32:12 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/transmogrification_table": {
+    "criteria": {
+      "has_item": "2025-08-03 00:43:17 +0000"
     },
     "done": true
   },

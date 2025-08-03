@@ -8,3 +8,6 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [00:08:24] [Server thread/INFO]: ElSantixdd was blown up by Grenadier
 [00:08:24] [Server thread/INFO]: Created new backpack backup file for ElSantixdd with unique ID travelersbackpack.redstone_03.08.2025-00.08.24.dat
 [00:08:27] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of ElSantixdd accepted server config.
+[00:09:20] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[00:14:54] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 22.500000, 64.500000, -888.500000]
+[00:17:53] [Server thread/INFO]: ezefzc has made the advancement [Keeper of Souls]

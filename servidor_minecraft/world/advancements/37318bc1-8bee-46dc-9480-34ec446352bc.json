@@ -10508,6 +10508,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_30_leaping_zombies": {
+    "criteria": {
+      "leaping_zombies_killed": "2025-08-03 00:13:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/maple_stairs": {
     "criteria": {
       "has_maple_planks": "2025-08-02 23:24:08 +0000"
@@ -10619,6 +10625,12 @@
   "techreborn:recipes/centrifuge/raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-08-02 23:43:47 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulkeeper": {
+    "criteria": {
+      "requirement": "2025-08-03 00:17:53 +0000"
     },
     "done": true
   },

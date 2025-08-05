@@ -541,6 +541,7 @@
       "minecraft:cold_ocean": "2025-08-01 03:50:48 +0000",
       "minecraft:forest": "2025-08-01 04:53:13 +0000",
       "minecraft:lush_caves": "2025-08-01 02:25:45 +0000",
+      "minecraft:deep_cold_ocean": "2025-08-05 05:15:41 +0000",
       "minecraft:frozen_ocean": "2025-08-01 01:48:54 +0000",
       "minecraft:deep_frozen_ocean": "2025-08-02 05:51:15 +0000",
       "minecraft:snowy_beach": "2025-07-31 19:03:54 +0000",
@@ -573,6 +574,7 @@
       "minecraft:witch": "2025-08-01 02:08:49 +0000",
       "minecraft:enderman": "2025-08-01 03:13:34 +0000",
       "minecraft:stray": "2025-08-05 04:56:37 +0000",
+      "minecraft:silverfish": "2025-08-05 05:07:46 +0000",
       "minecraft:zombie": "2025-07-31 19:04:57 +0000",
       "minecraft:zombie_villager": "2025-08-01 05:18:56 +0000"
     },
@@ -6090,6 +6092,7 @@
       "frozen_pine_taiga": "2025-08-02 05:52:33 +0000",
       "magnolia_highlands": "2025-08-02 05:45:19 +0000",
       "boreal_forest": "2025-08-02 05:35:51 +0000",
+      "cold_boreal_taiga": "2025-08-05 05:12:25 +0000",
       "temperate_grove": "2025-08-02 05:48:06 +0000",
       "cold_river": "2025-07-31 22:34:06 +0000",
       "pumpkin_fields": "2025-07-31 23:38:47 +0000",
@@ -6114,6 +6117,7 @@
       "frozen_pine_taiga": "2025-08-02 05:52:33 +0000",
       "magnolia_highlands": "2025-08-02 05:45:19 +0000",
       "boreal_forest": "2025-08-02 05:35:51 +0000",
+      "cold_boreal_taiga": "2025-08-05 05:12:25 +0000",
       "temperate_grove": "2025-08-02 05:48:06 +0000",
       "cold_river": "2025-07-31 22:34:06 +0000",
       "pumpkin_fields": "2025-07-31 23:38:47 +0000",
@@ -14377,15 +14381,15 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/phantom_armor_leggings": {
+  "minecraft:adventure/ol_betsy": {
     "criteria": {
-      "has_phantom_skin": "2025-08-05 05:00:48 +0000"
+      "shot_crossbow": "2025-08-05 04:38:54 +0000"
     },
     "done": true
   },
-  "friendsandfoes:adventure/kill_iceologer": {
+  "farmersdelight:recipes/food/rice_roll_medley_block": {
     "criteria": {
-      "killed_iceologer": "2025-08-05 05:04:53 +0000"
+      "has_rice_roll": "2025-08-05 04:40:51 +0000"
     },
     "done": true
   },
@@ -14401,21 +14405,9 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/phantom_armor_boots": {
-    "criteria": {
-      "has_phantom_skin": "2025-08-05 05:00:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-08-05 04:41:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/rice_roll_medley_block": {
-    "criteria": {
-      "has_rice_roll": "2025-08-05 04:40:51 +0000"
     },
     "done": true
   },
@@ -14425,69 +14417,15 @@
     },
     "done": true
   },
-  "friendsandfoes:adventure/the_magicians": {
-    "criteria": {
-      "killed_iceologer": "2025-08-05 05:04:53 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-08-05 04:58:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-08-05 04:55:43 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/double_axes/double_axe_whirlwind": {
-    "criteria": {
-      "has_phantom_membrane": "2025-08-05 05:01:26 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/snow": {
-    "criteria": {
-      "has_snowball": "2025-08-05 04:58:04 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/industrial_sawmill/saw_small_dust_from_bowl": {
     "criteria": {
       "has_bowl": "2025-08-05 04:41:31 +0000"
     },
     "done": true
   },
-  "deeperdarker:main/kill_all_sculk_mobs": {
-    "criteria": {
-      "phantom": "2025-08-05 04:58:39 +0000"
-    },
-    "done": false
-  },
-  "betterend:recipes/misc/enchanted_membrane": {
-    "criteria": {
-      "has_item.minecraft.phantom_membrane": "2025-08-05 05:01:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-08-05 04:58:04 +0000"
-    },
-    "done": true
-  },
   "bewitchment:recipes/food/grotesque_stew": {
     "criteria": {
       "has_item": "2025-08-05 04:41:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-08-05 04:38:54 +0000"
     },
     "done": true
   },
@@ -14503,15 +14441,81 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/phantom_trophy": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_phantom_trophy": "2025-08-05 05:01:26 +0000"
+      "shot_arrow": "2025-08-05 04:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-05 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-05 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-05 04:58:04 +0000"
     },
     "done": true
   },
   "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
     "criteria": {
       "has_snowball": "2025-08-05 04:58:04 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-08-05 04:58:39 +0000"
+    },
+    "done": false
+  },
+  "mcda:recipes/base_armors/phantom_armor_leggings": {
+    "criteria": {
+      "has_phantom_skin": "2025-08-05 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_boots": {
+    "criteria": {
+      "has_phantom_skin": "2025-08-05 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_phantom_membrane": "2025-08-05 05:01:26 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-08-05 05:01:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-08-05 05:01:26 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-08-05 05:04:53 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_iceologer": "2025-08-05 05:04:53 +0000"
     },
     "done": false
   },

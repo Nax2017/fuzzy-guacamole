@@ -2939,3 +2939,153 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [05:07:00] [Server thread/INFO]: Nax_1905 left the game
 [05:07:00] [Server thread/INFO]: remove player wand
 [05:07:00] [Server thread/INFO]: Updating all forceload tickets for 8f6f72cb-0612-4d1c-8d40-a0f76c3f5db2
+[05:07:08] [User Authenticator #4/INFO]: UUID of player Nax_1905 is 8f6f72cb-0612-4d1c-8d40-a0f76c3f5db2
+[05:07:08] [Server thread/INFO]: [Handshake] Sending channel query
+[05:07:08] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[05:07:08] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[05:07:08] [Server thread/INFO]: Nax_1905[/127.252.72.59:51417] logged in with entity id 24765 at (-858.9293492502152, 73.0, 798.0240528855638)
+[05:07:08] [Server thread/INFO]: Sending server config values to client
+[05:07:09] [Server thread/INFO]: Syncing config to Nax_1905 (8f6f72cb-0612-4d1c-8d40-a0f76c3f5db2)
+[05:07:09] [Server thread/INFO]: Loading config from file...
+[05:07:09] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[05:07:09] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:07:09] [Server thread/INFO]: Nax_1905 joined the game
+[05:07:09] [Server thread/INFO]: Loading Configs for Sortilege
+[05:07:09] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[05:07:09] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[05:07:09] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[05:07:09] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[05:07:09] [Server thread/INFO]: PLAYER_JOIN
+[05:07:09] [Server thread/INFO]: add_player wand
+[05:07:09] [Server thread/INFO]: config sent
+[05:07:09] [Server thread/INFO]: Updating all forceload tickets for 8f6f72cb-0612-4d1c-8d40-a0f76c3f5db2
+[05:07:11] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[05:07:13] [Netty Epoll Server IO #2/INFO]: Channel update: Nax_1905 -> default
+[05:07:13] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Nax_1905. Claiming: GRAVE / Robbing: INVENTORY
+[05:07:17] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[05:07:26] [Server thread/INFO]: ezefzc was slain by Phantom
+[05:07:26] [Server thread/INFO]: Created new backpack backup file for ezefzc with unique ID travelersbackpack.standard_05.08.2025-05.07.26.dat
+[05:07:27] [Server thread/INFO]: Nax_1905 was slain by Phantom
+[05:07:27] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_05.08.2025-05.07.27.dat
+[05:07:28] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[05:07:28] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[05:07:30] [Server thread/INFO]: [ezefzc: Teleported ezefzc to Nax_1905]
+[05:07:33] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[05:07:34] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[05:07:40] [Server thread/INFO]: ElSantixdd was blown up by Night Lich
+[05:07:40] [Server thread/INFO]: Created new backpack backup file for ElSantixdd with unique ID travelersbackpack.redstone_05.08.2025-05.07.40.dat
+[05:07:42] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ElSantixdd accepted server config.
+[05:07:48] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to ezefzc]
+[05:07:49] [Server thread/INFO]: Nax_1905 was slain by Phantom
+[05:07:49] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_05.08.2025-05.07.49.dat
+[05:07:52] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[05:07:53] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[05:07:58] [Server thread/INFO]: ezefzc was slain by Phantom
+[05:07:58] [Server thread/INFO]: Created new backpack backup file for ezefzc with unique ID travelersbackpack.standard_05.08.2025-05.07.58.dat
+[05:08:01] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[05:08:02] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[05:08:09] [Server thread/INFO]: Nax_1905 was blown up by Night Lich
+[05:08:09] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_05.08.2025-05.08.09.dat
+[05:08:12] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[05:08:13] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[05:08:28] [Server thread/INFO]: Nax_1905 was slain by Phantom
+[05:08:28] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_05.08.2025-05.08.28.dat
+[05:08:29] [Server thread/INFO]: [ElSantixdd: Set the time to 1000]
+[05:08:30] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[05:08:31] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[05:08:45] [Server thread/INFO]: ElSantixdd was blown up by Night Lich
+[05:08:45] [Server thread/INFO]: Created new backpack backup file for ElSantixdd with unique ID travelersbackpack.redstone_05.08.2025-05.08.45.dat
+[05:08:47] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ElSantixdd accepted server config.
+[05:08:49] [Server thread/INFO]: [ElSantixdd: Set the time to 1000]
+[05:08:52] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to ezefzc]
+[05:08:53] [Server thread/INFO]: Nax_1905 was slain by Phantom
+[05:08:53] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_05.08.2025-05.08.53.dat
+[05:08:55] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[05:08:56] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[05:09:02] [Server thread/INFO]: ezefzc was slain by Phantom
+[05:09:02] [Server thread/INFO]: Created new backpack backup file for ezefzc with unique ID travelersbackpack.standard_05.08.2025-05.09.02.dat
+[05:09:04] [Server thread/INFO]: Nax_1905 was slain by Phantom
+[05:09:04] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_05.08.2025-05.09.04.dat
+[05:09:04] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[05:09:05] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[05:09:07] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[05:09:07] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[05:09:19] [Server thread/INFO]: ElSantixdd was blown up by Night Lich
+[05:09:19] [Server thread/INFO]: Created new backpack backup file for ElSantixdd with unique ID travelersbackpack.redstone_05.08.2025-05.09.19.dat
+[05:09:20] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ElSantixdd accepted server config.
+[05:09:38] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to ezefzc]
+[05:09:39] [Server thread/INFO]: ezefzc was slain by Phantom
+[05:09:39] [Server thread/INFO]: Created new backpack backup file for ezefzc with unique ID travelersbackpack.standard_05.08.2025-05.09.39.dat
+[05:09:41] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[05:09:42] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[05:10:12] [Server thread/INFO]: ElSantixdd was blown up by Night Lich
+[05:10:12] [Server thread/INFO]: Created new backpack backup file for ElSantixdd with unique ID travelersbackpack.redstone_05.08.2025-05.10.12.dat
+[05:10:14] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ElSantixdd accepted server config.
+[05:10:15] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to ezefzc]
+[05:10:24] [Server thread/INFO]: Nax_1905 was blown up by Night Lich
+[05:10:24] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_05.08.2025-05.10.24.dat
+[05:10:26] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[05:10:44] [Server thread/INFO]: ElSantixdd was blown up by Night Lich
+[05:10:44] [Server thread/INFO]: Created new backpack backup file for ElSantixdd with unique ID travelersbackpack.redstone_05.08.2025-05.10.44.dat
+[05:10:46] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ElSantixdd accepted server config.
+[05:10:48] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to ezefzc]
+[05:11:11] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[05:11:17] [Server thread/INFO]: ezefzc was blown up by Night Lich
+[05:11:17] [Server thread/INFO]: Created new backpack backup file for ezefzc with unique ID travelersbackpack.standard_05.08.2025-05.11.17.dat
+[05:11:19] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[05:11:20] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -459.500000, 88.500000, -1071.500000]
+[05:11:20] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[05:11:55] [Server thread/INFO]: ElSantixdd was slain by Phantom
+[05:11:55] [Server thread/INFO]: Created new backpack backup file for ElSantixdd with unique ID travelersbackpack.redstone_05.08.2025-05.11.55.dat
+[05:11:57] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ElSantixdd accepted server config.
+[05:11:58] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to ezefzc]
+[05:12:38] [Server thread/WARN]: ElSantixdd moved wrongly!
+[05:13:05] [Server thread/INFO]: ezefzc was blown up by Night Lich
+[05:13:05] [Server thread/INFO]: Created new backpack backup file for ezefzc with unique ID travelersbackpack.standard_05.08.2025-05.13.05.dat
+[05:13:08] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[05:13:09] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[05:13:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[05:14:07] [Server thread/INFO]: Nax_1905 was slain by Phantom
+[05:14:07] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_05.08.2025-05.14.07.dat
+[05:14:21] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[05:14:29] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -786.500000, 151.500000, 1013.500000]
+[05:14:36] [Server thread/INFO]: ElSantixdd was slain by Phantom
+[05:14:36] [Server thread/INFO]: Created new backpack backup file for ElSantixdd with unique ID travelersbackpack.redstone_05.08.2025-05.14.36.dat
+[05:14:38] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ElSantixdd accepted server config.
+[05:14:44] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -456.500000, 88.500000, -1063.500000]
+[05:14:57] [Server thread/INFO]: ezefzc has made the advancement [Ice Maze]
+[05:15:26] [Server thread/INFO]: ezefzc has made the advancement [Almost Like a Fan]
+[05:15:31] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to ezefzc]
+[05:15:32] [Server thread/INFO]: ElSantixdd has made the advancement [Ice Maze]
+[05:16:03] [Server thread/INFO]: Nax_1905 was blown up by Night Lich
+[05:16:03] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_05.08.2025-05.16.03.dat
+[05:16:07] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[05:16:08] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[05:16:48] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -456.500000, 88.500000, -1063.500000]
+[05:18:20] [Server thread/INFO]: [ElSantixdd: Set own game mode to Creative Mode]
+[05:18:33] [Server thread/INFO]: [ElSantixdd: Set own game mode to Survival Mode]
+[05:18:42] [Server thread/INFO]: Nax_1905 was blown up by Night Lich
+[05:18:42] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_05.08.2025-05.18.42.dat
+[05:18:43] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[05:18:49] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ezefzc]
+[05:19:33] [Server thread/INFO]: Nax_1905 was blown up by Night Lich
+[05:19:33] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_05.08.2025-05.19.33.dat
+[05:19:35] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[05:19:36] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ezefzc]
+[05:19:48] [Server thread/INFO]: [Nax_1905: Set own game mode to Creative Mode]
+[05:19:56] [Server thread/INFO]: [Nax_1905: Set own game mode to Survival Mode]
+[05:20:55] [Server thread/INFO]: ElSantixdd has completed the challenge [Expansion Unlock: Void's Invasion]
+[05:20:55] [Server thread/INFO]: ElSantixdd has completed the challenge [Night Vanquisher]
+[05:20:55] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[05:20:55] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[05:20:55] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[05:20:55] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[05:23:23] [Server thread/INFO]: ElSantixdd has made the advancement [Almost Like a Fan]
+[05:23:30] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -456.500000, 88.500000, -1063.500000]
+[05:24:16] [Server thread/INFO]: ezefzc has made the advancement [Packed In]
+[05:24:50] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[05:25:57] [Server thread/INFO]: ezefzc has completed the challenge [Expansion Unlock: Void's Invasion]
+[05:25:57] [Server thread/INFO]: [Nax_1905: Granted the advancement [Expansion Unlock: Void's Invasion] to ezefzc]
+[05:26:34] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null

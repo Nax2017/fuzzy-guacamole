@@ -568,10 +568,13 @@
     "criteria": {
       "minecraft:pillager": "2025-08-01 04:54:16 +0000",
       "minecraft:skeleton": "2025-07-31 19:01:56 +0000",
+      "minecraft:ghast": "2025-08-05 06:02:00 +0000",
+      "minecraft:hoglin": "2025-08-05 06:03:04 +0000",
       "minecraft:spider": "2025-07-31 19:03:44 +0000",
       "minecraft:creeper": "2025-07-31 23:36:56 +0000",
       "minecraft:phantom": "2025-08-05 04:58:39 +0000",
       "minecraft:witch": "2025-08-01 02:08:49 +0000",
+      "minecraft:piglin": "2025-08-05 06:03:09 +0000",
       "minecraft:enderman": "2025-08-01 03:13:34 +0000",
       "minecraft:stray": "2025-08-05 04:56:37 +0000",
       "minecraft:silverfish": "2025-08-05 05:07:46 +0000",
@@ -6092,6 +6095,7 @@
       "frozen_pine_taiga": "2025-08-02 05:52:33 +0000",
       "magnolia_highlands": "2025-08-02 05:45:19 +0000",
       "boreal_forest": "2025-08-02 05:35:51 +0000",
+      "glistering_meadow": "2025-08-05 05:59:55 +0000",
       "cold_boreal_taiga": "2025-08-05 05:12:25 +0000",
       "temperate_grove": "2025-08-02 05:48:06 +0000",
       "cold_river": "2025-07-31 22:34:06 +0000",
@@ -14519,17 +14523,41 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-08-05 06:02:02 +0000"
+    },
+    "done": true
+  },
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:gravel_desert": "2025-08-05 05:55:56 +0000"
     },
     "done": false
   },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-05 06:03:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-05 05:56:58 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "glistering_meadow": "2025-08-05 05:59:55 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/flint_block": {
     "criteria": {
@@ -14546,6 +14574,12 @@
   "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
     "criteria": {
       "has_item.betternether.cincinnasite": "2025-08-05 05:57:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/blood_pendant": {
+    "criteria": {
+      "has_item": "2025-08-05 06:02:02 +0000"
     },
     "done": true
   },
@@ -14567,6 +14601,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/bluemoon_greatsword": {
     "criteria": {
       "has_item": "2025-08-05 05:38:21 +0000"
@@ -14585,9 +14625,27 @@
     },
     "done": true
   },
+  "botania:recipes/misc/incense_stick": {
+    "criteria": {
+      "has_item": "2025-08-05 06:02:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/farmland": {
     "criteria": {
       "has_netherrack": "2025-08-05 05:56:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_helmet": {
+    "criteria": {
+      "has_soul_sand": "2025-08-05 06:04:59 +0000"
     },
     "done": true
   },
@@ -14603,9 +14661,39 @@
     },
     "done": true
   },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_sand": "2025-08-05 06:04:59 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-05 05:56:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_leggings": {
+    "criteria": {
+      "has_soul_sand": "2025-08-05 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
     },
     "done": true
   },
@@ -14627,15 +14715,69 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-08-05 05:45:31 +0000"
     },
     "done": true
   },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-08-05 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-05 05:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-08-05 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-08-05 06:04:59 +0000"
     },
     "done": true
   },
@@ -14657,6 +14799,42 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-08-05 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-08-05 06:02:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/flint_from_gravel": {
+    "criteria": {
+      "has_gravel": "2025-08-05 06:01:49 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/cincinnasite_block": {
     "criteria": {
       "has_cincinnasite": "2025-08-05 05:57:24 +0000"
@@ -14669,9 +14847,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-05 06:01:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-08-05 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-08-05 06:04:59 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-05 05:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-05 06:01:26 +0000"
     },
     "done": true
   },
@@ -14681,15 +14889,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_shovel": {
     "criteria": {
       "has_item": "2025-08-05 05:38:21 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-05 05:56:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_boots": {
+    "criteria": {
+      "has_soul_sand": "2025-08-05 06:04:59 +0000"
     },
     "done": true
   },
@@ -14705,9 +14931,75 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2025-08-05 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-08-05 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
+    "criteria": {
+      "has_core_specification_item": "2025-08-05 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-05 06:01:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-05 05:56:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:26 +0000"
     },
     "done": true
   },
@@ -14765,9 +15057,45 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-08-05 06:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-08-05 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-08-05 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/misc/fallen_icon_disc": {
     "criteria": {
       "has_item": "2025-08-05 05:38:21 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
     },
     "done": true
   },
@@ -14777,9 +15105,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/soul_robe_chestplate": {
+    "criteria": {
+      "has_soul_sand": "2025-08-05 06:04:59 +0000"
+    },
+    "done": true
+  },
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2025-08-05 05:55:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
     },
     "done": true
   },
@@ -14798,6 +15138,66 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-05 05:56:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_item": "2025-08-05 06:01:26 +0000"
     },
     "done": true
   },
@@ -14825,6 +15225,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bricks_fire_bowl": {
     "criteria": {
       "has_netherrack": "2025-08-05 05:56:58 +0000"
@@ -14849,9 +15255,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-05 06:01:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/pyrite_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-08-05 06:03:25 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_pickaxe": {
     "criteria": {
       "has_item": "2025-08-05 05:38:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-08-05 06:03:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-08-05 06:02:21 +0000"
     },
     "done": true
   },
@@ -14861,9 +15291,27 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-08-05 06:02:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-05 05:56:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-08-05 06:05:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/brown_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-05 06:03:35 +0000"
     },
     "done": true
   },

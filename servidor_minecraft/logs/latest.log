@@ -3668,3 +3668,12 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [05:57:31] [Server thread/INFO]: ElSantixdd has made the advancement [Ruby Ore]
 [05:58:00] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to ezefzc]
 [05:58:16] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to ezefzc]
+[05:59:29] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[06:02:31] [Server thread/INFO]: ElSantixdd has made the advancement [Those Were the Days]
+[06:02:36] [Server thread/INFO]: Nax_1905 has made the advancement [Those Were the Days]
+[06:02:49] [Worker-Main-39/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/67451, l='ServerLevel[world]', x=210.00, y=31.00, z=-311.00] as it would cause deadlock
+[06:02:49] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/67453, l='ServerLevel[world]', x=210.00, y=31.00, z=-311.00] as it would cause deadlock
+[06:03:15] [Server thread/INFO]: ezefzc has made the advancement [Those Were the Days]
+[06:05:37] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[06:06:49] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[06:08:01] [Worker-Main-1/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:6.261377f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]

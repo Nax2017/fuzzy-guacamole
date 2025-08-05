@@ -3714,3 +3714,15 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [06:17:38] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/76712, l='ServerLevel[world]', x=727.00, y=31.00, z=-629.00] as it would cause deadlock
 [06:17:56] [Worker-Main-19/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/76804, l='ServerLevel[world]', x=780.00, y=31.00, z=-502.00] as it would cause deadlock
 [06:17:56] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/76810, l='ServerLevel[world]', x=780.00, y=31.00, z=-502.00] as it would cause deadlock
+[06:19:51] [Worker-Main-39/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/77883, l='ServerLevel[world]', x=873.00, y=31.00, z=-427.00] as it would cause deadlock
+[06:19:51] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/77886, l='ServerLevel[world]', x=873.00, y=31.00, z=-427.00] as it would cause deadlock
+[06:20:04] [Worker-Main-39/INFO]: [betternether] BBox:class_3341{minX=1074, minY=22, minZ=-830, maxX=1246, maxY=96, maxZ=-658}
+[06:20:08] [Worker-Main-40/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/78427, l='ServerLevel[world]', x=973.00, y=31.00, z=-677.00] as it would cause deadlock
+[06:20:08] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/78431, l='ServerLevel[world]', x=973.00, y=31.00, z=-677.00] as it would cause deadlock
+[06:20:20] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/78658, l='ServerLevel[world]', x=1100.00, y=31.00, z=-545.00] as it would cause deadlock
+[06:20:20] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/78660, l='ServerLevel[world]', x=1100.00, y=31.00, z=-545.00] as it would cause deadlock
+[06:20:47] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[06:21:48] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -41.500000, 93.500000, -139.500000]
+[06:21:48] [Worker-Main-39/INFO]: [betternether] BBox:class_3341{minX=42, minY=22, minZ=-806, maxX=198, maxY=96, maxZ=-650}
+[06:21:50] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.

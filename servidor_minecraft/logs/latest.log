@@ -2754,3 +2754,64 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:40:53] [Server thread/INFO]: Named entity class_1646['Khadijah'/6441, l='ServerLevel[world]', x=-458.87, y=115.17, z=-687.53] died: Khadijah was slain by Zombie
 [04:41:22] [Server thread/INFO]: Villager class_1646['Kirsten'/6490, l='ServerLevel[world]', x=-459.51, y=115.54, z=-688.02] died, message: 'Kirsten was slain by Khadijah'
 [04:41:22] [Server thread/INFO]: Named entity class_1646['Kirsten'/6490, l='ServerLevel[world]', x=-459.51, y=115.54, z=-688.02] died: Kirsten was slain by Khadijah
+[04:47:33] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.redirect$cog000$connectivity$checkDecodingError(DecoderHandler.java:570) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[04:48:07] [Server thread/INFO]: ezefzc has made the advancement [Best Friends Forever]
+[04:49:45] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -456.500000, 88.500000, -1063.500000]
+[04:49:49] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 154.500000, 64.500000, -320.500000]
+[04:50:44] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[04:51:06] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -456.500000, 88.500000, -1063.500000]
+[04:51:08] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[04:54:16] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -871.500000, 67.500000, 749.500000]
+[04:54:20] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[04:55:17] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[04:55:43] [Server thread/INFO]: Nax_1905 has made the advancement [Take Aim]
+[04:56:05] [Server thread/INFO]: Nax_1905 was pummeled by Night Lich
+[04:56:05] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_05.08.2025-04.56.05.dat
+[04:56:07] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[04:56:09] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[04:56:33] [Server thread/INFO]: ElSantixdd was blown up by Night Lich
+[04:56:33] [Server thread/INFO]: Created new backpack backup file for ElSantixdd with unique ID travelersbackpack.redstone_05.08.2025-04.56.33.dat
+[04:56:35] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ElSantixdd accepted server config.
+[04:56:36] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to Nax_1905]
+[04:56:41] [Server thread/INFO]: ezefzc was slain by Phantom
+[04:56:41] [Server thread/INFO]: Created new backpack backup file for ezefzc with unique ID travelersbackpack.standard_05.08.2025-04.56.41.dat

@@ -4847,6 +4847,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-08-05 04:42:46 +0000",
       "bread": "2025-08-01 01:38:50 +0000"
     },
     "done": false
@@ -13426,6 +13427,24 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-05 04:46:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-05 04:46:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-08-05 04:42:38 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_blaze": {
     "criteria": {
       "has_item": "2025-08-05 04:41:45 +0000"
@@ -13468,6 +13487,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-08-05 04:42:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-08-05 04:41:45 +0000"
@@ -13486,6 +13511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-05 04:46:07 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_iceologer": "2025-08-05 04:39:42 +0000"
@@ -13501,6 +13532,12 @@
   "twigs:recipes/bloodstone/bloodstone": {
     "criteria": {
       "has_item": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-05 04:46:07 +0000"
     },
     "done": true
   },
@@ -13525,6 +13562,12 @@
   "ae2:recipes/misc/tools/nether_quartz_spade": {
     "criteria": {
       "has_nether_quartz": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-05 04:46:07 +0000"
     },
     "done": true
   },
@@ -13597,6 +13640,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-08-05 04:42:38 +0000"
     },
     "done": true
   },

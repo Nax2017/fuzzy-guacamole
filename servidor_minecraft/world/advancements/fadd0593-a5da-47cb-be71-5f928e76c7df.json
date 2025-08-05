@@ -4750,7 +4750,8 @@
       "minecraft:witch": "2025-08-01 02:38:50 +0000",
       "minecraft:cave_spider": "2025-08-01 03:40:02 +0000",
       "minecraft:piglin": "2025-08-01 04:58:46 +0000",
-      "minecraft:zombie": "2025-08-01 01:35:22 +0000"
+      "minecraft:zombie": "2025-08-01 01:35:22 +0000",
+      "minecraft:zombie_villager": "2025-08-05 04:39:24 +0000"
     },
     "done": false
   },
@@ -12993,21 +12994,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/maple_shrub": {
+  "techreborn:recipes/blast_furnace/iron_nugget_from_shovel": {
     "criteria": {
-      "has_maple_sapling": "2025-08-03 01:02:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/zinc_plate": {
-    "criteria": {
-      "has_tag_c_zinc_ingots": "2025-08-02 23:34:19 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
+      "has_iron_shovel": "2025-08-02 23:21:44 +0000"
     },
     "done": true
   },
@@ -13017,99 +13006,9 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/prism": {
-    "criteria": {
-      "has_item": "2025-08-03 01:13:22 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-02 23:49:07 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/building_blocks/salt_block": {
-    "criteria": {
-      "has_item": "2025-08-02 23:48:56 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
-    "criteria": {
-      "has_map": "2025-08-03 01:13:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
-    "criteria": {
-      "has_diamond_boots": "2025-08-03 00:58:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
-    "criteria": {
-      "has_diamond_boots": "2025-08-03 00:58:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
-    "criteria": {
-      "has_item": "2025-08-02 23:34:19 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
-    "criteria": {
-      "has_diamond_helmet": "2025-08-03 00:57:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
-    "criteria": {
-      "has_item": "2025-08-02 23:34:19 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/iron_nugget_from_shovel": {
-    "criteria": {
-      "has_iron_shovel": "2025-08-02 23:21:44 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_electrolyzer/sand": {
-    "criteria": {
-      "has_sand": "2025-08-03 01:10:48 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-02 23:49:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-08-02 23:27:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
-    "criteria": {
-      "has_zinc_ingots": "2025-08-02 23:34:19 +0000"
     },
     "done": true
   },
@@ -13119,9 +13018,69 @@
     },
     "done": true
   },
-  "twigs:recipes/paper_lanterns/paper_lantern": {
+  "oxidized:recipes/vertical_cut_copper": {
     "criteria": {
-      "has_item": "2025-08-03 00:03:42 +0000"
+      "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/copper_plate_from_block": {
+    "criteria": {
+      "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/copper_pillar_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-08-02 23:27:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/zinc_plate": {
+    "criteria": {
+      "has_tag_c_zinc_ingots": "2025-08-02 23:34:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-08-02 23:34:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-08-02 23:34:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-08-02 23:34:19 +0000"
     },
     "done": true
   },
@@ -13131,15 +13090,123 @@
     },
     "done": true
   },
-  "oxidized:recipes/vertical_cut_copper": {
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
-      "has_copper_block": "2025-08-02 23:27:25 +0000"
+      "has_item": "2025-08-02 23:34:19 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
-      "has_golden_chestplate": "2025-08-03 01:13:32 +0000"
+      "has_item": "2025-08-02 23:34:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-08-02 23:34:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/salt_block": {
+    "criteria": {
+      "has_item": "2025-08-02 23:48:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-02 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-02 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-02 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2025-08-02 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-02 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2025-08-02 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/mossy_cobblestone_witch_altar": {
+    "criteria": {
+      "has_item": "2025-08-02 23:49:07 +0000"
     },
     "done": true
   },
@@ -13149,15 +13216,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
+  "minecells:unlock/kill_15_undead_archers": {
     "criteria": {
-      "has_paper": "2025-08-03 00:03:42 +0000"
+      "undead_archers_killed": "2025-08-03 00:00:52 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/compressor/copper_plate_from_block": {
+  "twigs:recipes/paper_lanterns/paper_lantern": {
     "criteria": {
-      "has_copper_block": "2025-08-02 23:27:25 +0000"
+      "has_item": "2025-08-03 00:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-03 00:03:42 +0000"
     },
     "done": true
   },
@@ -13185,9 +13258,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
-      "has_copper_block": "2025-08-02 23:27:25 +0000"
+      "has_item": "2025-08-03 00:03:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-08-03 00:03:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-08-03 00:03:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-08-03 00:57:12 +0000"
     },
     "done": true
   },
@@ -13197,63 +13288,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/double_axes/double_axe_whirlwind": {
-    "criteria": {
-      "has_phantom_membrane": "2025-08-03 01:12:54 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/gold_ingot_from_pickaxe": {
-    "criteria": {
-      "has_golden_pickaxe": "2025-08-03 01:13:26 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/iron_ingot_from_horse_armor": {
-    "criteria": {
-      "has_iron_horse_armor": "2025-08-03 01:11:20 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-02 23:49:07 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
-    "criteria": {
-      "has_item": "2025-08-02 23:49:07 +0000"
-    },
-    "done": true
-  },
-  "minecells:unlock/kill_15_undead_archers": {
-    "criteria": {
-      "undead_archers_killed": "2025-08-03 00:00:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2025-08-03 00:03:42 +0000"
+      "has_diamond_helmet": "2025-08-03 00:57:12 +0000"
     },
     "done": true
   },
@@ -13269,21 +13306,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot": {
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
     "criteria": {
-      "has_copper_block": "2025-08-02 23:27:25 +0000"
+      "has_diamond_boots": "2025-08-03 00:58:11 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
     "criteria": {
-      "has_item": "2025-08-02 23:34:19 +0000"
+      "has_diamond_boots": "2025-08-03 00:58:11 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/slice_map": {
+  "regions_unexplored:recipes/decorations/maple_shrub": {
     "criteria": {
-      "has_map": "2025-08-03 01:13:23 +0000"
+      "has_maple_sapling": "2025-08-03 01:02:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sand": {
+    "criteria": {
+      "has_sand": "2025-08-03 01:10:48 +0000"
     },
     "done": true
   },
@@ -13293,9 +13336,45 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
+  "twigs:recipes/silt/silt_from_sand": {
     "criteria": {
-      "has_wooden_sword": "2025-08-03 01:13:28 +0000"
+      "has_item": "2025-08-03 01:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-03 01:10:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_horse_armor": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-08-03 01:11:20 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_phantom_membrane": "2025-08-03 01:12:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-08-03 01:12:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-08-03 01:12:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2025-08-03 01:13:22 +0000"
     },
     "done": true
   },
@@ -13311,27 +13390,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+  "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
     "criteria": {
-      "has_copper_block": "2025-08-02 23:27:25 +0000"
+      "has_map": "2025-08-03 01:13:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "supplementaries:recipes/slice_map": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-02 23:49:07 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/enchanted_membrane": {
-    "criteria": {
-      "has_item.minecraft.phantom_membrane": "2025-08-03 01:12:54 +0000"
+      "has_map": "2025-08-03 01:13:23 +0000"
     },
     "done": true
   },
@@ -13341,87 +13408,195 @@
     },
     "done": true
   },
-  "twigs:recipes/copper_pillar/copper_pillar_stonecutting": {
+  "techreborn:recipes/blast_furnace/gold_ingot_from_pickaxe": {
     "criteria": {
-      "has_cut_copper_slab": "2025-08-02 23:27:25 +0000"
+      "has_golden_pickaxe": "2025-08-03 01:13:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
     "criteria": {
-      "has_copper_block": "2025-08-02 23:27:25 +0000"
+      "has_wooden_sword": "2025-08-03 01:13:28 +0000"
     },
     "done": true
   },
-  "twigs:recipes/silt/silt_from_sand": {
+  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
     "criteria": {
-      "has_item": "2025-08-03 01:10:48 +0000"
+      "has_golden_chestplate": "2025-08-03 01:13:32 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/assembling_machine/wild_armor_trim_smithing_template": {
+  "botania:recipes/misc/quartz_blaze": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
+      "has_item": "2025-08-05 04:41:45 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/candy": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "has_paper": "2025-08-03 00:03:42 +0000"
+      "has_item_frame": "2025-08-05 04:41:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+  "supplementaries:recipes/blackboard": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-08-02 23:49:07 +0000"
+      "supplementaries:blackboard_white": "2025-08-05 04:41:45 +0000"
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
     "criteria": {
-      "has_item": "2025-08-02 23:49:07 +0000"
+      "has_nether_quartz": "2025-08-05 04:41:45 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/present": {
+  "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
-      "has_paper": "2025-08-03 00:03:42 +0000"
+      "has_quartz": "2025-08-05 04:41:45 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/phantom_trophy": {
+  "friendsandfoes:adventure/kill_iceologer": {
     "criteria": {
-      "has_phantom_trophy": "2025-08-03 01:12:54 +0000"
+      "killed_iceologer": "2025-08-05 04:39:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
+  "quartzelv:recipes/building_blocks/quartz_elevator": {
     "criteria": {
-      "has_smelts_to_glass": "2025-08-03 01:10:48 +0000"
+      "has_quartz": "2025-08-05 04:41:45 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+  "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
-      "has_diamond_helmet": "2025-08-03 00:57:12 +0000"
+      "has_quartz": "2025-08-05 04:41:45 +0000"
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/mossy_cobblestone_witch_altar": {
+  "minecraft:recipes/building_blocks/granite": {
     "criteria": {
-      "has_item": "2025-08-02 23:49:07 +0000"
+      "has_quartz": "2025-08-05 04:41:45 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
     "criteria": {
-      "has_item": "2025-08-02 23:34:19 +0000"
+      "has_nether_quartz": "2025-08-05 04:41:45 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
+  "friendsandfoes:adventure/the_magicians": {
     "criteria": {
-      "has_zinc_ingots": "2025-08-02 23:34:19 +0000"
+      "killed_iceologer": "2025-08-05 04:39:42 +0000"
+    },
+    "done": false
+  },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_white": {
+    "criteria": {
+      "has_quartz": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-08-05 04:41:45 +0000"
     },
     "done": true
   },

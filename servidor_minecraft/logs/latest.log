@@ -3626,3 +3626,45 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [05:46:47] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to ezefzc]
 [05:47:16] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -456.500000, 88.500000, -1063.500000]
 [05:47:51] [Server thread/INFO]: ezefzc has made the advancement [Chest Slayer]
+[05:50:42] [Server thread/INFO]: ezefzc has made the advancement [The Beginning]
+[05:50:55] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[05:53:34] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 154.500000, 64.500000, -320.500000]
+[05:54:03] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 154.500000, 64.500000, -320.500000]
+[05:54:06] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -456.500000, 88.500000, -1063.500000]
+[05:55:45] [Server thread/INFO]: No return portal found
+[05:55:45] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[05:55:45] [Worker-Main-11/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[05:55:47] [Worker-Main-11/WARN]: Lithium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[05:55:48] [Worker-Main-1/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[05:55:49] [Server thread/INFO]: Nax_1905 has made the advancement [Time for a Sweat]
+[05:55:49] [Server thread/INFO]: Nax_1905 has made the advancement [Nether Depths Upgrade]
+[05:55:49] [Server thread/INFO]: Nax_1905 has made the advancement [We Need to Go Deeper]
+[05:55:50] [Worker-Main-40/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[05:55:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10128ms or 202 ticks behind
+[05:55:56] [Server thread/INFO]: No return portal found
+[05:55:56] [Server thread/INFO]: ElSantixdd has made the advancement [Time for a Sweat]
+[05:55:56] [Server thread/INFO]: ElSantixdd has made the advancement [Nether Depths Upgrade]
+[05:55:56] [Server thread/INFO]: ElSantixdd has made the advancement [We Need to Go Deeper]
+[05:55:56] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[05:55:56] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ElSantixdd accepted server config.
+[05:56:00] [Server thread/INFO]: No return portal found
+[05:56:00] [Server thread/INFO]: ezefzc has made the advancement [Time for a Sweat]
+[05:56:00] [Server thread/INFO]: ezefzc has made the advancement [Nether Depths Upgrade]
+[05:56:00] [Server thread/INFO]: ezefzc has made the advancement [We Need to Go Deeper]
+[05:56:00] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[05:56:02] [Worker-Main-39/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/64025, l='ServerLevel[world]', x=12.00, y=31.00, z=-54.00] as it would cause deadlock
+[05:56:03] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/64028, l='ServerLevel[world]', x=12.00, y=31.00, z=-54.00] as it would cause deadlock
+[05:56:15] [Worker-Main-1/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[05:56:15] [Worker-Main-40/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/64190, l='ServerLevel[world]', x=-58.00, y=31.00, z=-29.00] as it would cause deadlock
+[05:56:15] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/64192, l='ServerLevel[world]', x=-58.00, y=31.00, z=-29.00] as it would cause deadlock
+[05:56:27] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/64263, l='ServerLevel[world]', x=-107.00, y=31.00, z=5.00] as it would cause deadlock
+[05:56:27] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/64267, l='ServerLevel[world]', x=-107.00, y=31.00, z=5.00] as it would cause deadlock
+[05:56:28] [Worker-Main-19/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/64271, l='ServerLevel[world]', x=97.00, y=31.00, z=-46.00] as it would cause deadlock
+[05:56:28] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/64273, l='ServerLevel[world]', x=97.00, y=31.00, z=-46.00] as it would cause deadlock
+[05:56:32] [Worker-Main-19/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/64344, l='ServerLevel[world]', x=-178.00, y=92.00, z=-245.00] as it would cause deadlock
+[05:56:32] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/64347, l='ServerLevel[world]', x=-178.00, y=92.00, z=-245.00] as it would cause deadlock
+[05:57:05] [Worker-Main-11/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/64667, l='ServerLevel[world]', x=-95.00, y=31.00, z=-351.00] as it would cause deadlock
+[05:57:05] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/64669, l='ServerLevel[world]', x=-95.00, y=31.00, z=-351.00] as it would cause deadlock
+[05:57:31] [Server thread/INFO]: ElSantixdd has made the advancement [Ruby Ore]
+[05:58:00] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to ezefzc]
+[05:58:16] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to ezefzc]

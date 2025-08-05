@@ -10928,7 +10928,8 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
-      "betternether:gravel_desert": "2025-08-05 05:56:01 +0000"
+      "betternether:gravel_desert": "2025-08-05 05:56:01 +0000",
+      "betternether:old_warped_woods": "2025-08-05 06:11:13 +0000"
     },
     "done": false
   },
@@ -10937,6 +10938,12 @@
       "has_block.minecraft.basalt": "2025-08-05 05:48:26 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2025-08-05 06:08:43 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
@@ -11031,6 +11038,12 @@
   "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-05 05:46:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/polished_bloodstone": {
+    "criteria": {
+      "has_item": "2025-08-05 06:09:00 +0000"
     },
     "done": true
   },
@@ -11772,6 +11785,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/polished_bloodstone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 06:09:00 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2025-08-05 04:44:59 +0000"
@@ -11976,6 +11995,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
+    "criteria": {
+      "has_netherrack_stalactite": "2025-08-05 06:13:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-08-05 06:04:22 +0000"
@@ -12021,6 +12046,12 @@
   "stoneworks:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-05 05:46:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone_wall": {
+    "criteria": {
+      "has_item": "2025-08-05 06:09:00 +0000"
     },
     "done": true
   },
@@ -12210,6 +12241,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/polished_bloodstone_bricks_from_bloodstone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 06:09:00 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-05 05:46:36 +0000"
@@ -12273,6 +12310,12 @@
   "betternether:recipes/building_blocks/basalt_brick_slabs_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-08-05 05:48:26 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 06:09:00 +0000"
     },
     "done": true
   },
@@ -12390,6 +12433,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/bloodstone_slab": {
+    "criteria": {
+      "has_item": "2025-08-05 06:09:00 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_paver_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-05 05:46:36 +0000"
@@ -12465,6 +12514,12 @@
   "stoneworks:recipes/building_blocks/cobbled_basalt_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-08-05 05:48:26 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 06:09:00 +0000"
     },
     "done": true
   },
@@ -12567,6 +12622,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-05 06:04:22 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone_stairs": {
+    "criteria": {
+      "has_item": "2025-08-05 06:09:00 +0000"
     },
     "done": true
   },
@@ -12846,6 +12907,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/bloodstone_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 06:09:00 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_diorite_brick_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-05 05:38:30 +0000"
@@ -13083,6 +13150,12 @@
   "stoneworks:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-05 05:46:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-08-05 06:13:29 +0000"
     },
     "done": true
   },

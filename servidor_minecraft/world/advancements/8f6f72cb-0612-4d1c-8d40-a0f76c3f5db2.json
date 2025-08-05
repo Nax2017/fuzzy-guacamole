@@ -6083,6 +6083,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2025-08-01 04:18:14 +0000",
+      "redstone_abyss": "2025-08-05 06:17:25 +0000",
       "autumnal_maple_forest": "2025-07-31 22:34:07 +0000",
       "muddy_river": "2025-08-01 16:41:53 +0000",
       "ancient_delta": "2025-08-01 02:11:29 +0000",
@@ -14537,7 +14538,16 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
-      "betternether:gravel_desert": "2025-08-05 05:55:56 +0000"
+      "betternether:gravel_desert": "2025-08-05 05:55:56 +0000",
+      "betternether:poor_nether_grasslands": "2025-08-05 06:17:18 +0000",
+      "betternether:nether_grasslands": "2025-08-05 06:17:15 +0000",
+      "betternether:old_warped_woods": "2025-08-05 06:09:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2025-08-05 06:08:45 +0000"
     },
     "done": false
   },
@@ -14555,6 +14565,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "redstone_abyss": "2025-08-05 06:17:25 +0000",
       "glistering_meadow": "2025-08-05 05:59:55 +0000"
     },
     "done": false
@@ -14574,6 +14585,12 @@
   "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
     "criteria": {
       "has_item.betternether.cincinnasite": "2025-08-05 05:57:24 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/polished_bloodstone": {
+    "criteria": {
+      "has_item": "2025-08-05 06:08:58 +0000"
     },
     "done": true
   },
@@ -14841,6 +14858,18 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/polished_bloodstone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 06:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-08-05 06:17:33 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-05 05:56:58 +0000"
@@ -14937,6 +14966,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/bloodstone_wall": {
+    "criteria": {
+      "has_item": "2025-08-05 06:08:58 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
     "criteria": {
       "has_soul_sand": "2025-08-05 06:04:59 +0000"
@@ -15027,9 +15062,21 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/polished_bloodstone_bricks_from_bloodstone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 06:08:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-08-05 05:56:58 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 06:08:58 +0000"
     },
     "done": true
   },
@@ -15051,9 +15098,21 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/bloodstone_slab": {
+    "criteria": {
+      "has_item": "2025-08-05 06:08:58 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
     "criteria": {
       "has_item.betternether.cincinnasite": "2025-08-05 05:57:24 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 06:08:58 +0000"
     },
     "done": true
   },
@@ -15066,6 +15125,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-08-05 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone_stairs": {
+    "criteria": {
+      "has_item": "2025-08-05 06:08:58 +0000"
     },
     "done": true
   },
@@ -15132,6 +15197,12 @@
   "soulsweapons:recipes/tools/moonstone_hoe_right": {
     "criteria": {
       "has_item": "2025-08-05 05:38:21 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-05 06:08:58 +0000"
     },
     "done": true
   },

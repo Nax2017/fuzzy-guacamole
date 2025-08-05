@@ -13462,6 +13462,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-08-05 05:44:20 +0000"
+    },
+    "done": false
+  },
   "techreborn:recipes/centrifuge/baked_potato": {
     "criteria": {
       "has_baked_potato": "2025-08-05 04:42:38 +0000"
@@ -13534,6 +13540,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-08-05 05:38:06 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/phantom_armor_boots": {
     "criteria": {
       "has_phantom_skin": "2025-08-05 05:01:07 +0000"
@@ -13596,6 +13608,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "calamari": "2025-08-05 05:44:27 +0000",
       "glowing_calamari": "2025-08-05 05:37:03 +0000"
     },
     "done": false
@@ -13678,6 +13691,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/fried_calamari": {
+    "criteria": {
+      "has_calamari": "2025-08-05 05:44:27 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
     "criteria": {
       "has_item": "2025-08-05 05:05:37 +0000"
@@ -13693,6 +13712,12 @@
   "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
     "criteria": {
       "has_item": "2025-08-05 05:05:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_calamari": {
+    "criteria": {
+      "has_calamari": "2025-08-05 05:44:27 +0000"
     },
     "done": true
   },
@@ -13792,6 +13817,12 @@
     },
     "done": false
   },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2025-08-05 05:38:20 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_lavender": {
     "criteria": {
       "has_item": "2025-08-05 04:41:45 +0000"
@@ -13867,6 +13898,12 @@
   "bewitchment:recipes/decorations/elder_poppet_shelf": {
     "criteria": {
       "has_item": "2025-08-05 05:05:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
+    "criteria": {
+      "has_calamari": "2025-08-05 05:44:27 +0000"
     },
     "done": true
   },
@@ -13957,6 +13994,12 @@
   "techreborn:recipes/extractor/cyan_dye_from_prismarine_shard": {
     "criteria": {
       "has_prismarine_shard": "2025-08-05 05:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-05 05:44:20 +0000"
     },
     "done": true
   },

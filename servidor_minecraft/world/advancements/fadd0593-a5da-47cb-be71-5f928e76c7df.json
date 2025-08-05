@@ -4747,6 +4747,7 @@
       "minecraft:spider": "2025-08-01 01:35:54 +0000",
       "minecraft:piglin_brute": "2025-08-01 04:55:46 +0000",
       "minecraft:creeper": "2025-08-01 02:58:39 +0000",
+      "minecraft:phantom": "2025-08-05 04:58:38 +0000",
       "minecraft:witch": "2025-08-01 02:38:50 +0000",
       "minecraft:cave_spider": "2025-08-01 03:40:02 +0000",
       "minecraft:piglin": "2025-08-01 04:58:46 +0000",
@@ -13457,6 +13458,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_leggings": {
+    "criteria": {
+      "has_phantom_skin": "2025-08-05 05:01:07 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "supplementaries:blackboard_white": "2025-08-05 04:41:45 +0000"
@@ -13478,6 +13485,18 @@
   "friendsandfoes:adventure/kill_iceologer": {
     "criteria": {
       "killed_iceologer": "2025-08-05 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2025-08-05 05:01:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_boots": {
+    "criteria": {
+      "has_phantom_skin": "2025-08-05 05:01:07 +0000"
     },
     "done": true
   },
@@ -13511,9 +13530,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2025-08-05 05:01:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-08-05 04:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-05 05:01:40 +0000"
     },
     "done": true
   },
@@ -13541,6 +13572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-05 05:01:40 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/gemstone_white": {
     "criteria": {
       "has_quartz": "2025-08-05 04:41:45 +0000"
@@ -13550,6 +13587,18 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-05 05:01:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_phantom_bones": "2025-08-05 05:01:07 +0000"
     },
     "done": true
   },
@@ -13577,6 +13626,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-08-05 04:58:38 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/misc/quartz_lavender": {
     "criteria": {
       "has_item": "2025-08-05 04:41:45 +0000"
@@ -13592,6 +13647,18 @@
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2025-08-05 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2025-08-05 05:01:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-05 05:01:40 +0000"
     },
     "done": true
   },
@@ -13637,6 +13704,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2025-08-05 05:01:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-08-05 04:41:45 +0000"
@@ -13646,6 +13719,12 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-08-05 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2025-08-05 05:01:40 +0000"
     },
     "done": true
   },

@@ -569,8 +569,10 @@
       "minecraft:skeleton": "2025-07-31 19:01:56 +0000",
       "minecraft:spider": "2025-07-31 19:03:44 +0000",
       "minecraft:creeper": "2025-07-31 23:36:56 +0000",
+      "minecraft:phantom": "2025-08-05 04:58:39 +0000",
       "minecraft:witch": "2025-08-01 02:08:49 +0000",
       "minecraft:enderman": "2025-08-01 03:13:34 +0000",
+      "minecraft:stray": "2025-08-05 04:56:37 +0000",
       "minecraft:zombie": "2025-07-31 19:04:57 +0000",
       "minecraft:zombie_villager": "2025-08-01 05:18:56 +0000"
     },
@@ -14375,6 +14377,18 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_leggings": {
+    "criteria": {
+      "has_phantom_skin": "2025-08-05 05:00:48 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-08-05 05:04:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/food/mushroom_stew": {
     "criteria": {
       "has_item": "2025-08-05 04:41:31 +0000"
@@ -14384,6 +14398,12 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-08-05 04:41:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_boots": {
+    "criteria": {
+      "has_phantom_skin": "2025-08-05 05:00:48 +0000"
     },
     "done": true
   },
@@ -14405,9 +14425,57 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_iceologer": "2025-08-05 05:04:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-05 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-05 04:55:43 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_phantom_membrane": "2025-08-05 05:01:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-05 04:58:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_small_dust_from_bowl": {
     "criteria": {
       "has_bowl": "2025-08-05 04:41:31 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-08-05 04:58:39 +0000"
+    },
+    "done": false
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-08-05 05:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-05 04:58:04 +0000"
     },
     "done": true
   },
@@ -14434,6 +14502,18 @@
       "has_bowl": "2025-08-05 04:41:31 +0000"
     },
     "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-08-05 05:01:26 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_snowball": "2025-08-05 04:58:04 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

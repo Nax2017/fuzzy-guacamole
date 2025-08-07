@@ -14046,6 +14046,7 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:bone_reef": "2025-08-07 05:43:33 +0000",
       "betternether:gravel_desert": "2025-08-05 05:56:00 +0000",
       "betternether:flooded_deltas": "2025-08-07 03:20:26 +0000",
       "betternether:old_warped_woods": "2025-08-05 06:09:40 +0000"
@@ -15175,81 +15176,93 @@
     },
     "done": true
   },
-  "fwaystones:recipes/void_totem": {
-    "criteria": {
-      "has_totem_of_undying": "2025-08-07 04:17:06 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/implosion_compressor": {
-    "criteria": {
-      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/sprout_armor_boots": {
-    "criteria": {
-      "has_nether_wart": "2025-08-07 04:53:44 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/glaive_of_hodir": {
-    "criteria": {
-      "has_item": "2025-08-07 05:06:44 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/dark_moon_greatsword": {
-    "criteria": {
-      "has_item": "2025-08-07 05:06:44 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/royal_guard_armor_helmet": {
-    "criteria": {
-      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/nether_eye": {
-    "criteria": {
-      "nether_eye": "2025-08-07 04:53:17 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/bows/bow_shivering_bow": {
-    "criteria": {
-      "has_blue_ice": "2025-08-07 04:16:16 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/living_vines_armor_boots": {
-    "criteria": {
-      "has_nether_wart": "2025-08-07 04:53:44 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/silt/silt_brick": {
     "criteria": {
       "has_item": "2025-08-07 03:18:11 +0000"
     },
     "done": true
   },
-  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+  "twigs:recipes/silt/silt_from_silt_balls": {
     "criteria": {
-      "has_blue_ice": "2025-08-07 04:16:16 +0000"
+      "has_item": "2025-08-07 03:18:11 +0000"
     },
     "done": true
   },
-  "mcda:recipes/base_armors/sprout_armor_leggings": {
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
     "criteria": {
-      "has_nether_wart": "2025-08-07 04:53:44 +0000"
+      "has_bone_block": "2025-08-07 03:20:55 +0000"
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/lodestone": {
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
-      "has_chiseled_stone_bricks": "2025-08-07 04:23:40 +0000"
+      "has_bone_block": "2025-08-07 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_bone_block": "2025-08-07 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-07 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-07 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+    "criteria": {
+      "has_splash_potion": "2025-08-07 03:23:00 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:icewhisper": {
+    "criteria": {
+      "requirement": "2025-08-07 03:32:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-08-07 03:45:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_hoe": {
+    "criteria": {
+      "has_iron_hoe": "2025-08-07 03:45:46 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2025-08-07 03:46:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/poisonous_potato": {
+    "criteria": {
+      "has_poisonous_potato": "2025-08-07 03:46:16 +0000"
+    },
+    "done": true
+  },
+  "frostiful:adventure/find_frostologer_castle": {
+    "criteria": {
+      "castle": "2025-08-07 03:58:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_crossbow": {
+    "criteria": {
+      "has_crossbow": "2025-08-07 04:00:42 +0000"
     },
     "done": true
   },
@@ -15265,9 +15278,399 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/redstone_plate": {
+    "criteria": {
+      "has_redstone_block": "2025-08-07 04:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-07 04:05:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/implosion_compressor/red_garnet_dust": {
+    "criteria": {
+      "has_redstone_block": "2025-08-07 04:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-07 04:14:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2025-08-07 04:14:48 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 04:16:16 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 04:16:16 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 04:16:16 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 04:16:16 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 04:16:16 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 04:16:16 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/void_totem": {
+    "criteria": {
+      "has_totem_of_undying": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
+    "criteria": {
+      "has_totem_of_undying": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/lily_of_the_valley": {
+    "criteria": {
+      "has_flower": "2025-08-07 04:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-08-07 04:17:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-08-07 04:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-07 04:18:33 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-08-07 04:23:40 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:emberlash": {
+    "criteria": {
+      "requirement": "2025-08-07 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/fur_upgrade_template": {
+    "criteria": {
+      "has_fur_upgrade_template": "2025-08-07 04:29:01 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/weapon/frost_tipped_arrow": {
+    "criteria": {
+      "has_icicle": "2025-08-07 04:29:36 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/ice": {
+    "criteria": {
+      "has_icicle": "2025-08-07 04:29:36 +0000"
+    },
+    "done": true
+  },
+  "frostiful:adventure/kill_frostologer": {
+    "criteria": {
+      "frostologer": "2025-08-07 04:29:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/bone_meal_from_overgrown_bone_block": {
+    "criteria": {
+      "has_overgrown_bone_block": "2025-08-07 04:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-08-07 04:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-08-07 04:48:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton_smithing": {
+    "criteria": {
+      "has_skeleton": "2025-08-07 04:48:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
+    "criteria": {
+      "has_netherrack_stalactite": "2025-08-07 04:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-08-07 04:52:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-08-07 04:52:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/magma_cream": {
+    "criteria": {
+      "has_magma_cream": "2025-08-07 04:52:28 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-08-07 04:53:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/digital_display": {
     "criteria": {
       "has_advanced_circuit": "2025-08-07 04:53:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_circuit": "2025-08-07 04:53:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/chemical_reactor": {
+    "criteria": {
+      "has_advanced_circuit": "2025-08-07 04:53:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/player_detector": {
+    "criteria": {
+      "has_advanced_circuit": "2025-08-07 04:53:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lapotronic_su": {
+    "criteria": {
+      "has_advanced_circuit": "2025-08-07 04:53:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/rolling_machine": {
+    "criteria": {
+      "has_advanced_circuit": "2025-08-07 04:53:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
+    "criteria": {
+      "has_advanced_circuit": "2025-08-07 04:53:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/electrum_nugget": {
+    "criteria": {
+      "has_electrum_ingot": "2025-08-07 04:53:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/electrum_plate": {
+    "criteria": {
+      "has_tag_c_electrum_ingots": "2025-08-07 04:53:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/electrum_storage_block": {
+    "criteria": {
+      "has_electrum_ingot": "2025-08-07 04:53:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/electrum_dust": {
+    "criteria": {
+      "has_tag_c_electrum_ingots": "2025-08-07 04:53:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/zinc_nugget": {
+    "criteria": {
+      "has_zinc_ingot": "2025-08-07 04:53:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/zinc_storage_block": {
+    "criteria": {
+      "has_zinc_ingot": "2025-08-07 04:53:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/implosion_compressor": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/greenhouse_controller": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_sawmill": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_electrolyzer": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/industrial_machine_frame": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/assembling_machine": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_centrifuge": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_boots": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:53:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_boots": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:53:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:53:44 +0000"
     },
     "done": true
   },
@@ -15277,15 +15680,105 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/darkin_scythe_pre": {
+  "mcda:recipes/base_armors/living_vines_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:53:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:53:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:53:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:53:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:53:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/nether_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:53:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:53:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:53:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-08-07 04:55:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:end_of_reigns": {
+    "criteria": {
+      "condition_0": "2025-08-07 05:06:02 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "darkin_blade": "2025-08-07 05:06:23 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/glaive_of_hodir": {
     "criteria": {
       "has_item": "2025-08-07 05:06:44 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+  "soulsweapons:recipes/combat/dark_moon_greatsword": {
     "criteria": {
-      "has_splash_potion": "2025-08-07 03:23:00 +0000"
+      "has_item": "2025-08-07 05:06:44 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/darkin_scythe_pre": {
+    "criteria": {
+      "has_item": "2025-08-07 05:06:44 +0000"
     },
     "done": true
   },
@@ -15301,48 +15794,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-08-07 04:55:57 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/vanilla_piles/lily_of_the_valley": {
-    "criteria": {
-      "has_flower": "2025-08-07 04:17:59 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
-    "criteria": {
-      "has_advanced_circuit": "2025-08-07 04:53:22 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/electrum_nugget": {
-    "criteria": {
-      "has_electrum_ingot": "2025-08-07 04:53:23 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/gilded_glory_boots": {
-    "criteria": {
-      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-08-07 04:17:59 +0000"
-    },
-    "done": true
-  },
-  "croptopia:root": {
-    "criteria": {
-      "root": "2025-08-07 03:45:46 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
     "criteria": {
       "has_item": "2025-08-07 05:06:44 +0000"
@@ -15355,63 +15806,15 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/living_vines_armor_leggings": {
-    "criteria": {
-      "has_nether_wart": "2025-08-07 04:53:44 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/soul_reaper": {
     "criteria": {
       "has_item": "2025-08-07 05:06:44 +0000"
     },
     "done": true
   },
-  "frostiful:adventure/find_frostologer_castle": {
-    "criteria": {
-      "castle": "2025-08-07 03:58:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/chemical_reactor": {
-    "criteria": {
-      "has_advanced_circuit": "2025-08-07 04:53:22 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/living_vines_armor_chestplate": {
-    "criteria": {
-      "has_nether_wart": "2025-08-07 04:53:44 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing": {
-    "criteria": {
-      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/mjolnir": {
     "criteria": {
       "has_item": "2025-08-07 05:06:44 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
-    "criteria": {
-      "has_totem_of_undying": "2025-08-07 04:17:06 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/living_vines_armor_helmet": {
-    "criteria": {
-      "has_nether_wart": "2025-08-07 04:53:44 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:emberlash": {
-    "criteria": {
-      "requirement": "2025-08-07 04:24:18 +0000"
     },
     "done": true
   },
@@ -15427,87 +15830,9 @@
     },
     "done": true
   },
-  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
-    "criteria": {
-      "has_blue_ice": "2025-08-07 04:16:16 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/greenhouse_controller": {
-    "criteria": {
-      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2025-08-07 04:48:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-08-07 04:52:28 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/sprout_armor_chestplate": {
-    "criteria": {
-      "has_nether_wart": "2025-08-07 04:53:44 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
-    "criteria": {
-      "has_blue_ice": "2025-08-07 04:16:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-08-07 04:53:44 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/moonlight_shortsword": {
     "criteria": {
       "has_lord_soul": "2025-08-07 05:06:44 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/royal_guard_armor_boots": {
-    "criteria": {
-      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-08-07 04:18:33 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/gilded_glory_chestplate": {
-    "criteria": {
-      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/iron_nugget_from_hoe": {
-    "criteria": {
-      "has_iron_hoe": "2025-08-07 03:45:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-08-07 04:53:44 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/industrial_sawmill": {
-    "criteria": {
-      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
     },
     "done": true
   },
@@ -15517,69 +15842,9 @@
     },
     "done": true
   },
-  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
-    "criteria": {
-      "has_netherrack_stalactite": "2025-08-07 04:50:53 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/skeleton_smithing": {
-    "criteria": {
-      "has_skeleton": "2025-08-07 04:48:34 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/silt_from_silt_balls": {
-    "criteria": {
-      "has_item": "2025-08-07 03:18:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/string_from_crossbow": {
-    "criteria": {
-      "has_crossbow": "2025-08-07 04:00:42 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/food/herbal_medicine": {
-    "criteria": {
-      "has_nether_wart": "2025-08-07 04:53:44 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/magma_cube": {
-    "criteria": {
-      "has_magma_cream": "2025-08-07 04:52:28 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/electrum_plate": {
-    "criteria": {
-      "has_tag_c_electrum_ingots": "2025-08-07 04:53:23 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/magma_cream": {
-    "criteria": {
-      "has_magma_cream": "2025-08-07 04:52:28 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/crucible_sword": {
     "criteria": {
       "has_lord_soul": "2025-08-07 05:06:44 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel_alt": {
-    "criteria": {
-      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-08-07 03:20:55 +0000"
     },
     "done": true
   },
@@ -15589,93 +15854,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/nether_wart": {
-    "criteria": {
-      "has_nether_wart": "2025-08-07 04:53:44 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:end_of_reigns": {
-    "criteria": {
-      "condition_0": "2025-08-07 05:06:02 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/electrum_storage_block": {
-    "criteria": {
-      "has_electrum_ingot": "2025-08-07 04:53:23 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/redstone_plate": {
-    "criteria": {
-      "has_redstone_block": "2025-08-07 04:05:44 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/player_detector": {
-    "criteria": {
-      "has_advanced_circuit": "2025-08-07 04:53:22 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/kraken_slayer": {
     "criteria": {
       "has_item": "2025-08-07 05:06:44 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/industrial_electrolyzer": {
-    "criteria": {
-      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/electrum_dust": {
-    "criteria": {
-      "has_tag_c_electrum_ingots": "2025-08-07 04:53:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-08-07 04:14:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-08-07 03:20:55 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/lapotronic_su": {
-    "criteria": {
-      "has_advanced_circuit": "2025-08-07 04:53:22 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/lich_bane": {
     "criteria": {
       "has_item": "2025-08-07 05:06:44 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:icewhisper": {
-    "criteria": {
-      "requirement": "2025-08-07 03:32:29 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/rolling_machine": {
-    "criteria": {
-      "has_advanced_circuit": "2025-08-07 04:53:22 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/weapon/frost_tipped_arrow": {
-    "criteria": {
-      "has_icicle": "2025-08-07 04:29:36 +0000"
     },
     "done": true
   },
@@ -15697,36 +15884,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/nugget/zinc_nugget": {
-    "criteria": {
-      "has_zinc_ingot": "2025-08-07 04:53:41 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
-    "criteria": {
-      "has_blue_ice": "2025-08-07 04:16:16 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/food/stalagnate_bowl_wart": {
-    "criteria": {
-      "has_nether_wart": "2025-08-07 04:53:44 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/royal_guard_armor_chestplate": {
-    "criteria": {
-      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-08-07 04:05:44 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/darkin_blade": {
     "criteria": {
       "has_lord_soul": "2025-08-07 05:06:44 +0000"
@@ -15739,21 +15896,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
-    "criteria": {
-      "has_advanced_circuit": "2025-08-07 04:53:22 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/nightfall": {
     "criteria": {
       "has_item": "2025-08-07 05:06:44 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/hammers/hammer_bone_cudgel": {
-    "criteria": {
-      "has_bone_block": "2025-08-07 03:20:55 +0000"
     },
     "done": true
   },
@@ -15763,87 +15908,15 @@
     },
     "done": true
   },
-  "frostiful:adventure/kill_frostologer": {
-    "criteria": {
-      "frostologer": "2025-08-07 04:29:47 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_blue_ice": {
-    "criteria": {
-      "has_blue_ice": "2025-08-07 04:16:16 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/moonveil": {
     "criteria": {
       "has_item": "2025-08-07 05:06:44 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
-    "criteria": {
-      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/misc/ice": {
-    "criteria": {
-      "has_icicle": "2025-08-07 04:29:36 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/leviathan_axe_left": {
     "criteria": {
       "has_item": "2025-08-07 05:06:44 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/misc/fur_upgrade_template": {
-    "criteria": {
-      "has_fur_upgrade_template": "2025-08-07 04:29:01 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine_block/industrial_machine_frame": {
-    "criteria": {
-      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/sprout_armor_helmet": {
-    "criteria": {
-      "has_nether_wart": "2025-08-07 04:53:44 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/glaives/spear_venom_glaive": {
-    "criteria": {
-      "has_poisonous_potato": "2025-08-07 03:46:16 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/implosion_compressor/red_garnet_dust": {
-    "criteria": {
-      "has_redstone_block": "2025-08-07 04:05:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-08-07 04:47:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/assembling_machine": {
-    "criteria": {
-      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/industrial_centrifuge": {
-    "criteria": {
-      "has_advanced_machine_frame": "2025-08-07 04:53:42 +0000"
     },
     "done": true
   },
@@ -15859,18 +15932,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/extractor/string_from_banner": {
-    "criteria": {
-      "has_banner": "2025-08-07 04:14:48 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:all_weapons": {
-    "criteria": {
-      "darkin_blade": "2025-08-07 05:06:23 +0000"
-    },
-    "done": false
-  },
   "soulsweapons:recipes/combat/draupnir_spear": {
     "criteria": {
       "has_item": "2025-08-07 05:06:44 +0000"
@@ -15883,69 +15944,405 @@
     },
     "done": true
   },
-  "mcda:recipes/unique_armors/gilded_glory_leggings": {
-    "criteria": {
-      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-08-07 04:17:59 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/zinc_storage_block": {
-    "criteria": {
-      "has_zinc_ingot": "2025-08-07 04:53:41 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/nether": {
-    "criteria": {
-      "has_nether_wart": "2025-08-07 04:53:44 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
-    "criteria": {
-      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/bone_meal_from_overgrown_bone_block": {
-    "criteria": {
-      "has_overgrown_bone_block": "2025-08-07 04:42:33 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/poisonous_potato": {
-    "criteria": {
-      "has_poisonous_potato": "2025-08-07 03:46:16 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/dragon_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-08-07 03:20:55 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/skofnung": {
     "criteria": {
       "has_lord_soul": "2025-08-07 05:06:44 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/bn_bone_block": {
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
-      "has_bone_block": "2025-08-07 03:20:55 +0000"
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
     },
     "done": true
   },
-  "mcda:recipes/unique_armors/gilded_glory_helmet": {
+  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
-      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2025-08-07 06:12:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-07 05:21:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/smoker_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-07 05:21:17 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-08-07 05:39:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-07 06:03:59 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/tools/netherite_brush_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-07 06:03:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-07 05:21:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherite_ingot_with_lava": {
+    "criteria": {
+      "has_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-08-07 06:05:49 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dark_katana": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-07 06:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-07 05:21:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/yellow_coffin": {
+    "criteria": {
+      "has_item": "2025-08-07 06:00:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-07 05:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-07 06:03:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-07 06:03:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-07 05:21:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-07 05:21:17 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "has_material": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-08-07 06:05:49 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-07 06:03:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-07 05:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/gilded_netherite_fragment_recipe": {
+    "criteria": {
+      "got_the_netherite_fragment": "2025-08-07 05:40:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-08-07 06:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-07 06:03:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-07 05:21:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-07 06:03:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-08-07 06:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-07 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-07 05:21:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-08-07 06:04:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-07 06:03:59 +0000"
     },
     "done": true
   },

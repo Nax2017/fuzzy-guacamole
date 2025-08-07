@@ -13243,6 +13243,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-07 03:44:09 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/reinforced_mail_boots": {
     "criteria": {
       "has_iron_boots": "2025-08-07 03:39:04 +0000"
@@ -13261,6 +13267,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_leggings": {
+    "criteria": {
+      "has_peridot_gem": "2025-08-07 03:46:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-07 03:44:09 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/building_blocks/salt_block": {
     "criteria": {
       "has_item": "2025-08-07 03:33:05 +0000"
@@ -13273,9 +13291,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-07 03:44:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/small_dust/redstone_small_dust_from_dust": {
     "criteria": {
       "has_redstone": "2025-08-07 03:26:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_spade": {
+    "criteria": {
+      "has_peridot_gem": "2025-08-07 03:46:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/peridot_storage_block": {
+    "criteria": {
+      "has_peridot_gem": "2025-08-07 03:46:31 +0000"
     },
     "done": true
   },
@@ -13291,9 +13327,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-07 03:42:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-08-07 03:26:22 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-07 03:44:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_helmet": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-07 03:42:41 +0000"
     },
     "done": true
   },
@@ -13303,9 +13357,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-07 03:44:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-07 03:42:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sapphire_dust": {
+    "criteria": {
+      "has_tag_c_sapphires": "2025-08-07 03:42:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/raw_redstone_block": {
     "criteria": {
       "has_redstone": "2025-08-07 03:26:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_sword": {
+    "criteria": {
+      "has_peridot_gem": "2025-08-07 03:46:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_sword": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-07 03:42:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_hoe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-07 03:42:41 +0000"
     },
     "done": true
   },
@@ -13315,9 +13405,69 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_boots": {
+    "criteria": {
+      "has_peridot_gem": "2025-08-07 03:46:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_helmet": {
+    "criteria": {
+      "has_peridot_gem": "2025-08-07 03:46:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_chestplate": {
+    "criteria": {
+      "has_peridot_gem": "2025-08-07 03:46:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_hoe": {
+    "criteria": {
+      "has_peridot_gem": "2025-08-07 03:46:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_pickaxe": {
+    "criteria": {
+      "has_peridot_gem": "2025-08-07 03:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-07 03:44:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_spade": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-07 03:42:41 +0000"
+    },
+    "done": true
+  },
   "beachparty:recipes/radio": {
     "criteria": {
       "has_redstone": "2025-08-07 03:26:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-07 03:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-07 03:44:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_chestplate": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-07 03:42:41 +0000"
     },
     "done": true
   },
@@ -13333,9 +13483,33 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-07 03:44:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/redstone": {
     "criteria": {
       "has_redstone": "2025-08-07 03:26:22 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2025-08-07 03:44:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/peridot_dust": {
+    "criteria": {
+      "has_tag_c_peridot_gems": "2025-08-07 03:46:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_axe": {
+    "criteria": {
+      "has_peridot_gem": "2025-08-07 03:46:31 +0000"
     },
     "done": true
   },
@@ -13348,6 +13522,18 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-08-07 03:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-07 03:44:09 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-07 03:44:09 +0000"
     },
     "done": true
   },
@@ -13387,9 +13573,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-07 03:44:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2025-08-07 03:26:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_boots": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-07 03:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-07 03:44:09 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2025-08-07 03:44:09 +0000"
     },
     "done": true
   },
@@ -13405,6 +13615,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_storage_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-07 03:42:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-08-07 03:26:22 +0000"
@@ -13417,6 +13633,18 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/mossy_cobblestone_witch_altar": {
+    "criteria": {
+      "has_item": "2025-08-07 03:44:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/maple_sapling_from_maple_shrub": {
+    "criteria": {
+      "has_maple_shrub": "2025-08-07 03:46:54 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/computer_normal": {
     "criteria": {
       "has_redstone": "2025-08-07 03:26:22 +0000"
@@ -13426,6 +13654,12 @@
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-08-07 03:26:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_leggings": {
+    "criteria": {
+      "has_sapphire_gem": "2025-08-07 03:42:41 +0000"
     },
     "done": true
   },

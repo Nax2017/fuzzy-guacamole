@@ -13985,7 +13985,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2025-08-05 05:44:20 +0000"
+      "potato": "2025-08-07 03:46:46 +0000",
+      "wheat": "2025-08-05 05:44:20 +0000",
+      "carrot": "2025-08-07 03:47:00 +0000"
     },
     "done": false
   },
@@ -15180,6 +15182,18 @@
     },
     "done": true
   },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-08-07 03:45:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_hoe": {
+    "criteria": {
+      "has_iron_hoe": "2025-08-07 03:45:46 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/silt/silt_from_silt_balls": {
     "criteria": {
       "has_item": "2025-08-07 03:18:11 +0000"
@@ -15207,6 +15221,18 @@
   "mcdw:recipes/hammers/hammer_bone_cudgel": {
     "criteria": {
       "has_bone_block": "2025-08-07 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2025-08-07 03:46:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/poisonous_potato": {
+    "criteria": {
+      "has_poisonous_potato": "2025-08-07 03:46:16 +0000"
     },
     "done": true
   },

@@ -532,6 +532,7 @@
       "minecraft:cherry_grove": "2025-08-01 05:14:27 +0000",
       "minecraft:sunflower_plains": "2025-08-01 05:08:38 +0000",
       "minecraft:beach": "2025-08-01 02:04:53 +0000",
+      "minecraft:dark_forest": "2025-08-07 04:23:34 +0000",
       "minecraft:river": "2025-08-01 05:07:31 +0000",
       "minecraft:snowy_plains": "2025-08-01 01:36:57 +0000",
       "minecraft:stony_shore": "2025-08-01 02:08:12 +0000",
@@ -15203,6 +15204,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-08-07 04:23:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/alarm": {
     "criteria": {
       "has_redstone_block": "2025-08-07 04:05:44 +0000"
@@ -15254,6 +15261,12 @@
   "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
     "criteria": {
       "has_totem_of_undying": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:emberlash": {
+    "criteria": {
+      "requirement": "2025-08-07 04:24:18 +0000"
     },
     "done": true
   },
@@ -15335,6 +15348,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/combat/weapon/frost_tipped_arrow": {
+    "criteria": {
+      "has_icicle": "2025-08-07 04:29:36 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
     "criteria": {
       "has_blue_ice": "2025-08-07 04:16:16 +0000"
@@ -15359,9 +15378,27 @@
     },
     "done": true
   },
+  "frostiful:adventure/kill_frostologer": {
+    "criteria": {
+      "frostologer": "2025-08-07 04:29:47 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_blue_ice": {
     "criteria": {
       "has_blue_ice": "2025-08-07 04:16:16 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/ice": {
+    "criteria": {
+      "has_icicle": "2025-08-07 04:29:36 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/fur_upgrade_template": {
+    "criteria": {
+      "has_fur_upgrade_template": "2025-08-07 04:29:01 +0000"
     },
     "done": true
   },
@@ -15398,6 +15435,12 @@
   "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
     "criteria": {
       "has_upgrade_item": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/bone_meal_from_overgrown_bone_block": {
+    "criteria": {
+      "has_overgrown_bone_block": "2025-08-07 04:42:33 +0000"
     },
     "done": true
   },

@@ -2382,3 +2382,26 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [04:23:34] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to Nax_1905]
 [04:23:38] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
 [04:24:18] [Server thread/INFO]: ElSantixdd has made the advancement [Fire Hazard]
+[04:25:48] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -776.500000, 74.500000, 525.500000]
+[04:25:51] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[04:25:55] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[04:29:40] [Server thread/WARN]: ElSantixdd moved wrongly!
+[04:29:47] [Server thread/INFO]: ElSantixdd has reached the goal [Just Getting Warmed Up]
+[04:29:47] [Server thread/INFO]: Nax_1905 has completed the challenge [I'm the Frostologer Now!]
+[04:30:54] [Server thread/INFO]: ezefzc has made the advancement [Voluntary Exile]
+[04:32:43] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -456.500000, 88.500000, -1063.500000]
+[04:33:33] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[04:33:46] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[04:36:45] [Server thread/INFO]: [ezefzc: Teleported ezefzc to 151.500000, 69.500000, -326.500000]
+[04:40:38] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[04:40:41] [Server thread/INFO]: No return portal found
+[04:40:41] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of ElSantixdd accepted server config.
+[04:40:52] [Server thread/INFO]: [ezefzc: Teleported ezefzc to Nax_1905]
+[04:41:59] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[04:41:59] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[04:43:15] [Server thread/INFO]: [ezefzc: Teleported ezefzc to -456.500000, 88.500000, -1071.500000]
+[04:43:44] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -41.500000, 93.500000, -139.500000]
+[04:43:50] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[04:44:08] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[04:44:08] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[04:44:16] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.

@@ -5894,10 +5894,12 @@
       "minecraft:skeleton": "2025-08-01 02:42:19 +0000",
       "minecraft:ravager": "2025-08-07 04:17:00 +0000",
       "minecraft:vindicator": "2025-08-07 04:18:11 +0000",
+      "minecraft:magma_cube": "2025-08-07 04:52:27 +0000",
       "minecraft:spider": "2025-08-01 03:45:44 +0000",
       "minecraft:creeper": "2025-08-01 04:36:28 +0000",
       "minecraft:phantom": "2025-08-05 05:00:18 +0000",
       "minecraft:witch": "2025-08-07 03:54:56 +0000",
+      "minecraft:wither_skeleton": "2025-08-07 04:52:11 +0000",
       "minecraft:piglin": "2025-08-05 06:01:53 +0000",
       "minecraft:enderman": "2025-08-01 02:41:25 +0000",
       "minecraft:stray": "2025-08-01 02:10:33 +0000",
@@ -13255,6 +13257,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_boots": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:52:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-07 04:33:32 +0000"
@@ -13288,6 +13296,12 @@
   "stoneworks:recipes/building_blocks/mossy_calcite_bricks_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-07 04:33:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_boots": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:52:19 +0000"
     },
     "done": true
   },
@@ -13363,6 +13377,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:52:19 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/candy_corn": {
     "criteria": {
       "has_sugar": "2025-08-07 04:18:37 +0000"
@@ -13390,6 +13410,12 @@
   "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-07 04:33:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:52:19 +0000"
     },
     "done": true
   },
@@ -13567,6 +13593,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/living_vines_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:52:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
     "criteria": {
       "has_sapphire_gem": "2025-08-07 03:42:41 +0000"
@@ -13621,6 +13653,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/living_vines_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:52:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_paver_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-07 04:33:32 +0000"
@@ -13642,6 +13680,12 @@
   "ae2:recipes/misc/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-08-07 03:26:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:52:19 +0000"
     },
     "done": true
   },
@@ -13681,6 +13725,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-08-07 04:48:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_tile_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-07 04:33:32 +0000"
@@ -13708,6 +13758,12 @@
   "stoneworks:recipes/building_blocks/calcite_bricks_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-07 04:33:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:52:19 +0000"
     },
     "done": true
   },
@@ -13772,6 +13828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:52:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_sword": {
     "criteria": {
       "has_peridot_gem": "2025-08-07 03:46:31 +0000"
@@ -13811,6 +13873,12 @@
   "betterend:recipes/misc/shadow_berry_jelly_potion": {
     "criteria": {
       "has_sugar": "2025-08-07 04:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:52:19 +0000"
     },
     "done": true
   },
@@ -13955,6 +14023,12 @@
   "stoneworks:recipes/building_blocks/polished_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-08-07 04:33:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/nether_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:52:19 +0000"
     },
     "done": true
   },
@@ -14177,6 +14251,12 @@
   "techreborn:recipes/grinder/peridot_dust": {
     "criteria": {
       "has_tag_c_peridot_gems": "2025-08-07 03:46:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:52:19 +0000"
     },
     "done": true
   },
@@ -14447,6 +14527,12 @@
   "botania:recipes/tools/swap_ring": {
     "criteria": {
       "has_item": "2025-08-07 04:24:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:52:19 +0000"
     },
     "done": true
   },
@@ -14765,6 +14851,12 @@
   "techreborn:recipes/assembling_machine/black_bed_from_wool": {
     "criteria": {
       "has_black_wool": "2025-08-07 04:20:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 04:52:19 +0000"
     },
     "done": true
   },

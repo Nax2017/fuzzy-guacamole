@@ -2405,3 +2405,40 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [04:44:08] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
 [04:44:08] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
 [04:44:16] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[04:46:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04:46:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2465ms or 49 ticks behind
+[04:47:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04:47:20] [Worker-Main-2/INFO]: [betternether] BBox:class_3341{minX=42, minY=22, minZ=-806, maxX=198, maxY=96, maxZ=-650}
+[04:47:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
+[04:47:38] [Worker-Main-3/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[04:47:38] [Worker-Main-3/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[04:47:48] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[04:47:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3874ms or 77 ticks behind
+[04:48:05] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/60075, l='ServerLevel[world]', x=267.00, y=31.00, z=-643.00] as it would cause deadlock
+[04:48:05] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/60079, l='ServerLevel[world]', x=267.00, y=31.00, z=-643.00] as it would cause deadlock
+[04:48:15] [Server thread/INFO]: [ezefzc: Teleported ezefzc to Nax_1905]
+[04:48:16] [Server thread/INFO]: ezefzc has made the advancement [A Terrible Fortress]
+[04:48:24] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to Nax_1905]
+[04:48:27] [Server thread/INFO]: ElSantixdd has made the advancement [A Terrible Fortress]
+[04:48:43] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/60724, l='ServerLevel[world]', x=317.00, y=31.00, z=-645.00] as it would cause deadlock
+[04:48:43] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/60743, l='ServerLevel[world]', x=317.00, y=31.00, z=-645.00] as it would cause deadlock
+[04:49:31] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -43.500000, 93.500000, -139.500000]
+[04:51:08] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[04:51:08] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to ezefzc]
+[04:51:31] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[04:51:44] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[04:52:20] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[04:53:02] [Server thread/INFO]: Nax_1905 has made the advancement [Stare Into Despair]
+[04:53:17] [Server thread/INFO]: ElSantixdd has made the advancement [Stare Into Despair]
+[04:55:18] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
+[04:55:46] [Worker-Main-1/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[04:55:50] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/67431, l='ServerLevel[world]', x=300.00, y=31.00, z=-714.00] as it would cause deadlock
+[04:55:50] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/67434, l='ServerLevel[world]', x=300.00, y=31.00, z=-714.00] as it would cause deadlock
+[04:55:53] [Worker-Main-3/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[04:55:57] [Server thread/INFO]: ElSantixdd has reached the goal [Postmortal]
+[04:55:58] [Server thread/INFO]: ElSantixdd was slain by Wither Skeleton
+[04:55:58] [Server thread/INFO]: Created new backpack backup file for ElSantixdd with unique ID travelersbackpack.redstone_07.08.2025-04.55.58.dat
+[04:56:00] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of ElSantixdd accepted server config.
+[04:56:07] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to ezefzc]
+[04:56:07] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of ElSantixdd accepted server config.

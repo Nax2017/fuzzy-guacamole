@@ -15188,6 +15188,12 @@
     },
     "done": true
   },
+  "frostiful:adventure/find_frostologer_castle": {
+    "criteria": {
+      "castle": "2025-08-07 03:58:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/iron_nugget_from_hoe": {
     "criteria": {
       "has_iron_hoe": "2025-08-07 03:45:46 +0000"

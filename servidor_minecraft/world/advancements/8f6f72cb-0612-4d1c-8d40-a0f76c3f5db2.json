@@ -15496,6 +15496,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 03:57:52 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/track_switch_andesite": {
     "criteria": {
       "has_item": "2025-08-07 03:31:43 +0000"
@@ -15523,6 +15529,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-08-07 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 03:57:52 +0000"
     },
     "done": true
   },
@@ -15598,6 +15610,12 @@
     },
     "done": true
   },
+  "frostiful:adventure/find_frostologer_castle": {
+    "criteria": {
+      "castle": "2025-08-07 03:58:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-08-07 03:40:42 +0000"
@@ -15640,6 +15658,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 03:57:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-08-07 03:30:05 +0000"
@@ -15673,6 +15697,12 @@
   "create:recipes/misc/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2025-08-07 03:30:05 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 03:57:52 +0000"
     },
     "done": true
   },
@@ -15730,6 +15760,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-07 03:58:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/weighted_ejector": {
     "criteria": {
       "has_item": "2025-08-07 03:31:43 +0000"
@@ -15772,6 +15808,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 03:57:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-08-07 03:30:05 +0000"
@@ -15811,6 +15853,12 @@
   "betternether:recipes/building_blocks/quartz_glass_smelting": {
     "criteria": {
       "has_item.minecraft.quartz": "2025-08-07 03:40:42 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 03:57:52 +0000"
     },
     "done": true
   },

@@ -4856,6 +4856,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-08-05 04:42:46 +0000",
+      "potato": "2025-08-07 04:09:50 +0000",
       "bread": "2025-08-01 01:38:50 +0000"
     },
     "done": false
@@ -15176,6 +15177,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/alarm": {
+    "criteria": {
+      "has_redstone_block": "2025-08-07 04:05:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2025-08-07 04:05:44 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
     "criteria": {
       "has_splash_potion": "2025-08-07 03:23:00 +0000"
@@ -15206,9 +15219,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_crossbow": {
+    "criteria": {
+      "has_crossbow": "2025-08-07 04:00:42 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
     "criteria": {
       "has_bone_block": "2025-08-07 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/redstone_plate": {
+    "criteria": {
+      "has_redstone_block": "2025-08-07 04:05:44 +0000"
     },
     "done": true
   },
@@ -15224,6 +15249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-07 04:05:44 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_bone_cudgel": {
     "criteria": {
       "has_bone_block": "2025-08-07 03:20:55 +0000"
@@ -15233,6 +15264,12 @@
   "mcdw:recipes/glaives/spear_venom_glaive": {
     "criteria": {
       "has_poisonous_potato": "2025-08-07 03:46:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/implosion_compressor/red_garnet_dust": {
+    "criteria": {
+      "has_redstone_block": "2025-08-07 04:05:44 +0000"
     },
     "done": true
   },

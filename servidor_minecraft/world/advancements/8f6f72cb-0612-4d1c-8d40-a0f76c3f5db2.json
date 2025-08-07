@@ -15892,6 +15892,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2025-08-07 04:03:03 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2025-08-07 03:40:42 +0000"
@@ -15949,6 +15955,12 @@
   "create:recipes/misc/crafting/kinetics/analog_lever": {
     "criteria": {
       "has_item": "2025-08-07 03:30:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2025-08-07 04:05:50 +0000"
     },
     "done": true
   },
@@ -16021,6 +16033,12 @@
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2025-08-07 03:30:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/poisonous_potato": {
+    "criteria": {
+      "has_poisonous_potato": "2025-08-07 04:03:03 +0000"
     },
     "done": true
   },

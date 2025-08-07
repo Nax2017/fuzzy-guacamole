@@ -2300,3 +2300,32 @@ BCLib - The End  BiomeSource (29dc618f)
 [04:01:06] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
 [04:01:33] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
 [04:04:25] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -697.500000, 63.500000, 510.500000]
+[04:05:45] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell spellbladenext:smite Entity not found: 35035
+[04:06:20] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to 154.500000, 64.500000, -320.500000]
+[04:06:35] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -456.500000, 88.500000, -1063.500000]
+[04:08:34] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[04:08:49] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[04:12:09] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -964.500000, 63.500000, 1038.500000]
+[04:12:46] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to Nax_1905]
+[04:12:57] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[04:12:58] [Server thread/INFO]: Villager class_1646['Bobbye'/37404, l='ServerLevel[world]', x=-1016.70, y=68.36, z=1114.49] died, message: 'Bobbye was shot by Pillager'
+[04:12:58] [Server thread/INFO]: Named entity class_1646['Bobbye'/37404, l='ServerLevel[world]', x=-1016.70, y=68.36, z=1114.49] died: Bobbye was shot by Pillager
+[04:13:01] [Server thread/INFO]: Villager class_1646['Dario'/37438, l='ServerLevel[world]', x=-1022.36, y=70.00, z=1117.42] died, message: 'Dario was shot by Pillager'
+[04:13:01] [Server thread/INFO]: Named entity class_1646['Dario'/37438, l='ServerLevel[world]', x=-1022.36, y=70.00, z=1117.42] died: Dario was shot by Pillager
+[04:13:02] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna_na], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga]] from pos class_2338{x=-1173, y=67, z=981}
+[04:13:03] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/bounty/plains
+[04:13:03] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/waystone/normal
+[04:13:03] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[04:13:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2639ms or 52 ticks behind
+[04:13:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2401ms or 48 ticks behind
+[04:13:34] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[04:14:01] [Server thread/INFO]: Villager class_1646['Darrick'/37437, l='ServerLevel[world]', x=-996.82, y=64.00, z=1094.30] died, message: 'Darrick was slain by Vindicator'
+[04:14:01] [Server thread/INFO]: Named entity class_1646['Darrick'/37437, l='ServerLevel[world]', x=-996.82, y=64.00, z=1094.30] died: Darrick was slain by Vindicator
+[04:14:47] [Server thread/INFO]: ElSantixdd has made the advancement [Voluntary Exile]
+[04:14:53] [Worker-Main-1/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[04:14:56] [Server thread/INFO]: Nax_1905 was slain by Ravager
+[04:14:56] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_07.08.2025-04.14.56.dat
+[04:14:58] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[04:14:59] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]

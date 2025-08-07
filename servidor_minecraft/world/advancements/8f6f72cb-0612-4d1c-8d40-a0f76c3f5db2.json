@@ -15487,6 +15487,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/nether_brick_pillar_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2025-08-07 03:31:43 +0000"
@@ -15517,9 +15529,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/glaive_of_hodir": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_sword": {
     "criteria": {
       "has_item": "2025-08-07 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dark_moon_greatsword": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
     },
     "done": true
   },
@@ -15565,9 +15589,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/obedience_stick": {
     "criteria": {
       "has_item": "2025-08-07 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_pavers_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
     },
     "done": true
   },
@@ -15580,6 +15616,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-08-07 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-08-07 04:57:22 +0000"
     },
     "done": true
   },
@@ -15607,6 +15649,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/darkin_scythe_pre": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_roller": {
     "criteria": {
       "has_item": "2025-08-07 03:31:43 +0000"
@@ -15625,9 +15673,27 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/leviathan_axe_right": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_forge": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/pump": {
     "criteria": {
       "has_item": "2025-08-07 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
     },
     "done": true
   },
@@ -15643,9 +15709,39 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-08-07 05:02:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
     "criteria": {
       "has_item": "2025-08-07 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_shingle_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_plates_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
     },
     "done": true
   },
@@ -15673,6 +15769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/gilded_glory_boots": {
     "criteria": {
       "has_upgrade_item": "2025-08-07 04:17:48 +0000"
@@ -15682,6 +15784,18 @@
   "botania:recipes/tools/bauble_box": {
     "criteria": {
       "has_item": "2025-08-07 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
     },
     "done": true
   },
@@ -15697,9 +15811,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/moonlight_greatsword": {
+    "criteria": {
+      "has_lord_soul": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-08-07 04:30:01 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_reaper": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
     },
     "done": true
   },
@@ -15745,9 +15871,33 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/mjolnir": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
     "criteria": {
       "has_totem_of_undying": "2025-08-07 04:17:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_shingles_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/master_sword": {
+    "criteria": {
+      "has_lord_soul": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_shingle_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
     },
     "done": true
   },
@@ -15760,6 +15910,12 @@
   "create:recipes/misc/crafting/kinetics/depot": {
     "criteria": {
       "has_item": "2025-08-07 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/galeforce": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
     },
     "done": true
   },
@@ -15784,6 +15940,12 @@
   "create:recipes/misc/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2025-08-07 03:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
     },
     "done": true
   },
@@ -15829,9 +15991,27 @@
     },
     "done": true
   },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
     "criteria": {
       "has_blue_ice": "2025-08-07 03:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonlight_shortsword": {
+    "criteria": {
+      "has_lord_soul": "2025-08-07 04:59:01 +0000"
     },
     "done": true
   },
@@ -15889,6 +16069,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/nether_brick_plate_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/rageblade": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_axe": {
     "criteria": {
       "has_item": "2025-08-07 04:24:05 +0000"
@@ -15913,9 +16105,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/crucible_sword": {
+    "criteria": {
+      "has_lord_soul": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2025-08-07 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:lord_soul": {
+    "criteria": {
+      "condition_0": "2025-08-07 04:59:01 +0000"
     },
     "done": true
   },
@@ -15931,15 +16135,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/nether_brick_paver_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2025-08-07 03:31:43 +0000"
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/kraken_slayer": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/dodge_ring": {
     "criteria": {
       "has_item": "2025-08-07 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_shingle_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
     },
     "done": true
   },
@@ -15967,9 +16189,33 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/lich_bane": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2025-08-07 03:30:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_paver_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
     },
     "done": true
   },
@@ -15985,9 +16231,27 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/frostmourne": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/whirligig_sawblade": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_chestplate": {
     "criteria": {
       "has_item": "2025-08-07 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/forlorn_scythe": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
     },
     "done": true
   },
@@ -16033,6 +16297,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_wall_from_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_plate_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
     "criteria": {
       "has_nether_quartz": "2025-08-07 03:40:42 +0000"
@@ -16075,6 +16351,18 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/darkin_blade": {
+    "criteria": {
+      "has_lord_soul": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/freyr_sword": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/monocle": {
     "criteria": {
       "has_item": "2025-08-07 04:24:05 +0000"
@@ -16105,15 +16393,51 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/nightfall": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/sextant": {
     "criteria": {
       "has_item": "2025-08-07 04:24:05 +0000"
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_tile_large_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_pick": {
     "criteria": {
       "has_item": "2025-08-07 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/excalibur": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_paver_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_plate_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/nether_brick_witch_altar": {
+    "criteria": {
+      "has_item": "2025-08-07 04:57:22 +0000"
     },
     "done": true
   },
@@ -16129,9 +16453,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/withered_chest": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_helmet": {
     "criteria": {
       "has_item": "2025-08-07 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonveil": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
     },
     "done": true
   },
@@ -16165,9 +16501,33 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/leviathan_axe_left": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-08-07 03:40:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_bricks_roof_tile_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-08-07 04:57:22 +0000"
     },
     "done": true
   },
@@ -16219,6 +16579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
+    },
+    "done": true
+  },
   "frostiful:adventure/obtain_frostology_cloak": {
     "criteria": {
       "frostology_cloak": "2025-08-07 04:29:47 +0000"
@@ -16246,6 +16612,12 @@
   "botania:recipes/misc/quartz_dark": {
     "criteria": {
       "has_item": "2025-08-07 03:40:42 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragonslayer_swordspear": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
     },
     "done": true
   },
@@ -16279,6 +16651,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/dawnbreaker": {
+    "criteria": {
+      "has_lord_soul": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_banner": {
     "criteria": {
       "has_banner": "2025-08-07 04:05:50 +0000"
@@ -16291,9 +16669,27 @@
     },
     "done": true
   },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "darkin_blade": "2025-08-07 04:59:01 +0000"
+    },
+    "done": false
+  },
   "ae2:recipes/misc/tools/nether_quartz_sword": {
     "criteria": {
       "has_nether_quartz": "2025-08-07 03:40:42 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/draupnir_spear": {
+    "criteria": {
+      "has_item": "2025-08-07 04:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
     },
     "done": true
   },
@@ -16306,6 +16702,12 @@
   "twigs:recipes/schist/schist": {
     "criteria": {
       "has_item": "2025-08-07 03:40:42 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/holy_moonlight_sword": {
+    "criteria": {
+      "has_lord_soul": "2025-08-07 04:59:01 +0000"
     },
     "done": true
   },
@@ -16336,6 +16738,12 @@
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-08-07 03:30:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_anvil": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-07 04:57:22 +0000"
     },
     "done": true
   },
@@ -16390,6 +16798,12 @@
   "techreborn:recipes/centrifuge/poisonous_potato": {
     "criteria": {
       "has_poisonous_potato": "2025-08-07 04:03:03 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung": {
+    "criteria": {
+      "has_lord_soul": "2025-08-07 04:59:01 +0000"
     },
     "done": true
   },

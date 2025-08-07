@@ -4746,7 +4746,9 @@
     "criteria": {
       "minecraft:pillager": "2025-08-01 04:51:44 +0000",
       "minecraft:skeleton": "2025-08-01 01:54:39 +0000",
+      "minecraft:ravager": "2025-08-07 04:14:57 +0000",
       "minecraft:hoglin": "2025-08-07 03:18:58 +0000",
+      "minecraft:vindicator": "2025-08-07 04:14:47 +0000",
       "minecraft:magma_cube": "2025-08-07 03:20:01 +0000",
       "minecraft:spider": "2025-08-01 01:35:54 +0000",
       "minecraft:piglin_brute": "2025-08-01 04:55:46 +0000",
@@ -15171,9 +15173,33 @@
     },
     "done": true
   },
+  "fwaystones:recipes/void_totem": {
+    "criteria": {
+      "has_totem_of_undying": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 04:16:16 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/silt/silt_brick": {
     "criteria": {
       "has_item": "2025-08-07 03:18:11 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 04:16:16 +0000"
     },
     "done": true
   },
@@ -15195,6 +15221,24 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/lily_of_the_valley": {
+    "criteria": {
+      "has_flower": "2025-08-07 04:17:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-08-07 04:17:59 +0000"
+    },
+    "done": true
+  },
   "croptopia:root": {
     "criteria": {
       "root": "2025-08-07 03:45:46 +0000"
@@ -15204,6 +15248,42 @@
   "frostiful:adventure/find_frostologer_castle": {
     "criteria": {
       "castle": "2025-08-07 03:58:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
+    "criteria": {
+      "has_totem_of_undying": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 04:16:16 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 04:16:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-07 04:18:33 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
     },
     "done": true
   },
@@ -15237,6 +15317,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-07 04:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-08-07 03:20:55 +0000"
@@ -15246,6 +15332,18 @@
   "simplyswords:icewhisper": {
     "criteria": {
       "requirement": "2025-08-07 03:32:29 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 04:16:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
     },
     "done": true
   },
@@ -15261,6 +15359,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2025-08-07 04:16:16 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/glaives/spear_venom_glaive": {
     "criteria": {
       "has_poisonous_potato": "2025-08-07 03:46:16 +0000"
@@ -15270,6 +15374,30 @@
   "techreborn:recipes/implosion_compressor/red_garnet_dust": {
     "criteria": {
       "has_redstone_block": "2025-08-07 04:05:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2025-08-07 04:14:48 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-08-07 04:17:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
     },
     "done": true
   },
@@ -15288,6 +15416,12 @@
   "betternether:recipes/building_blocks/bn_bone_block": {
     "criteria": {
       "has_bone_block": "2025-08-07 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:06 +0000"
     },
     "done": true
   },

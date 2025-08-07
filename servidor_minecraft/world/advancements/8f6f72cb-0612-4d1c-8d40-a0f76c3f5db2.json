@@ -570,14 +570,17 @@
       "minecraft:skeleton": "2025-07-31 19:01:56 +0000",
       "minecraft:ghast": "2025-08-05 06:02:00 +0000",
       "minecraft:hoglin": "2025-08-05 06:03:04 +0000",
+      "minecraft:vindicator": "2025-08-07 04:14:02 +0000",
       "minecraft:spider": "2025-07-31 19:03:44 +0000",
       "minecraft:creeper": "2025-07-31 23:36:56 +0000",
+      "minecraft:evoker": "2025-08-07 04:17:03 +0000",
       "minecraft:phantom": "2025-08-05 04:58:39 +0000",
       "minecraft:witch": "2025-08-01 02:08:49 +0000",
       "minecraft:piglin": "2025-08-05 06:03:09 +0000",
       "minecraft:enderman": "2025-08-01 03:13:34 +0000",
       "minecraft:stray": "2025-08-05 04:56:37 +0000",
       "minecraft:silverfish": "2025-08-05 05:07:46 +0000",
+      "minecraft:vex": "2025-08-07 04:17:02 +0000",
       "minecraft:zombie": "2025-07-31 19:04:57 +0000",
       "minecraft:zombie_villager": "2025-08-01 05:18:56 +0000"
     },
@@ -14522,6 +14525,7 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
+      "killed_evoker": "2025-08-07 04:17:03 +0000",
       "killed_iceologer": "2025-08-05 05:04:53 +0000"
     },
     "done": false
@@ -15454,6 +15458,12 @@
     },
     "done": true
   },
+  "fwaystones:recipes/void_totem": {
+    "criteria": {
+      "has_totem_of_undying": "2025-08-07 04:17:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2025-08-07 03:30:05 +0000"
@@ -15493,6 +15503,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2025-08-07 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:48 +0000"
     },
     "done": true
   },
@@ -15592,6 +15608,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/gilded_glory_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:48 +0000"
+    },
+    "done": true
+  },
   "quartzelv:recipes/building_blocks/quartz_elevator": {
     "criteria": {
       "has_quartz": "2025-08-07 03:40:42 +0000"
@@ -15625,6 +15647,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-08-07 03:40:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
+    "criteria": {
+      "has_totem_of_undying": "2025-08-07 04:17:48 +0000"
     },
     "done": true
   },
@@ -15706,9 +15734,27 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/royal_guard_armor_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:48 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_wrench": {
     "criteria": {
       "has_nether_quartz": "2025-08-07 03:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-07 04:18:33 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:48 +0000"
     },
     "done": true
   },
@@ -15823,6 +15869,12 @@
   "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
     "criteria": {
       "has_nether_quartz": "2025-08-07 03:40:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:48 +0000"
     },
     "done": true
   },
@@ -15994,6 +16046,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/gilded_glory_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-08-07 03:30:05 +0000"
@@ -16036,9 +16094,21 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/poisonous_potato": {
     "criteria": {
       "has_poisonous_potato": "2025-08-07 04:03:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-08-07 04:17:48 +0000"
     },
     "done": true
   },

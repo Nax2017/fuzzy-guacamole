@@ -2329,3 +2329,56 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [04:14:56] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_07.08.2025-04.14.56.dat
 [04:14:58] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
 [04:14:59] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[04:15:37] [Server thread/INFO]: Nax_1905 was slain by Iron Golem
+[04:15:37] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_07.08.2025-04.15.37.dat
+[04:15:40] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[04:15:41] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[04:15:43] [Server thread/INFO]: ezefzc has made the advancement [World of illusion]
+[04:15:44] [Server thread/INFO]: Nax_1905 was slain by Iron Golem
+[04:15:44] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_07.08.2025-04.15.44.dat
+[04:15:44] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[04:15:46] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[04:15:47] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[04:16:51] [Server thread/INFO]: Nax_1905 was slain by Vindicator
+[04:16:51] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_07.08.2025-04.16.51.dat
+[04:16:53] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[04:16:54] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[04:17:10] [Server thread/INFO]: ezefzc has made the advancement [I was here, i lived, i..]
+[04:17:41] [Server thread/INFO]: Villager class_1646['Rashad'/37366, l='ServerLevel[world]', x=-1015.11, y=68.00, z=1114.46] died, message: 'Rashad was slain by Vindicator'
+[04:17:41] [Server thread/INFO]: Named entity class_1646['Rashad'/37366, l='ServerLevel[world]', x=-1015.11, y=68.00, z=1114.46] died: Rashad was slain by Vindicator
+[04:17:42] [Server thread/INFO]: ezefzc was shot by Pillager
+[04:17:42] [Server thread/INFO]: Created new backpack backup file for ezefzc with unique ID travelersbackpack.standard_07.08.2025-04.17.42.dat
+[04:17:46] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[04:17:48] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[04:17:51] [Server thread/INFO]: ElSantixdd was slain by Vindicator
+[04:17:51] [Server thread/INFO]: Created new backpack backup file for ElSantixdd with unique ID travelersbackpack.redstone_07.08.2025-04.17.51.dat
+[04:17:52] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of ElSantixdd accepted server config.
+[04:17:55] [Server thread/INFO]: ezefzc was slain by Vindicator
+[04:17:55] [Server thread/INFO]: Created new backpack backup file for ezefzc with unique ID travelersbackpack.standard_07.08.2025-04.17.55.dat
+[04:17:57] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to Nax_1905]
+[04:17:57] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[04:18:01] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[04:18:02] [Server thread/INFO]: Nax_1905 was slain by Ravager
+[04:18:02] [Server thread/INFO]: Created new backpack backup file for Nax_1905 with unique ID travelersbackpack.lapis_07.08.2025-04.18.02.dat
+[04:18:04] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[04:18:05] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[04:18:33] [Server thread/INFO]: Nax_1905 has completed the challenge [Hero of the Village]
+[04:18:33] [Server thread/INFO]: ezefzc has completed the challenge [Hero of the Village]
+[04:18:33] [Server thread/INFO]: ElSantixdd has completed the challenge [Hero of the Village]
+[04:18:34] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[04:18:34] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[04:19:14] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[04:19:25] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -776.500000, 74.500000, 525.500000]
+[04:19:27] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to -456.500000, 88.500000, -1063.500000]
+[04:19:45] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to ElSantixdd]
+[04:20:03] [Server thread/INFO]: ezefzc has made the advancement [Ice Bucket Challenge]
+[04:20:40] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -1097.500000, 65.500000, 1237.500000]
+[04:21:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04:21:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2612ms or 52 ticks behind
+[04:21:30] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[04:22:02] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -1254.500000, 67.500000, 1382.500000]
+[04:22:13] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -1243.500000, 81.500000, 1481.500000]
+[04:23:12] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -1286.500000, 76.500000, 1612.500000]
+[04:23:34] [Server thread/INFO]: [ElSantixdd: Teleported ElSantixdd to Nax_1905]
+[04:23:38] [Server thread/INFO]: [ezefzc: Teleported ezefzc to ElSantixdd]
+[04:24:18] [Server thread/INFO]: ElSantixdd has made the advancement [Fire Hazard]

@@ -2225,3 +2225,16 @@ BCLib - The End  BiomeSource (29dc618f)
 [03:28:45] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -459.500000, 88.500000, -1071.500000]
 [03:31:38] [Server thread/INFO]: Nax_1905 has made the advancement [The Andesite Age]
 [03:32:29] [Server thread/INFO]: ElSantixdd has made the advancement [Listen Close]
+[03:34:05] [Server thread/INFO]: ezefzc was shot by Skeleton
+[03:34:05] [Server thread/INFO]: Created new backpack backup file for ezefzc with unique ID travelersbackpack.standard_07.08.2025-03.34.05.dat
+[03:34:12] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of ezefzc accepted server config.
+[03:34:56] [Server thread/INFO]: [ezefzc: Teleported ezefzc to -456.500000, 88.500000, -1071.500000]
+[03:36:14] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to 152.500000, 69.500000, -325.500000]
+[03:37:39] [Server thread/INFO]: [Nax_1905: Teleported Nax_1905 to -459.500000, 88.500000, -1071.500000]
+[03:37:50] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nax_1905 accepted server config.
+[03:37:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
+[03:38:19] [Server thread/INFO]: [ezefzc: Teleported ezefzc to -481.500000, -31.500000, -1173.500000]
+[03:38:39] [Server thread/INFO]: [ezefzc: Teleported ezefzc to -456.500000, 88.500000, -1071.500000]
+[03:42:44] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/16799, l='ServerLevel[world]', x=-478.00, y=31.00, z=-217.00] as it would cause deadlock
+[03:42:44] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/16802, l='ServerLevel[world]', x=-478.00, y=31.00, z=-217.00] as it would cause deadlock
+[03:42:50] [Worker-Main-2/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.

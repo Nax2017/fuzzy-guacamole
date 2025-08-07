@@ -15198,6 +15198,12 @@
     },
     "done": true
   },
+  "simplyswords:icewhisper": {
+    "criteria": {
+      "requirement": "2025-08-07 03:32:29 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_bone_cudgel": {
     "criteria": {
       "has_bone_block": "2025-08-07 03:20:55 +0000"
